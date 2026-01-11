@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e78c31579e04acaa",
+        "id": "2e497fbdaf8cfc7e",
         "type": "tabs",
         "children": [
           {
-            "id": "6dc1076898bea299",
+            "id": "a046bcb9e44221eb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,8 +179,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "6dc1076898bea299",
+  "active": "139edab4ec7bebc7",
   "lastOpenFiles": [
+    "progress/branch-1-silver-core-workflows.md",
+    "Needs_Action/TASK_BuildLinkedInAutomation_2026-01-11.md",
+    "Pending_Approval/APPROVAL_EMAIL_TestClient_Welcome_2026-01-11.md",
+    "Business_Goals.md",
+    "Plans",
+    "Rejected",
+    "Approved",
+    "Pending_Approval",
+    "branches/silver.md",
+    "branches",
+    "details/skills-overview-bronze-silver.md",
+    "details",
+    "hackathon.md",
     "progress/bronze-tier-completion.md",
     "progress",
     "Done/FILE_Task1.md",
@@ -190,20 +203,13 @@
     "Needs_Action/FILE_test_task.md",
     "Needs_Action/FILE_test_task.txt",
     "Inbox/test_task.txt",
-    "test_task.txt",
     "Done/FILE_Task1_Summary.md",
     "Company_Handbook.md",
-    "Done/FILE_Task1.txt",
     "Needs_Action/FILE_Task1_Summary.md",
     "CLAUDE.md",
     "Needs_Action/FILE_Task1.md",
-    "Needs_Action/FILE_Task1.txt",
-    "Inbox/Task1.txt",
-    "Task1.txt",
-    "uv.lock",
     "README.md",
     "backend/README.md",
-    "hackathon.md",
     "Dashboard.md",
     "Untitled.md",
     "Welcome.md",
