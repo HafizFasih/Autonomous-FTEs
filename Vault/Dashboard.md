@@ -17,3 +17,13 @@
 - Created analysis document: filesystem_watcher_analysis.md
 - Moved task files to Done folder (FILE_test_task.md, FILE_test_task.txt)
 - Status: ✓ Complete
+
+### 2026-01-11 22:15:00
+**Documentation Added**: Functional Status Guide
+- Created comprehensive guide: `dev_docs/progress/FUNCTIONAL-STATUS-GUIDE.md` (700+ lines)
+- Clarifies what's functional vs. requires setup vs. documentation-only
+- Includes testing checklist, demo strategy, and production deployment path
+- Documents: ✅ Working features, ⚙️ API-dependent features, 📝 Documentation files
+- Provides capability matrix and troubleshooting guide
+- Purpose: Help judges, developers, and production users understand actual system status
+- Status: ✓ Complete
