@@ -6,12 +6,12 @@
       "env": {
         "GMAIL_CREDENTIALS": "D:/Autonomous-FTEs/credentials.json",
         "GMAIL_TOKEN": "D:/Autonomous-FTEs/token.json",
-        "VAULT_PATH": "D:/Autonomous-FTEs"
+        "VAULT_PATH": "D:/Autonomous-FTEs/Vault"
       }
     },
     "filesystem": {
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-filesystem", "D:/Autonomous-FTEs"],
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "D:/Autonomous-FTEs/Vault"],
       "env": {}
     }
   }

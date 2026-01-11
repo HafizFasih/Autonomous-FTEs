@@ -78,13 +78,13 @@
 - Long-term partners
 
 **Update VIP List:**
-- Check Business_Goals.md "Active Projects" section
+- Check `Vault/Business_Goals.md` "Active Projects" section
 - Sender domains matching active client companies
-- Individual contacts marked as VIP in Company_Handbook
+- Individual contacts marked as VIP in `Vault/Company_Handbook.md`
 
 **How to Identify VIP:**
 1. Check sender email domain against known client domains
-2. Check sender name against client list in Business_Goals.md
+2. Check sender name against client list in `Vault/Business_Goals.md`
 3. Check for previous email threads with same sender
 4. Flag as VIP if matches any of above
 
@@ -415,7 +415,7 @@ Base: 0
 ### Override Rules
 
 **Manual Overrides (Higher Priority Than Score):**
-- All emails from Business_Goals.md active clients: Minimum Normal
+- All emails from `Vault/Business_Goals.md` active clients: Minimum Normal
 - All emails with subject containing "invoice": Minimum Normal
 - All emails from unknown but with urgent keywords: Review manually
 - All first-time inquiries (potential leads): Minimum Normal
@@ -443,7 +443,7 @@ Base: 0
 ### Low Priority Workflow
 
 1. **Archive Decision:** Determine if response needed
-2. **If No Response Needed:** Move to /Done with "NO_RESPONSE" tag
+2. **If No Response Needed:** Move to `Vault/Done` with "NO_RESPONSE" tag
 3. **If Response Needed:** Create approval (72-hour expiration)
 4. **Batch Processing:** Handle multiple low-priority together
 5. **Dashboard Log:** Minimal entry
@@ -515,7 +515,7 @@ expected: Low
 
 **After Each Email:**
 - Human marks if priority was correct
-- Log corrections to /Logs/priority-feedback.log
+- Log corrections to `Vault/Logs/priority-feedback.log`
 - Quarterly review of feedback
 - Update rules accordingly
 

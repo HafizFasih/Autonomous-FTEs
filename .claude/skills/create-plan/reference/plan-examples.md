@@ -13,7 +13,7 @@ Practical examples of Plan.md files for different task types.
 created: 2026-01-11T16:00:00Z
 status: in_progress
 priority: normal
-task_source: /Needs_Action/EMAIL_ClientA_Invoice_Request.md
+task_source: Vault/Needs_Action/EMAIL_ClientA_Invoice_Request.md
 estimated_duration: 30 minutes
 ---
 
@@ -22,7 +22,7 @@ Send invoice email to Client A for January services
 
 ## Steps
 
-- [ ] **Step 1:** Locate invoice file in /Invoices folder
+- [ ] **Step 1:** Locate invoice file in Vault/Invoices folder
       Est: 2m | Depends on: none | Approval: no
 
 - [ ] **Step 2:** Verify invoice details (amount, date, services)
@@ -38,13 +38,13 @@ Send invoice email to Client A for January services
 - [ ] **Step 5:** Send email once approved
       Est: 1m | Depends on: Step 4 approved | Approval: handled in Step 4
 
-- [ ] **Step 6:** Log sent email to Dashboard
+- [ ] **Step 6:** Log sent email to Vault/Dashboard.md
       Est: 2m | Depends on: Step 5 | Approval: no
 
 ## Success Criteria
 - [ ] Email sent successfully
 - [ ] Client acknowledges receipt
-- [ ] Dashboard updated
+- [ ] Vault/Dashboard.md updated
 ```
 
 ---
@@ -56,7 +56,7 @@ Send invoice email to Client A for January services
 created: 2026-01-11T16:00:00Z
 status: pending_approval
 priority: high
-task_source: /Needs_Action/PROJECT_WebsiteRedesign.md
+task_source: Vault/Needs_Action/PROJECT_WebsiteRedesign.md
 estimated_duration: 2-3 weeks
 ---
 
@@ -117,7 +117,7 @@ and want to improve mobile experience. Budget: $5,000, Timeline: 3 weeks.
 created: 2026-01-11T16:00:00Z
 status: in_progress
 priority: low
-task_source: /Needs_Action/RESEARCH_MarketTrends.md
+task_source: Vault/Needs_Action/RESEARCH_MarketTrends.md
 estimated_duration: 3 hours
 ---
 
@@ -133,13 +133,13 @@ Research current AI automation trends and create summary report for business str
 - [ ] **Step 2:** Identify top 5 trends relevant to our services
       Est: 30m | Depends on: Step 1 | Approval: no
 
-- [ ] **Step 3:** Analyze how trends align with Business_Goals.md
+- [ ] **Step 3:** Analyze how trends align with Vault/Business_Goals.md
       Est: 30m | Depends on: Step 2 | Approval: no
 
 - [ ] **Step 4:** Draft report with findings and recommendations
       Est: 1h | Depends on: Step 3 | Approval: no
 
-- [ ] **Step 5:** Save report to /Reports folder and update Dashboard
+- [ ] **Step 5:** Save report to Vault/Reports folder and update Dashboard
       Est: 5m | Depends on: Step 4 | Approval: no
 
 ## Success Criteria
@@ -157,7 +157,7 @@ Research current AI automation trends and create summary report for business str
 created: 2026-01-11T16:00:00Z
 status: in_progress
 priority: high
-task_source: /Needs_Action/PROJECT_MarketingCampaign.md
+task_source: Vault/Needs_Action/PROJECT_MarketingCampaign.md
 estimated_duration: 2 weeks
 ---
 
@@ -230,7 +230,7 @@ priority: normal
 Update pricing page on website with new 2026 rates
 
 ## Steps
-- [ ] Review current pricing vs new rates in Business_Goals.md
+- [ ] Review current pricing vs new rates in Vault/Business_Goals.md
 - [ ] Update pricing page HTML/markdown
 - [ ] Request approval to deploy changes
 - [ ] Deploy to production once approved

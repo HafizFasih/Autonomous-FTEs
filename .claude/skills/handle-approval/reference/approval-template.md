@@ -2,7 +2,7 @@
 
 This is the standard format for all approval request files created by the AI Employee.
 
-**Usage:** Copy this template when creating new approval requests in `/Pending_Approval` folder.
+**Usage:** Copy this template when creating new approval requests in `Vault/Pending_Approval` folder.
 
 ---
 
@@ -141,18 +141,18 @@ Interested in streamlining your workflows? Let's connect!
 ## Business Alignment
 
 **Relates to Business Goal:**
-- [Reference specific goal from Business_Goals.md]
+- [Reference specific goal from Vault/Business_Goals.md]
 - [How this action supports that goal]
 
 **Budget Impact:**
 - Cost: $XXX (if applicable)
-- Budget Category: [From Business_Goals.md]
+- Budget Category: [From Vault/Business_Goals.md]
 - Within Budget: Yes/No
 
 ## Security Validation
 
 ✅ **Pre-Approval Checks Passed:**
-- [ ] Action type allowed by Company_Handbook.md
+- [ ] Action type allowed by Vault/Company_Handbook.md
 - [ ] Parameters validated against security-rules.md
 - [ ] Recipient/target verified (if applicable)
 - [ ] Amount within thresholds (if payment)
@@ -165,12 +165,12 @@ Interested in streamlining your workflows? Let's connect!
 1. Review all details carefully
 2. Verify parameters are correct (amounts, recipients, content)
 3. Check content/preview for accuracy and appropriateness
-4. **Move this file to `/Approved` folder**
+4. **Move this file to `Vault/Approved` folder**
 5. The AI will detect the approval and execute the action
 6. Execution log will be added to this file
 
 ### To Reject This Action:
-1. **Move this file to `/Rejected` folder**
+1. **Move this file to `Vault/Rejected` folder**
 2. **Add your rejection reason at the bottom** (see format below)
 3. The AI will log the rejection and archive the file
 4. No action will be taken
@@ -178,7 +178,7 @@ Interested in streamlining your workflows? Let's connect!
 ### To Modify Before Approving:
 1. Edit the parameters or content in this file directly
 2. Save changes
-3. Move to `/Approved` folder
+3. Move to `Vault/Approved` folder
 4. The AI will use your modified version
 
 ---
@@ -203,7 +203,7 @@ Interested in streamlining your workflows? Let's connect!
 
 **Logs:**
 - Dashboard Updated: [Yes/No]
-- Audit Trail: /Done/[filename]
+- Audit Trail: Vault/Done/[filename]
 
 ---
 
@@ -247,8 +247,8 @@ Send project update email to Client A
 ## Draft
 [Email content here]
 
-## To Approve: Move to /Approved
-## To Reject: Move to /Rejected and add reason below
+## To Approve: Move to Vault/Approved
+## To Reject: Move to Vault/Rejected and add reason below
 
 ---
 ## Execution Log
@@ -283,8 +283,8 @@ Pay invoice to [Vendor] for [Service]
 - [ ] Account number is correct
 - [ ] We have not already paid this invoice
 
-## To Approve: Move to /Approved (double-check everything!)
-## To Reject: Move to /Rejected
+## To Approve: Move to Vault/Approved (double-check everything!)
+## To Reject: Move to Vault/Rejected
 
 ---
 ## Execution Log
@@ -318,8 +318,8 @@ LinkedIn (public post)
 ## Preview
 [How it will appear on the platform]
 
-## To Approve: Move to /Approved
-## To Reject: Move to /Rejected
+## To Approve: Move to Vault/Approved
+## To Reject: Move to Vault/Rejected
 
 ---
 ## Execution Log
@@ -345,8 +345,8 @@ All approval requests MUST include:
    - All information needed to execute the action
 
 5. **Instructions for Human**
-   - How to approve (move to /Approved)
-   - How to reject (move to /Rejected + add reason)
+   - How to approve (move to `Vault/Approved`)
+   - How to reject (move to `Vault/Rejected` + add reason)
 
 6. **Execution Log Section**
    - Empty placeholder (filled after decision)
@@ -372,7 +372,7 @@ Include when applicable:
 - ✅ Include all parameters needed for execution
 - ✅ Show full draft/preview when applicable
 - ✅ Set realistic expiration times
-- ✅ Reference Business_Goals.md when relevant
+- ✅ Reference `Vault/Business_Goals.md` when relevant
 - ✅ Make it easy for human to approve/reject
 
 ### Don't:
@@ -395,7 +395,7 @@ Include when applicable:
 | Calendar | 24 hours | 4 hours |
 
 **After Expiration:**
-- File automatically moves to /Rejected
+- File automatically moves to `Vault/Rejected`
 - Note added: "EXPIRED - No decision made within timeframe"
 - No action is taken
 
@@ -406,26 +406,26 @@ Include when applicable:
 1. **Skill creates approval request**
    - Uses this template
    - Fills in all sections
-   - Saves to /Pending_Approval
+   - Saves to `Vault/Pending_Approval`
 
 2. **Human reviews request**
-   - Opens file in /Pending_Approval
+   - Opens file in `Vault/Pending_Approval`
    - Reviews all details
    - Makes decision
 
 3. **Human approves**
-   - Moves file to /Approved folder
+   - Moves file to `Vault/Approved` folder
    - AI detects the move
    - AI executes action
    - AI logs result to Execution Log section
-   - AI moves file to /Done
+   - AI moves file to `Vault/Done`
 
 4. **OR Human rejects**
-   - Moves file to /Rejected folder
+   - Moves file to `Vault/Rejected` folder
    - Adds rejection reason at bottom
    - AI detects the move
    - AI logs rejection
-   - AI moves file to /Done
+   - AI moves file to `Vault/Done`
    - No action taken
 
 ---
@@ -433,4 +433,4 @@ Include when applicable:
 *This template ensures consistent, complete approval requests that humans can quickly review and decide on.*
 
 *Last Updated: 2026-01-11*
-*Version: 1.0*
+*Version: 1.1 (Updated for Vault structure)*

@@ -27,14 +27,14 @@
 - Include professional greeting and closing
 - Address sender by name (use from_name from email metadata)
 - Reference specific details from original email
-- Maintain tone consistent with Company_Handbook.md
+- Maintain tone consistent with `Vault/Company_Handbook.md`
 - Be concise and actionable
 - Include clear next steps
 - Sign with appropriate signature
 
 **Personalization Variables:**
 - `{sender_name}` - Name of email sender
-- `{your_name}` - Your name from Company_Handbook
+- `{your_name}` - Your name from `Vault/Company_Handbook.md`
 - `{company_name}` - Your company name
 - `{specific_detail}` - Detail from original email
 - `{date}` - Relevant date
@@ -77,7 +77,7 @@ Best regards,
 - Keep response warm and professional
 - Provide specific details, not vague promises
 - Include clear call-to-action (schedule call, reply with preferences)
-- Reference Business_Goals.md for pricing guidance
+- Reference `Vault/Business_Goals.md` for pricing guidance
 
 ---
 
@@ -116,7 +116,7 @@ Best regards,
 - Always attach actual invoice (flag for manual attachment in approval)
 - Include clear payment instructions
 - Professional but friendly tone
-- Reference account receivable policies from Business_Goals.md
+- Reference account receivable policies from `Vault/Business_Goals.md`
 
 ---
 
@@ -197,7 +197,7 @@ Best regards,
 ```
 
 **Notes:**
-- Be transparent about status (use Dashboard.md and /Done folder for accurate info)
+- Be transparent about status (use `Vault/Dashboard.md` and `Vault/Done` folder for accurate info)
 - Use visual indicators (✓ for done, → for current, - for pending)
 - Proactively mention any delays or issues
 - Provide realistic completion dates
@@ -452,10 +452,10 @@ Best regards,
 1. **Replace all {variables}** with actual content
 2. **Personalize greeting** with sender's name
 3. **Reference specific details** from original email
-4. **Match tone** to Company_Handbook.md guidelines
+4. **Match tone** to `Vault/Company_Handbook.md` guidelines
 5. **Check for typos** and formatting
 6. **Verify signature** includes correct contact info
-7. **Add context** from Business_Goals.md if relevant
+7. **Add context** from `Vault/Business_Goals.md` if relevant
 
 **Quality Checklist:**
 - [ ] Addresses sender by name
@@ -471,7 +471,7 @@ Best regards,
 
 ## Integration with Company Voice
 
-**Refer to Company_Handbook.md for:**
+**Refer to `Vault/Company_Handbook.md` for:**
 - Preferred greeting style (Hi vs. Dear vs. Hello)
 - Signature format
 - Tone preferences (formal vs. casual)

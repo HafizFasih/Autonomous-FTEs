@@ -511,8 +511,8 @@ def main():
     parser = argparse.ArgumentParser(description='Gmail Watcher for Autonomous FTE')
     parser.add_argument(
         '--vault-path',
-        default=os.getenv('VAULT_PATH', '.'),
-        help='Path to Obsidian vault (default: current directory or VAULT_PATH env var)'
+        default=os.getenv('VAULT_PATH', 'Vault'),
+        help='Path to Obsidian vault (default: Vault directory or VAULT_PATH env var)'
     )
     parser.add_argument(
         '--credentials',

@@ -14,7 +14,7 @@ Manages the **Human-in-the-Loop (HITL)** approval workflow - the safety layer fo
 ## Core Responsibilities
 
 1. **Create Approval Requests**: Generate structured approval files for sensitive actions
-2. **Monitor Approval Status**: Check /Approved and /Rejected folders for human decisions
+2. **Monitor Approval Status**: Check `Vault/Approved` and `Vault/Rejected` folders for human decisions
 3. **Execute Approved Actions**: Safely execute actions once approved
 4. **Maintain Audit Trail**: Log all approval decisions and outcomes
 5. **Enforce Security Rules**: Ensure compliance with approval thresholds
@@ -47,12 +47,12 @@ When a skill needs approval (e.g., `process-emails`, `post-to-linkedin`):
 1. **Determine Action Type**
    - Identify category: `payment`, `email`, `social`, `file`, or `other`
    - Check [approval-thresholds.md](./reference/approval-thresholds.md) to confirm approval needed
-   - Verify action aligns with `Business_Goals.md` and `Company_Handbook.md`
+   - Verify action aligns with `Vault/Business_Goals.md` and `Vault/Company_Handbook.md`
 
 2. **Create Approval Request File**
    - Filename format: `APPROVAL_[TYPE]_[DESCRIPTION]_[DATE].md`
    - Example: `APPROVAL_EMAIL_ClientA_Invoice_2026-01-11.md`
-   - Save in `/Pending_Approval` folder
+   - Save in `Vault/Pending_Approval` folder
    - Use [approval-template.md](./reference/approval-template.md)
 
 3. **Include Critical Information**
@@ -62,10 +62,10 @@ When a skill needs approval (e.g., `process-emails`, `post-to-linkedin`):
    - **Draft/Preview**: Show what will be sent/posted
    - **Risks**: What could go wrong
    - **Expiration**: When approval expires (24-72 hours based on action type)
-   - **Instructions**: How to approve (move to /Approved) or reject (move to /Rejected)
+   - **Instructions**: How to approve (move to `Vault/Approved`) or reject (move to `Vault/Rejected`)
 
 4. **Log to Dashboard**
-   - Update `Dashboard.md` with approval request created
+   - Update `Vault/Dashboard.md` with approval request created
    - Include timestamp, action type, priority
 
 See [approval-template.md](./reference/approval-template.md) for complete format.
@@ -76,22 +76,22 @@ See [approval-template.md](./reference/approval-template.md) for complete format
 
 Run when user asks to "check approvals" or periodically:
 
-1. **Scan /Pending_Approval Folder**
+1. **Scan `Vault/Pending_Approval` Folder**
    - List all pending approval files
    - Check for expired approvals (past expiration timestamp)
    - Report summary (count by priority)
 
-2. **Check /Approved Folder**
+2. **Check `Vault/Approved` Folder**
    - Find newly approved files
    - For each: validate format, re-check parameters, proceed to execution
 
-3. **Check /Rejected Folder**
+3. **Check `Vault/Rejected` Folder**
    - Find newly rejected files
    - Read rejection reason (human adds at bottom)
-   - Log to Dashboard, move to /Done
+   - Log to Dashboard, move to `Vault/Done`
 
 4. **Handle Expired Approvals**
-   - Move to /Rejected with "EXPIRED - No decision made" note
+   - Move to `Vault/Rejected` with "EXPIRED - No decision made" note
    - Log expiration to Dashboard
 
 **Helper Script:**
@@ -103,7 +103,7 @@ python .claude/skills/handle-approval/scripts/check_approval_status.py [--json]
 
 ### Phase 3: Executing Approved Actions
 
-**CRITICAL: Only execute if file is in /Approved folder and passes validation**
+**CRITICAL: Only execute if file is in `Vault/Approved` folder and passes validation**
 
 1. **Validate Approval File**
    - Confirm proper structure and required sections
@@ -129,9 +129,9 @@ python .claude/skills/handle-approval/scripts/check_approval_status.py [--json]
    - Include timestamp, result, confirmation IDs, errors
    - Mark executed_by: "claude_code"
 
-5. **Move to /Done**
+5. **Move to `Vault/Done`**
    - Archive completed approval
-   - Update Dashboard.md
+   - Update `Vault/Dashboard.md`
 
 ---
 
@@ -147,8 +147,8 @@ python .claude/skills/handle-approval/scripts/check_approval_status.py [--json]
    - Add error to Execution Log section
    - Mark status: "failed"
 
-3. **DO NOT Move to /Done**
-   - Keep in /Pending_Approval for human review
+3. **DO NOT Move to `Vault/Done`**
+   - Keep in `Vault/Pending_Approval` for human review
    - Allows retry or rejection decision
 
 4. **Alert User**
@@ -165,19 +165,19 @@ python .claude/skills/handle-approval/scripts/check_approval_status.py [--json]
 
 ### Before Creating Approval:
 - ✅ Action not in auto-approve list
-- ✅ Aligns with Business_Goals.md
-- ✅ Follows Company_Handbook.md rules
+- ✅ Aligns with `Vault/Business_Goals.md`
+- ✅ Follows `Vault/Company_Handbook.md` rules
 - ✅ All parameters valid
 
 ### Before Executing Approval:
-- ✅ File in /Approved folder
+- ✅ File in `Vault/Approved` folder
 - ✅ Not expired
 - ✅ Parameters pass security validation
 - ✅ Action type supported
 - ✅ MCP server available
 
 ### Never Execute If:
-- ❌ File in /Pending_Approval
+- ❌ File in `Vault/Pending_Approval`
 - ❌ Approval expired
 - ❌ Parameters violate security rules
 - ❌ MCP server unavailable
@@ -229,7 +229,7 @@ python .claude/skills/handle-approval/scripts/check_approval_status.py
 python .claude/skills/handle-approval/scripts/check_approval_status.py --json
 
 # Specify vault path
-python .claude/skills/handle-approval/scripts/check_approval_status.py --vault-path /path/to/vault
+python .claude/skills/handle-approval/scripts/check_approval_status.py --vault-path Vault/
 ```
 
 **Output:**
@@ -252,8 +252,8 @@ python .claude/skills/handle-approval/scripts/check_approval_status.py --vault-p
 ```
 1. Skill determines action needs approval
 2. Calls handle-approval to create approval request
-3. handle-approval creates file in /Pending_Approval
-4. Human manually moves to /Approved or /Rejected
+3. handle-approval creates file in `Vault/Pending_Approval`
+4. Human manually moves to `Vault/Approved` or `Vault/Rejected`
 5. User invokes handle-approval to check status
 6. handle-approval executes approved actions
 ```
@@ -262,7 +262,7 @@ python .claude/skills/handle-approval/scripts/check_approval_status.py --vault-p
 
 ## Dashboard Logging
 
-All approval activity logged to Dashboard.md:
+All approval activity logged to `Vault/Dashboard.md`:
 
 ```markdown
 ### [Timestamp] - Approval Activity
@@ -271,7 +271,7 @@ All approval activity logged to Dashboard.md:
 - Type: [email/payment/social/file]
 - Action: [Description]
 - Status: Pending Approval
-- File: /Pending_Approval/[filename]
+- File: Vault/Pending_Approval/[filename]
 
 **Approval Executed:**
 - Type: [email/payment/social/file]
@@ -305,7 +305,7 @@ This skill works correctly when:
 See [troubleshooting.md](./reference/troubleshooting.md) for complete guide.
 
 **Quick fixes:**
-- **Action not executing**: Verify file in /Approved (not /Pending_Approval)
+- **Action not executing**: Verify file in `Vault/Approved` (not `Vault/Pending_Approval`)
 - **MCP server error**: Check server running and authenticated
 - **Expired prematurely**: Verify timestamps in UTC (ISO 8601 with Z)
 - **Can't find approvals**: Check filename matches `APPROVAL_*.md` pattern
@@ -313,6 +313,6 @@ See [troubleshooting.md](./reference/troubleshooting.md) for complete guide.
 
 ---
 
-*Skill Version: 2.0 (Refactored for clarity)*
+*Skill Version: 2.1 (Updated for Vault structure)*
 *Last Updated: 2026-01-11*
 *Branch: feat/silver-core-workflows*

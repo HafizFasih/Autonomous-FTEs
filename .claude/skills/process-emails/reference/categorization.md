@@ -44,7 +44,7 @@
 - Invoice request response
 
 **Identification:**
-- Check sender against Business_Goals.md active clients
+- Check sender against Vault/Business_Goals.md active clients
 - Look for project names in subject/body
 - Check for previous email threads
 
@@ -140,7 +140,7 @@
 
 **Response Priority:** Low (typically no response needed)
 
-**Action:** Archive to /Done without response
+**Action:** Archive to Vault/Done without response
 
 **Identification:**
 - Sender: noreply@, marketing@, newsletter@
@@ -162,7 +162,7 @@ START: Received Email
 │  │  └─ Newsletter, promo → Spam/Low Priority
 │  └─ NO → Continue
 │
-├─ Is sender in known client list (Business_Goals.md)?
+├─ Is sender in known client list (Vault/Business_Goals.md)?
 │  ├─ YES → Client Communications
 │  └─ NO → Continue
 │
@@ -191,7 +191,7 @@ END: Category Assigned
 
 ### Client Domains
 
-**Source:** Business_Goals.md "Active Projects" section
+**Source:** Vault/Business_Goals.md "Active Projects" section
 
 **How to Check:**
 1. Extract sender email domain (e.g., @company.com)
@@ -200,7 +200,7 @@ END: Category Assigned
 4. If match → Client Communications
 
 **Example:**
-- If Business_Goals.md lists "Project Alpha - Client ABC Corp"
+- If Vault/Business_Goals.md lists "Project Alpha - Client ABC Corp"
 - Email from john@abccorp.com → Client Communications
 
 **Update Frequency:** Weekly (as new clients onboard)
@@ -417,7 +417,7 @@ END: Category Assigned
 
 **Active Client:**
 - Currently working on project together
-- Listed in Business_Goals.md active projects
+- Listed in Vault/Business_Goals.md active projects
 - Regular communication pattern
 - → Category: Client Communications
 
@@ -453,14 +453,14 @@ END: Category Assigned
 ### Relationship Determination Process
 
 1. **Check Email History:**
-   - Search /Done folder for previous emails from sender
+   - Search Vault/Done folder for previous emails from sender
    - If found, use same category unless context changed
 
-2. **Check Business_Goals.md:**
+2. **Check Vault/Business_Goals.md:**
    - Match sender to active projects
    - Match to client list if maintained
 
-3. **Check Company_Handbook.md:**
+3. **Check Vault/Company_Handbook.md:**
    - Any defined client/partner lists
    - VIP contacts
 
@@ -490,7 +490,7 @@ END: Category Assigned
 **Pattern:** Subject starts with "Re:"
 
 **Categorization:**
-- Find original email in /Done
+- Find original email in Vault/Done
 - Use same category as original
 - Maintains conversation continuity
 
@@ -607,7 +607,7 @@ END: Category Assigned
 | Sales/Leads | Draft response | Yes (All) |
 | Administrative | Draft response or Archive | Yes (if response) |
 | Internal Team | Draft response | Yes (All) |
-| Spam/Low Priority | Archive to /Done | No |
+| Spam/Low Priority | Archive to Vault/Done | No |
 
 ---
 

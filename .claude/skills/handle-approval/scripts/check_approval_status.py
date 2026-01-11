@@ -259,9 +259,9 @@ def main():
         vault_path = Path(args.vault_path)
     else:
         # Assume script is in .claude/skills/handle-approval/scripts/
-        # So vault is 4 levels up
+        # So vault is 4 levels up + Vault directory
         script_dir = Path(__file__).parent
-        vault_path = script_dir.parent.parent.parent.parent
+        vault_path = script_dir.parent.parent.parent.parent / 'Vault'
 
     if not vault_path.exists():
         print(f"Error: Vault path does not exist: {vault_path}", file=sys.stderr)

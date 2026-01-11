@@ -10,10 +10,10 @@ allowed-tools: [Read, Write, Edit, Grep, Glob, Bash]
 **Purpose:** Automatically process emails detected by Gmail Watcher, categorize them by priority, draft appropriate responses, and manage approval workflow for sending replies.
 
 **Dependencies:**
-- Gmail Watcher (creates EMAIL_*.md files in /Needs_Action)
+- Gmail Watcher (creates EMAIL_*.md files in `Vault/Needs_Action`)
 - handle-approval skill (for sending email responses)
 - Email MCP Server (for actual email sending)
-- Company_Handbook.md (for response guidelines)
+- `Vault/Company_Handbook.md` (for response guidelines)
 
 **Trigger Phrases:**
 - "process emails"
@@ -30,7 +30,7 @@ allowed-tools: [Read, Write, Edit, Grep, Glob, Bash]
 
 This skill implements a complete email processing workflow:
 
-1. **Detection:** Scan /Needs_Action for EMAIL_* files created by Gmail Watcher
+1. **Detection:** Scan `Vault/Needs_Action` for EMAIL_* files created by Gmail Watcher
 2. **Analysis:** Extract and categorize email metadata
 3. **Prioritization:** Classify emails as urgent/normal/low priority
 4. **Response:** Draft appropriate replies using templates
@@ -43,10 +43,10 @@ This skill implements a complete email processing workflow:
 
 ### Phase 1: Scan for New Emails
 
-**Objective:** Identify unprocessed email files in the Needs_Action folder.
+**Objective:** Identify unprocessed email files in the `Vault/Needs_Action` folder.
 
 **Steps:**
-1. Use Glob tool to find all EMAIL_*.md files in /Needs_Action
+1. Use Glob tool to find all EMAIL_*.md files in `Vault/Needs_Action`
 2. Filter out files already processed (check Dashboard log)
 3. Sort by priority metadata if available
 4. Process in order: urgent → normal → low
@@ -118,8 +118,8 @@ This skill implements a complete email processing workflow:
 3. Personalize template with:
    - Sender name
    - Specific details from original email
-   - Company_Handbook.md tone and style
-   - Business_Goals.md context (if relevant)
+   - `Vault/Company_Handbook.md` tone and style
+   - `Vault/Business_Goals.md` context (if relevant)
 4. Draft response following professional standards
 
 **Quality Checks:**
@@ -145,7 +145,7 @@ This skill implements a complete email processing workflow:
 
 **Create Approval File:**
 1. Use approval-template from handle-approval skill
-2. Create file: `/Pending_Approval/EMAIL_[recipient-name]_[date].md`
+2. Create file: `Vault/Pending_Approval/EMAIL_[recipient-name]_[date].md`
 3. Include:
    ```yaml
    ---
@@ -177,20 +177,20 @@ This skill implements a complete email processing workflow:
 - Log with high priority in Dashboard
 
 **Spam/Low Priority:**
-- Move directly to /Done with "SPAM" or "LOW_PRIORITY" tag
+- Move directly to `Vault/Done` with "SPAM" or "LOW_PRIORITY" tag
 - No response needed
 - Log in Dashboard as filtered
 
 **Automated Notifications:**
 - Service alerts, newsletters, automated receipts
-- Archive to /Done with "AUTO_NOTIFICATION" tag
+- Archive to `Vault/Done` with "AUTO_NOTIFICATION" tag
 - No action required
 - Brief log entry in Dashboard
 
 **Errors/Parsing Issues:**
 - If email file is malformed or unreadable
-- Create error log in /Logs
-- Move problematic file to /Needs_Action/ERROR_*
+- Create error log in `Vault/Logs`
+- Move problematic file to `Vault/Needs_Action/ERROR_*`
 - Alert in Dashboard for manual review
 
 ---
@@ -216,10 +216,10 @@ This skill implements a complete email processing workflow:
 ```
 
 **Dashboard Update:**
-1. Read current Dashboard.md
+1. Read current `Vault/Dashboard.md`
 2. Append new entry under "Recent Activity" section
 3. Update email processing statistics if tracked
-4. Save Dashboard.md
+4. Save `Vault/Dashboard.md`
 
 ---
 
@@ -283,7 +283,7 @@ Multiple paragraphs preserved.
 - Do not stop workflow
 
 **Malformed Email File:**
-- Move to /Needs_Action/ERROR_EMAIL_[filename]
+- Move to `Vault/Needs_Action/ERROR_EMAIL_[filename]`
 - Log to Dashboard with error details
 - Create manual review task
 
@@ -293,7 +293,7 @@ Multiple paragraphs preserved.
 - Email still gets processed
 
 **Approval Creation Fails:**
-- Log error to /Logs
+- Log error to `Vault/Logs`
 - Do not send email (safety first)
 - Alert in Dashboard for manual intervention
 
@@ -326,7 +326,7 @@ Multiple paragraphs preserved.
 ## Testing & Validation
 
 **Test with Dummy Email:**
-1. Create test email file in /Needs_Action
+1. Create test email file in `Vault/Needs_Action`
 2. Run skill with `/process-emails`
 3. Verify categorization is correct
 4. Check response draft quality
@@ -390,7 +390,7 @@ This skill uses progressive disclosure. Load these files on-demand:
 ## Success Criteria
 
 ✅ **Skill Working If:**
-- Detects EMAIL_* files in /Needs_Action
+- Detects EMAIL_* files in `Vault/Needs_Action`
 - Correctly categorizes email priority
 - Drafts professional, relevant responses
 - Creates approval requests for all sends
@@ -403,7 +403,7 @@ This skill uses progressive disclosure. Load these files on-demand:
 
 **Skill doesn't activate:**
 - Check trigger phrases in description
-- Verify EMAIL_* files exist in /Needs_Action
+- Verify EMAIL_* files exist in `Vault/Needs_Action`
 - Try explicit invocation: `/process-emails`
 
 **Wrong email category:**
@@ -418,7 +418,7 @@ This skill uses progressive disclosure. Load these files on-demand:
 
 **Approval not created:**
 - Verify handle-approval skill is available
-- Check /Pending_Approval folder exists
+- Check `Vault/Pending_Approval` folder exists
 - Review error logs in Dashboard
 
 ---

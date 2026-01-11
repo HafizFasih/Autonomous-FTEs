@@ -13,19 +13,19 @@ This skill automates the processing of tasks dropped into the Needs_Action folde
 When this skill is invoked, follow these steps:
 
 ### 1. Check for Tasks
-- List all files in the `Needs_Action/` folder
+- List all files in the `Vault/Needs_Action/` folder
 - If the folder is empty, report "No tasks pending" and stop
 - If there are files, proceed to process each one
 
 ### 2. Process Each Task
-For each file in Needs_Action:
+For each file in `Vault/Needs_Action`:
 
 a. **Read the file content**
    - Read both the metadata (.md file) and any associated content files
    - Understand what task is being requested
 
 b. **Follow Company Rules**
-   - Read and follow all rules in `Company_Handbook.md`
+   - Read and follow all rules in `Vault/Company_Handbook.md`
    - Always be polite
    - Always add timestamps when updating files
 
@@ -35,11 +35,11 @@ c. **Complete the Task**
    - If unclear about the task, ask for clarification
 
 d. **Move to Done**
-   - Move the processed file(s) to the `Done/` folder
+   - Move the processed file(s) to the `Vault/Done/` folder
    - Keep the original filename
 
 ### 3. Update Dashboard
-After processing all tasks, update `Dashboard.md`:
+After processing all tasks, update `Vault/Dashboard.md`:
 
 - Add a new entry under the Activity Log section
 - Use this format:
@@ -60,7 +60,7 @@ After all tasks are processed, provide a summary:
 
 ## Rules to Follow
 1. Always be polite in any communication or output
-2. Always add timestamps when updating Dashboard.md
+2. Always add timestamps when updating `Vault/Dashboard.md`
 3. Preserve file metadata when moving files
 4. If a task is unclear, ask before proceeding
 5. Log every action taken
@@ -76,8 +76,8 @@ This skill automatically activates when the user says:
 - "Handle my Needs_Action items"
 
 When activated, the skill will:
-1. Check Needs_Action folder
+1. Check `Vault/Needs_Action` folder
 2. Find and process all pending tasks
-3. Move completed files to Done
-4. Update Dashboard with timestamped log
+3. Move completed files to `Vault/Done`
+4. Update `Vault/Dashboard.md` with timestamped log
 5. Report what was accomplished
