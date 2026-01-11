@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "email": {
+      "command": "node",
+      "args": ["D:/Autonomous-FTEs/mcp-servers/email-server/index.js"],
+      "env": {
+        "GMAIL_CREDENTIALS": "D:/Autonomous-FTEs/credentials.json",
+        "GMAIL_TOKEN": "D:/Autonomous-FTEs/token.json",
+        "VAULT_PATH": "D:/Autonomous-FTEs"
+      }
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "D:/Autonomous-FTEs"],
+      "env": {}
+    }
+  }
+}
