@@ -1,0 +1,9 @@
+2026-01-11 21:36:01,370 - INFO - Parsed approval file: APPROVAL_LINKEDIN_TestProjectMilestone_2026-01-11.md
+2026-01-11 21:36:01,371 - INFO - Post length: 968 characters
+2026-01-11 21:36:01,371 - INFO - Processing approval file: APPROVAL_LINKEDIN_TestProjectMilestone_2026-01-11.md
+2026-01-11 21:36:01,371 - INFO - Action type: social_media_post
+2026-01-11 21:36:01,371 - INFO - Platform: linkedin
+2026-01-11 21:36:01,371 - INFO - Post content validation passed
+2026-01-11 21:36:01,372 - INFO - DRY RUN MODE - Post would be published:
+2026-01-11 21:36:01,372 - INFO - ------------------------------------------------------------
+2026-01-11 21:36:01,384 - INFO - ------------------------------------------------------------
