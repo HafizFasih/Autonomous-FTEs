@@ -45,7 +45,7 @@ Generates structured **Plan.md** files for complex tasks requiring multi-step re
 ### Phase 1: Task Analysis
 
 1. **Read Source Task**
-   - Locate task file in /Needs_Action
+   - Locate task file in `Vault/Needs_Action`
    - Read full description and context
    - Identify task type and desired outcome
 
@@ -56,8 +56,8 @@ Generates structured **Plan.md** files for complex tasks requiring multi-step re
    - What resources are available?
 
 3. **Check Business Context**
-   - Read `Business_Goals.md` for alignment
-   - Read `Company_Handbook.md` for guidelines
+   - Read `Vault/Business_Goals.md` for alignment
+   - Read `Vault/Company_Handbook.md` for guidelines
    - Verify task supports business objectives
 
 4. **Assess Complexity**
@@ -119,7 +119,7 @@ See [best practices](./reference/best-practices.md) for detailed guidance.
    - Keep filename descriptive but < 80 characters
 
 2. **Create Plan File**
-   - Save to `/Plans` folder
+   - Save to `Vault/Plans` folder
    - Use [standard template](./reference/plan-template.md)
    - Include all required sections with proper markdown
 
@@ -169,8 +169,8 @@ See [best practices](./reference/best-practices.md) for detailed guidance.
    - **Low**: Nice to have, no deadline
 
 4. **Save & Update Dashboard**
-   - Save plan to `/Plans` folder
-   - Log creation to Dashboard.md with timestamp, task name, priority
+   - Save plan to `Vault/Plans` folder
+   - Log creation to `Vault/Dashboard.md` with timestamp, task name, priority
    - Provide summary to user (steps, approvals, duration)
 
 ---
@@ -186,7 +186,7 @@ Use the [full template](./reference/plan-template.md) for complete details.
 created: [timestamp]
 status: pending_approval | in_progress | completed | blocked
 priority: low | normal | high | urgent
-task_source: /Needs_Action/[source-file].md
+task_source: Vault/Needs_Action/[source-file].md
 estimated_duration: [e.g., "30 minutes", "3 hours"]
 ---
 
@@ -224,7 +224,7 @@ estimated_duration: [e.g., "30 minutes", "3 hours"]
 2. `process-tasks` reads and executes steps
 3. `handle-approval` manages approval for flagged steps
 4. Action skills (`process-emails`, `post-to-linkedin`) execute specific actions
-5. Completed plans move to `/Done`
+5. Completed plans move to `Vault/Done`
 
 ---
 
@@ -259,7 +259,7 @@ estimated_duration: [e.g., "30 minutes", "3 hours"]
 ### [Timestamp] - Plan Created
 
 **Plan:** [Task name]
-- File: /Plans/PLAN_[name]_[date].md
+- File: Vault/Plans/PLAN_[name]_[date].md
 - Priority: [priority]
 - Total Steps: [number]
 - Requires Approval: [yes/no, which steps]
@@ -283,6 +283,6 @@ This skill works correctly when:
 
 ---
 
-*Skill Version: 2.0 (Refactored for clarity)*
+*Skill Version: 2.1 (Updated for Vault structure)*
 *Last Updated: 2026-01-11*
 *Branch: feat/silver-core-workflows*

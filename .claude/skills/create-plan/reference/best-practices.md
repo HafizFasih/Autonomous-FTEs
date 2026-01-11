@@ -145,7 +145,7 @@ Guidelines for creating effective, actionable plans.
 - [ ] Email sent successfully (confirmation received)
 - [ ] No typos or errors in final document
 - [ ] Client acknowledges receipt within 24 hours
-- [ ] Dashboard.md updated with completion log
+- [ ] Vault/Dashboard.md updated with completion log
 ```
 
 ✅ **Quality-focused:**
@@ -254,19 +254,19 @@ Guidelines for creating effective, actionable plans.
 ### completed
 - All steps finished
 - All success criteria met
-- Ready to move to /Done
+- Ready to move to `Vault/Done`
 
 ---
 
 ## Dashboard Logging
 
-Always log plan creation to Dashboard.md:
+Always log plan creation to Vault/Dashboard.md:
 
 ```markdown
 ### [Timestamp] - Plan Created
 
 **Plan:** [Task name]
-- File: /Plans/PLAN_[name]_[date].md
+- File: Vault/Plans/PLAN_[name]_[date].md
 - Priority: [priority level]
 - Total Steps: [number]
 - Requires Approval: [yes/no, which steps]
@@ -285,8 +285,8 @@ Always log plan creation to Dashboard.md:
 2. process-tasks reads plan and executes steps
 3. handle-approval manages steps requiring approval
 4. Specific skills (process-emails, post-to-linkedin) execute actions
-5. Dashboard.md logs all activity
-6. Completed plans move to /Done
+5. Vault/Dashboard.md logs all activity
+6. Completed plans move to Vault/Done
 ```
 
 ### Plan Execution Workflow:
@@ -294,7 +294,7 @@ Always log plan creation to Dashboard.md:
 ```
 Task arrives
   → create-plan analyzes
-  → Generates Plan.md in /Plans
+  → Generates Plan.md in Vault/Plans
   → process-tasks reads plan
   → Executes Step 1
   → Step 2 needs approval
@@ -302,7 +302,7 @@ Task arrives
   → Human approves
   → process-tasks continues
   → All steps complete
-  → Plan moved to /Done
+  → Plan moved to Vault/Done
 ```
 
 ---
@@ -326,13 +326,13 @@ Task arrives
 - Use underscores, not spaces
 
 ### Folder Location:
-- Always save to `/Plans` folder
-- Completed plans move to `/Done`
-- Active plans stay in `/Plans`
+- Always save to `Vault/Plans` folder
+- Completed plans move to `Vault/Done`
+- Active plans stay in `Vault/Plans`
 
 ---
 
 *Following these practices ensures plans are clear, actionable, and successfully executable.*
 
 *Last Updated: 2026-01-11*
-*Version: 1.0*
+*Version: 1.1 (Updated for Vault structure)*

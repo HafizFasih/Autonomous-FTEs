@@ -11,18 +11,18 @@ Common issues and solutions for the handle-approval skill.
 ### Issue 1: Approval File Created But Action Not Executing
 
 **Symptoms:**
-- File exists in /Pending_Approval
+- File exists in Vault/Pending_Approval
 - Approval script shows it as pending
 - Action never executes
 
 **Causes:**
-- File is still in /Pending_Approval (not moved to /Approved)
+- File is still in Vault/Pending_Approval (not moved to Vault/Approved)
 - File was moved to wrong folder
 - File permissions issue
 
 **Solution:**
-1. Verify file is in /Approved folder (not /Pending_Approval)
-2. Check file hasn't been accidentally moved to /Rejected
+1. Verify file is in Vault/Approved folder (not Vault/Pending_Approval)
+2. Check file hasn't been accidentally moved to Vault/Rejected
 3. Ensure filename hasn't changed during move
 4. Check file permissions are readable
 
@@ -36,7 +36,7 @@ Common issues and solutions for the handle-approval skill.
 ### Issue 2: Execution Fails with "MCP Server Not Found"
 
 **Symptoms:**
-- Approval is in /Approved folder
+- Approval is in Vault/Approved folder
 - Error message mentions MCP server
 - Action fails to execute
 
@@ -65,7 +65,7 @@ Common issues and solutions for the handle-approval skill.
 **Symptoms:**
 - Approval shows as expired
 - Less than expiration time has passed
-- Moved to /Rejected with "EXPIRED" note
+- Moved to Vault/Rejected with "EXPIRED" note
 
 **Causes:**
 - Timezone mismatch (UTC vs local time)
@@ -94,14 +94,14 @@ Common issues and solutions for the handle-approval skill.
 - Approvals seem to disappear
 
 **Causes:**
-- File not in /Pending_Approval folder
+- File not in Vault/Pending_Approval folder
 - Filename doesn't match APPROVAL_*.md pattern
 - File was moved/deleted accidentally
 - Working in wrong vault directory
 
 **Solution:**
 1. Verify current working directory: `pwd`
-2. List files manually: `ls -la Pending_Approval/`
+2. List files manually: `ls -la Vault/Pending_Approval/`
 3. Check if file matches naming pattern: `APPROVAL_[TYPE]_[DESC]_[DATE].md`
 4. Search entire vault: `find . -name "APPROVAL_*.md"`
 5. Check git history if file was deleted
@@ -177,10 +177,10 @@ Common issues and solutions for the handle-approval skill.
 - Error in skill logic didn't check for existing approvals
 
 **Solution:**
-1. List all approvals: `ls -la Pending_Approval/APPROVAL_*`
+1. List all approvals: `ls -la Vault/Pending_Approval/APPROVAL_*`
 2. Identify duplicates (same action, similar timestamps)
 3. Keep most recent approval file
-4. Move older duplicates to /Rejected with note "DUPLICATE"
+4. Move older duplicates to Vault/Rejected with note "DUPLICATE"
 
 **Prevention:**
 - Check for existing approval before creating new one
@@ -206,11 +206,11 @@ Common issues and solutions for the handle-approval skill.
 1. STOP immediately - don't let action complete if possible
 2. Check Execution Log section of approval file
 3. Compare original parameters to executed parameters
-4. Review Dashboard.md for what actually happened
+4. Review Vault/Dashboard.md for what actually happened
 5. If sent incorrectly, send correction/apology immediately
 
 **Prevention:**
-- Never modify approval files in /Approved folder
+- Never modify approval files in Vault/Approved folder
 - If changes needed, reject and create new approval
 - Implement parameter validation before execution
 - Log all parameter values before execution
@@ -232,13 +232,13 @@ Common issues and solutions for the handle-approval skill.
 
 **Solution:**
 1. Kill script: `Ctrl+C` or `pkill -f check_approval_status`
-2. Check approval file count: `ls -1 Pending_Approval/ | wc -l`
+2. Check approval file count: `ls -1 Vault/Pending_Approval/ | wc -l`
 3. Find problematic file: Test files individually
 4. Move problematic files aside temporarily
 5. Run script with `--json` flag (faster parsing)
 
 **Prevention:**
-- Archive old approvals regularly (move completed to /Done)
+- Archive old approvals regularly (move completed to Vault/Done)
 - Limit approval folder size (<100 files)
 - Implement file count warning in script
 
@@ -258,9 +258,9 @@ Common issues and solutions for the handle-approval skill.
 - Vault on network drive with restrictions
 
 **Solution:**
-1. Check file ownership: `ls -l Pending_Approval/`
-2. Fix permissions: `chmod 644 Pending_Approval/*.md`
-3. Fix folder permissions: `chmod 755 Pending_Approval/`
+1. Check file ownership: `ls -l Vault/Pending_Approval/`
+2. Fix permissions: `chmod 644 Vault/Pending_Approval/*.md`
+3. Fix folder permissions: `chmod 755 Vault/Pending_Approval/`
 4. Verify running as correct user: `whoami`
 5. If on network drive, move vault to local disk
 
@@ -276,13 +276,13 @@ Common issues and solutions for the handle-approval skill.
 ### Step 1: Gather Information
 ```bash
 # Check approval folder contents
-ls -la Pending_Approval/ Approved/ Rejected/
+ls -la Vault/Pending_Approval/ Vault/Approved/ Vault/Rejected/
 
 # Run status script with JSON output
 python .claude/skills/handle-approval/scripts/check_approval_status.py --json
 
 # Check Dashboard for recent activity
-tail -20 Dashboard.md
+tail -20 Vault/Dashboard.md
 
 # Check git status
 git status
@@ -291,25 +291,25 @@ git status
 ### Step 2: Verify File Format
 ```bash
 # Read approval file
-cat Pending_Approval/APPROVAL_*.md
+cat Vault/Pending_Approval/APPROVAL_*.md
 
 # Check YAML frontmatter
-head -10 Pending_Approval/APPROVAL_*.md
+head -10 Vault/Pending_Approval/APPROVAL_*.md
 
 # Verify filename pattern
-basename Pending_Approval/APPROVAL_*.md
+basename Vault/Pending_Approval/APPROVAL_*.md
 ```
 
 ### Step 3: Test Execution Path
 ```bash
 # Move test approval to Approved
-cp Pending_Approval/APPROVAL_TEST.md Approved/
+cp Vault/Pending_Approval/APPROVAL_TEST.md Vault/Approved/
 
 # Try to process it (dry-run)
 # [Use skill in dry-run mode if available]
 
 # Check logs
-tail -f Dashboard.md
+tail -f Vault/Dashboard.md
 ```
 
 ### Step 4: Check External Dependencies
@@ -368,7 +368,7 @@ If you've tried troubleshooting and still have issues:
    - Error messages (full text)
    - Approval file content
    - check_approval_status.py output
-   - Dashboard.md recent entries
+   - Vault/Dashboard.md recent entries
    - System environment (OS, Python version)
 
 2. **Document what you tried:**
@@ -387,14 +387,14 @@ If you've tried troubleshooting and still have issues:
 
 ### Daily:
 - Check pending approvals don't exceed 10
-- Verify no expired approvals stuck in /Pending_Approval
-- Ensure /Done folder isn't growing too large (archive monthly)
+- Verify no expired approvals stuck in Vault/Pending_Approval
+- Ensure Vault/Done folder isn't growing too large (archive monthly)
 
 ### Weekly:
 - Review approval patterns (are too many being rejected?)
 - Check MCP server health
 - Verify API credentials haven't expired
-- Archive completed approvals from /Done to yearly folder
+- Archive completed approvals from Vault/Done to yearly folder
 
 ### Monthly:
 - Review approval-thresholds.md (adjust if needed)
@@ -407,4 +407,4 @@ If you've tried troubleshooting and still have issues:
 *Following this guide helps resolve most approval workflow issues quickly.*
 
 *Last Updated: 2026-01-11*
-*Version: 1.0*
+*Version: 1.1 (Updated for Vault structure)*

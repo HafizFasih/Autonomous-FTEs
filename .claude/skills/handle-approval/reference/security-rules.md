@@ -87,7 +87,7 @@ All these checks must pass before creating an approval file:
    ```
    ✅ Action is defined in approval-thresholds.md
    ✅ Action is not in "never auto-approve" list
-   ✅ Action aligns with Company_Handbook.md policies
+   ✅ Action aligns with Vault/Company_Handbook.md policies
    ```
 
 2. **Parameter Validation**
@@ -100,7 +100,7 @@ All these checks must pass before creating an approval file:
 
 3. **Business Rules Validation**
    ```
-   ✅ Action supports goals in Business_Goals.md
+   ✅ Action supports goals in Vault/Business_Goals.md
    ✅ Within budget constraints (if financial)
    ✅ Within rate limits (if API call)
    ✅ Appropriate timing (business hours for client communications)
@@ -124,7 +124,7 @@ All these checks must pass before execution:
 
 1. **Approval File Validation**
    ```
-   ✅ File is in /Approved folder (not /Pending_Approval)
+   ✅ File is in Vault/Approved folder (not Vault/Pending_Approval)
    ✅ File has proper YAML frontmatter
    ✅ Required sections are present and complete
    ✅ Approval has not expired
@@ -149,11 +149,11 @@ All these checks must pass before execution:
 4. **Double-Check for Duplicates**
    ```
    ✅ This exact action hasn't been executed already
-   ✅ No duplicate approval files in /Approved
-   ✅ Check /Done for recent identical actions
+   ✅ No duplicate approval files in Vault/Approved
+   ✅ Check Vault/Done for recent identical actions
    ```
 
-**If ANY check fails:** Do NOT execute. Move file back to /Pending_Approval with error note.
+**If ANY check fails:** Do NOT execute. Move file back to `Vault/Pending_Approval` with error note.
 
 ---
 
@@ -183,7 +183,7 @@ If priority is marked "urgent":
 ### After Expiration
 
 When approval expires:
-1. File automatically moved to /Rejected
+1. File automatically moved to `Vault/Rejected`
 2. Note added: "EXPIRED - No decision made within [X] hours"
 3. Dashboard updated with expired approval
 4. No action taken (safety default)
@@ -280,7 +280,7 @@ def validate_social_content(content):
 **Brand Safety:**
 - ❌ Block posts with profanity, political content, controversial topics
 - ⚠️ Warn if post is negative or complaining
-- ✅ Ensure posts align with brand voice in Company_Handbook.md
+- ✅ Ensure posts align with brand voice in `Vault/Company_Handbook.md`
 - ✅ Verify hashtags are appropriate and professional
 
 **Timing:**
@@ -321,7 +321,7 @@ def validate_file_delete(filepath):
 
 **Modify Operations:**
 - Modifying critical files: always requires approval
-- Modifying in /Done folder: requires approval (archive should be immutable)
+- Modifying in `Vault/Done` folder: requires approval (archive should be immutable)
 - Modifying user-created content: can auto-approve
 
 ---
@@ -379,9 +379,9 @@ Every action must be logged with:
 
 ### Log Retention
 
-- **Approval requests:** Keep all in /Done folder (indefinite)
-- **Execution logs:** Keep in Dashboard.md (indefinite)
-- **Audit JSON:** Keep for minimum 90 days in /Logs folder
+- **Approval requests:** Keep all in `Vault/Done` folder (indefinite)
+- **Execution logs:** Keep in `Vault/Dashboard.md` (indefinite)
+- **Audit JSON:** Keep for minimum 90 days in `Vault/Logs` folder
 
 ### Monthly Security Audit
 
@@ -400,8 +400,8 @@ Review each month:
 
 1. **Immediate Actions:**
    - Stop all automation immediately
-   - Review /Done folder for unauthorized actions
-   - Check Dashboard.md for suspicious activity
+   - Review `Vault/Done` folder for unauthorized actions
+   - Check `Vault/Dashboard.md` for suspicious activity
    - Verify MCP server connections
 
 2. **Investigation:**
@@ -453,7 +453,7 @@ Review each month:
 - User can reject any approval at any time
 - User can modify approval parameters before approving
 - User can revoke approvals after the fact (via audit review)
-- User can disable specific action types in Company_Handbook.md
+- User can disable specific action types in `Vault/Company_Handbook.md`
 
 ---
 

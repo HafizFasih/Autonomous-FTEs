@@ -8,14 +8,14 @@ This is the standard template for all Plan.md files created by the **create-plan
 
 ## Template
 
-Copy this template when creating new plans in `/Plans` folder:
+Copy this template when creating new plans in `Vault/Plans` folder:
 
 ```markdown
 ---
 created: [YYYY-MM-DDTHH:MM:SSZ]
 status: pending_approval | in_progress | completed | blocked
 priority: low | normal | high | urgent
-task_source: /Needs_Action/[source-file].md
+task_source: Vault/Needs_Action/[source-file].md
 estimated_duration: [e.g., "30 minutes", "3 hours", "2 days"]
 assigned_to: claude_code
 ---
@@ -34,7 +34,7 @@ assigned_to: claude_code
 
 **Include:**
 - Who initiated this task
-- Business goal it supports (reference Business_Goals.md if applicable)
+- Business goal it supports (reference Vault/Business_Goals.md if applicable)
 - Any constraints (budget, timeline, resources)
 - Related previous work or context
 
@@ -138,8 +138,8 @@ Task is considered complete when ALL of these criteria are met:
 - [ ] Email sent successfully (confirmation received)
 - [ ] No typos or errors in final document
 - [ ] Client acknowledges receipt
-- [ ] Dashboard.md updated with completion
-- [ ] All files moved to /Done folder
+- [ ] Vault/Dashboard.md updated with completion
+- [ ] All files moved to Vault/Done folder
 
 ---
 
@@ -164,9 +164,9 @@ Task is considered complete when ALL of these criteria are met:
 [List all files, tools, templates, information needed]
 
 **Files:**
-- /Templates/proposal-template.md
-- /Pricing/standard-rates.md
-- /Client_History/ClientA_previous_work.md
+- Vault/Templates/proposal-template.md
+- Vault/Pricing/standard-rates.md
+- Vault/Client_History/ClientA_previous_work.md
 
 **Tools:**
 - Email MCP server (for sending)
@@ -197,7 +197,7 @@ Task is considered complete when ALL of these criteria are met:
 - **[YYYY-MM-DD HH:MM]** Step 5 approval requested - [approval file location]
 - **[YYYY-MM-DD HH:MM]** Step 5 approved - [proceeding with execution]
 - **[YYYY-MM-DD HH:MM]** All steps completed successfully
-- **[YYYY-MM-DD HH:MM]** Plan archived to /Done
+- **[YYYY-MM-DD HH:MM]** Plan archived to Vault/Done
 
 **Issues Encountered:**
 - [List any problems that came up and how they were resolved]
@@ -218,7 +218,7 @@ Task is considered complete when ALL of these criteria are met:
 - [What went well, what could be improved for next time]
 
 **References:**
-- Related plans: /Plans/PLAN_[related-task].md
+- Related plans: Vault/Plans/PLAN_[related-task].md
 - Documentation: [Links to relevant docs]
 
 ---
@@ -287,7 +287,7 @@ Each step should follow this structure:
 ### completed
 - All steps finished successfully
 - All success criteria met
-- Plan should be moved to /Done folder
+- Plan should be moved to Vault/Done folder
 
 ---
 
@@ -329,7 +329,7 @@ priority: normal
 created: 2026-01-11T16:00:00Z
 status: in_progress
 priority: normal
-task_source: /Needs_Action/EMAIL_ClientInquiry.md
+task_source: Vault/Needs_Action/EMAIL_ClientInquiry.md
 estimated_duration: 20 minutes
 ---
 
@@ -341,7 +341,7 @@ Respond to Client B's inquiry about availability and pricing for consulting serv
 - [ ] **Step 1:** Review client's inquiry email and understand requirements
       Est: 3m | Depends on: none | Approval: no
 
-- [ ] **Step 2:** Check Business_Goals.md for current availability and pricing
+- [ ] **Step 2:** Check Vault/Business_Goals.md for current availability and pricing
       Est: 2m | Depends on: Step 1 | Approval: no
 
 - [ ] **Step 3:** Draft response email with availability and pricing quote
@@ -357,7 +357,7 @@ Respond to Client B's inquiry about availability and pricing for consulting serv
 ## Success Criteria
 - [ ] Email sent with accurate pricing
 - [ ] Response time < 24 hours from inquiry
-- [ ] Dashboard updated
+- [ ] Vault/Dashboard.md updated
 ```
 
 ### Research & Report Plan
@@ -367,7 +367,7 @@ Respond to Client B's inquiry about availability and pricing for consulting serv
 created: 2026-01-11T16:00:00Z
 status: in_progress
 priority: low
-task_source: /Needs_Action/RESEARCH_MarketTrends.md
+task_source: Vault/Needs_Action/RESEARCH_MarketTrends.md
 estimated_duration: 3 hours
 ---
 
@@ -383,13 +383,13 @@ Research current AI automation trends and create summary report for business str
 - [ ] **Step 2:** Identify top 5 trends relevant to our services
       Est: 30m | Depends on: Step 1 | Approval: no
 
-- [ ] **Step 3:** Analyze how trends align with Business_Goals.md
+- [ ] **Step 3:** Analyze how trends align with Vault/Business_Goals.md
       Est: 30m | Depends on: Step 2 | Approval: no
 
 - [ ] **Step 4:** Draft report with findings and recommendations
       Est: 1h | Depends on: Step 3 | Approval: no
 
-- [ ] **Step 5:** Save report to /Reports folder and update Dashboard
+- [ ] **Step 5:** Save report to Vault/Reports folder and update Dashboard
       Est: 5m | Depends on: Step 4 | Approval: no
 
 ## Success Criteria
@@ -423,4 +423,4 @@ Research current AI automation trends and create summary report for business str
 *This template ensures consistent, complete task planning across all AI Employee operations.*
 
 *Last Updated: 2026-01-11*
-*Version: 1.0*
+*Version: 1.1 (Updated for Vault structure)*

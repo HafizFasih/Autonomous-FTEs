@@ -10,7 +10,7 @@ This document defines what actions require human approval vs. what can be auto-a
 ## Email Actions
 
 ### Auto-Approve
-- ✅ Replies to known contacts (in Company_Handbook.md contact list)
+- ✅ Replies to known contacts (in Vault/Company_Handbook.md contact list)
 - ✅ Responses < 200 words to familiar senders
 - ✅ Email categorization and filing
 - ✅ Drafting emails (not sending, just creating drafts)
@@ -77,9 +77,9 @@ This document defines what actions require human approval vs. what can be auto-a
 ### Auto-Approve
 - ✅ Creating files inside the Obsidian vault
 - ✅ Reading any files
-- ✅ Moving files within vault folders (Inbox → Needs_Action → Done)
+- ✅ Moving files within vault folders (Vault/Inbox → Vault/Needs_Action → Vault/Done)
 - ✅ Creating subdirectories in vault
-- ✅ Updating Dashboard.md, logs, and notes
+- ✅ Updating Vault/Dashboard.md, logs, and notes
 - ✅ Creating backup copies
 
 ### Require Approval
@@ -89,7 +89,7 @@ This document defines what actions require human approval vs. what can be auto-a
 - 🔒 Changing file permissions
 - 🔒 Accessing files outside the vault
 - 🔒 Bulk file operations (>10 files at once)
-- 🔒 Modifying Company_Handbook.md or Business_Goals.md
+- 🔒 Modifying Vault/Company_Handbook.md or Vault/Business_Goals.md
 
 **Rationale:** File operations can cause data loss. Deletions and external moves require explicit approval.
 
@@ -148,7 +148,7 @@ This document defines what actions require human approval vs. what can be auto-a
 ### Require Approval
 - 🔒 Deleting tasks
 - 🔒 Assigning tasks to external collaborators
-- 🔒 Changing project deadlines in Business_Goals.md
+- 🔒 Changing project deadlines in Vault/Business_Goals.md
 - 🔒 Marking critical milestones as complete
 - 🔒 Creating external project dependencies
 
@@ -161,7 +161,7 @@ This document defines what actions require human approval vs. what can be auto-a
 Some actions may auto-approve under specific conditions:
 
 ### Email to Known Contacts
-**Condition:** Recipient in `Company_Handbook.md` contact list AND email < 200 words AND no attachments
+**Condition:** Recipient in `Vault/Company_Handbook.md` contact list AND email < 200 words AND no attachments
 **Result:** Auto-approve
 **Otherwise:** Require approval
 
@@ -171,7 +171,7 @@ Some actions may auto-approve under specific conditions:
 **Otherwise:** Require approval
 
 ### File Move Within Vault
-**Condition:** Both source and destination are within vault folders AND not modifying core files (CLAUDE.md, Company_Handbook.md, Business_Goals.md)
+**Condition:** Both source and destination are within vault folders AND not modifying core files (CLAUDE.md, Vault/Company_Handbook.md, Vault/Business_Goals.md)
 **Result:** Auto-approve
 **Otherwise:** Require approval
 
@@ -205,7 +205,7 @@ To modify these thresholds:
 
 1. Update this file with proposed changes
 2. Create approval request for the change itself
-3. Document rationale in Business_Goals.md
+3. Document rationale in Vault/Business_Goals.md
 4. Test new threshold with dry-run
 5. Monitor for 1 week after implementation
 6. Review in next monthly audit
@@ -236,18 +236,18 @@ To modify these thresholds:
 - Adjust thresholds if too many false positives
 
 ### Audit Trail
-- All auto-approved actions logged to Dashboard.md
-- Approval-required actions logged to /Pending_Approval files
-- Executed approvals logged to /Done folder
+- All auto-approved actions logged to Vault/Dashboard.md
+- Approval-required actions logged to Vault/Pending_Approval files
+- Executed approvals logged to Vault/Done folder
 
 ### Compliance Check
 - Verify no unauthorized actions occurred
 - Review all rejections for patterns
-- Confirm thresholds align with Business_Goals.md
+- Confirm thresholds align with Vault/Business_Goals.md
 
 ---
 
 *This document is referenced by the handle-approval skill to determine when human approval is needed.*
 
 *Last Updated: 2026-01-11*
-*Version: 1.0*
+*Version: 1.1 (Updated for Vault structure)*

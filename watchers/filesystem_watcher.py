@@ -1,6 +1,8 @@
 # type: ignore
 import time
 import shutil
+import os
+import argparse
 from pathlib import Path
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
@@ -10,6 +12,10 @@ class DropFolderHandler(FileSystemEventHandler):
         self.vault_path = Path(vault_path)
         self.inbox = self.vault_path / 'Inbox'
         self.needs_action = self.vault_path / 'Needs_Action'
+        
+        # Ensure directories exist
+        self.inbox.mkdir(exist_ok=True)
+        self.needs_action.mkdir(exist_ok=True)
         
     def on_created(self, event):
         # Ignore directories
@@ -56,15 +62,28 @@ Please analyze this file or the user's request associated with it.
         meta_path.write_text(content)
         print(f"Created metadata: {meta_path.name}")
 
-if __name__ == "__main__":
-    # CURRENT DIRECTORY
-    VAULT_PATH = "." 
+def main():
+    parser = argparse.ArgumentParser(description='Filesystem Watcher for Autonomous FTE')
+    parser.add_argument(
+        '--vault-path',
+        default=os.getenv('VAULT_PATH', 'Vault'),
+        help='Path to Obsidian vault (default: Vault directory or VAULT_PATH env var)'
+    )
+    args = parser.parse_args()
     
-    event_handler = DropFolderHandler(VAULT_PATH)
+    vault_path = Path(args.vault_path).resolve()
+    print(f"Monitoring Vault at: {vault_path}")
+
+    event_handler = DropFolderHandler(vault_path)
     observer = Observer()
-    observer.schedule(event_handler, path=str(Path(VAULT_PATH) / 'Inbox'), recursive=False)
     
-    print(f"Watcher running on {Path(VAULT_PATH) / 'Inbox'}...")
+    # Watch the Inbox folder specifically
+    inbox_path = vault_path / 'Inbox'
+    inbox_path.mkdir(exist_ok=True)
+    
+    observer.schedule(event_handler, path=str(inbox_path), recursive=False)
+    
+    print(f"Watcher running on {inbox_path}...")
     print("Press Ctrl+C to stop.")
     
     observer.start()
@@ -74,3 +93,6 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         observer.stop()
     observer.join()
+
+if __name__ == "__main__":
+    main()
