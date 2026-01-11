@@ -1,0 +1,1 @@
+Please analyze the filesystem_watcher.py file and provide a brief summary of how it works.
