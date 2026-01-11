@@ -11,10 +11,10 @@
             "id": "a046bcb9e44221eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -179,30 +179,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "139edab4ec7bebc7",
+  "active": "a046bcb9e44221eb",
   "lastOpenFiles": [
-    "progress/branch-1-silver-core-workflows.md",
-    "Needs_Action/TASK_BuildLinkedInAutomation_2026-01-11.md",
-    "Pending_Approval/APPROVAL_EMAIL_TestClient_Welcome_2026-01-11.md",
-    "Business_Goals.md",
-    "Plans",
-    "Rejected",
-    "Approved",
-    "Pending_Approval",
-    "branches/silver.md",
-    "branches",
+    "CLAUDE.md.reserved",
+    "progress/branch-2-email-system.md",
+    "scripts/send_email.py",
+    "scripts",
+    "docs/Branch-2-Setup-Guide.md",
+    "docs",
+    "config/mcp-email-server-config.json",
+    "config",
+    "watchers/gmail_watcher.py",
+    "watchers",
+    "Needs_Action/EMAIL_test_client_inquiry_2026-01-11.md",
     "details/skills-overview-bronze-silver.md",
     "details",
+    "branches/silver.md",
+    "branches",
+    "Pending_Approval/APPROVAL_EMAIL_TestClient_Welcome_2026-01-11.md",
+    "Pending_Approval",
+    "Needs_Action/TASK_BuildLinkedInAutomation_2026-01-11.md",
+    "progress/branch-1-silver-core-workflows.md",
+    "Business_Goals.md",
     "hackathon.md",
     "progress/bronze-tier-completion.md",
-    "progress",
     "Done/FILE_Task1.md",
-    "Done/FILE_test_task.txt",
     "Done/FILE_test_task.md",
     "Done/filesystem_watcher_analysis.md",
     "Needs_Action/FILE_test_task.md",
-    "Needs_Action/FILE_test_task.txt",
-    "Inbox/test_task.txt",
     "Done/FILE_Task1_Summary.md",
     "Company_Handbook.md",
     "Needs_Action/FILE_Task1_Summary.md",
@@ -212,8 +216,6 @@
     "backend/README.md",
     "Dashboard.md",
     "Untitled.md",
-    "Welcome.md",
-    "create a link.md",
-    "abc/Welcome.md"
+    "Welcome.md"
   ]
 }
