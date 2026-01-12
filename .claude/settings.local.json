@@ -6,7 +6,9 @@
       "Bash(git commit:*)",
       "Bash(git add:*)",
       "Bash(pip install:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(where:*)",
+      "Bash(C:Users\"\"Muhammad Fasih \"AppDataLocalProgramsPythonPython313python.exe -m pip install psutil requests --target D:Autonomous-FTEs.venvLibsite-packages)"
     ]
   }
 }
