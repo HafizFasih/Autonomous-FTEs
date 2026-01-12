@@ -4,7 +4,8 @@
       "Bash(python:*)",
       "Bash(wc:*)",
       "Bash(git commit:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(pip install:*)"
     ]
   }
 }
