@@ -1,0 +1,2214 @@
+2026-02-07 13:58:20,099 - GmailWatcher - INFO - Starting Gmail Watcher (IMAP)
+2026-02-07 13:58:20,099 - GmailWatcher - INFO -   Server: imap.gmail.com:993
+2026-02-07 13:58:20,099 - GmailWatcher - INFO -   User: aimoshahs@gmail.com
+2026-02-07 13:58:20,099 - GmailWatcher - INFO -   Check interval: 60s
+2026-02-07 13:58:20,100 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-07 13:58:39,356 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-07 13:58:39,356 - GmailWatcher - INFO - --- Check #1 ---
+2026-02-07 13:59:39,196 - GmailWatcher - INFO - Found 72 unread emails, 20 new
+2026-02-07 13:59:39,199 - GmailWatcher - INFO - Processing 20 new emails...
+2026-02-07 13:59:39,203 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135939_You_have_an_invitation.md (Priority: normal)
+2026-02-07 13:59:39,206 - GmailWatcher - INFO -   + EMAIL_20260207_135939_You_have_an_invitation.md
+2026-02-07 13:59:39,709 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135939_You_have_an_invitation.md (Priority: normal)
+2026-02-07 13:59:39,711 - GmailWatcher - INFO -   + EMAIL_20260207_135939_You_have_an_invitation.md
+2026-02-07 13:59:40,212 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135940_Web_Development_request_from_M.md (Priority: normal)
+2026-02-07 13:59:40,215 - GmailWatcher - INFO -   + EMAIL_20260207_135940_Web_Development_request_from_M.md
+2026-02-07 13:59:40,723 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135940_We_Turn_10_5ers_Oclock.md (Priority: normal)
+2026-02-07 13:59:40,725 - GmailWatcher - INFO -   + EMAIL_20260207_135940_We_Turn_10_5ers_Oclock.md
+2026-02-07 13:59:41,227 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135941_OpenClaw_Runs_Amok_Kimis_Ope.md (Priority: normal)
+2026-02-07 13:59:41,228 - GmailWatcher - INFO -   + EMAIL_20260207_135941_OpenClaw_Runs_Amok_Kimis_Ope.md
+2026-02-07 13:59:41,731 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135941_You_have_an_invitation.md (Priority: normal)
+2026-02-07 13:59:41,733 - GmailWatcher - INFO -   + EMAIL_20260207_135941_You_have_an_invitation.md
+2026-02-07 13:59:42,237 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135942_The_latest_AI_news_we_announce.md (Priority: high)
+2026-02-07 13:59:42,239 - GmailWatcher - INFO -   + EMAIL_20260207_135942_The_latest_AI_news_we_announce.md
+2026-02-07 13:59:42,741 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135942_Consumption_history_API_chang.md (Priority: normal)
+2026-02-07 13:59:42,743 - GmailWatcher - INFO -   + EMAIL_20260207_135942_Consumption_history_API_chang.md
+2026-02-07 13:59:43,245 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135943_You_have_an_invitation.md (Priority: normal)
+2026-02-07 13:59:43,247 - GmailWatcher - INFO -   + EMAIL_20260207_135943_You_have_an_invitation.md
+2026-02-07 13:59:43,752 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135943_Five_Google_Business_Profile_M.md (Priority: high)
+2026-02-07 13:59:43,759 - GmailWatcher - INFO -   + EMAIL_20260207_135943_Five_Google_Business_Profile_M.md
+2026-02-07 13:59:44,264 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135944_Youre_now_on_Confluence_Free.md (Priority: normal)
+2026-02-07 13:59:44,267 - GmailWatcher - INFO -   + EMAIL_20260207_135944_Youre_now_on_Confluence_Free.md
+2026-02-07 13:59:44,770 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135944_You_have_an_invitation.md (Priority: normal)
+2026-02-07 13:59:44,772 - GmailWatcher - INFO -   + EMAIL_20260207_135944_You_have_an_invitation.md
+2026-02-07 13:59:45,275 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135945_Weve_switched_you_to_the_Conf.md (Priority: normal)
+2026-02-07 13:59:45,276 - GmailWatcher - INFO -   + EMAIL_20260207_135945_Weve_switched_you_to_the_Conf.md
+2026-02-07 13:59:45,779 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135945_Youre_now_on_Confluence_Free.md (Priority: normal)
+2026-02-07 13:59:45,781 - GmailWatcher - INFO -   + EMAIL_20260207_135945_Youre_now_on_Confluence_Free.md
+2026-02-07 13:59:46,284 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135946_7_n8n_Workflows_You_Didnt_Kno.md (Priority: normal)
+2026-02-07 13:59:46,286 - GmailWatcher - INFO -   + EMAIL_20260207_135946_7_n8n_Workflows_You_Didnt_Kno.md
+2026-02-07 13:59:46,787 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135946_You_have_an_invitation.md (Priority: normal)
+2026-02-07 13:59:46,789 - GmailWatcher - INFO -   + EMAIL_20260207_135946_You_have_an_invitation.md
+2026-02-07 13:59:47,290 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135947_frontend_developer_Somewher.md (Priority: normal)
+2026-02-07 13:59:47,293 - GmailWatcher - INFO -   + EMAIL_20260207_135947_frontend_developer_Somewher.md
+2026-02-07 13:59:47,795 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135947_web_developer_PsychPlus_-_S.md (Priority: normal)
+2026-02-07 13:59:47,797 - GmailWatcher - INFO -   + EMAIL_20260207_135947_web_developer_PsychPlus_-_S.md
+2026-02-07 13:59:48,300 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135948_Fire_Emergency_planning_and_pr.md (Priority: high)
+2026-02-07 13:59:48,302 - GmailWatcher - INFO -   + EMAIL_20260207_135948_Fire_Emergency_planning_and_pr.md
+2026-02-07 13:59:48,805 - GmailWatcher - INFO - Created email file: EMAIL_20260207_135948_Hire_Overseas_is_hiring_in_Pak.md (Priority: normal)
+2026-02-07 13:59:48,807 - GmailWatcher - INFO -   + EMAIL_20260207_135948_Hire_Overseas_is_hiring_in_Pak.md
+2026-02-07 13:59:49,308 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:00:49,309 - GmailWatcher - INFO - --- Check #2 ---
+2026-02-07 14:01:52,119 - GmailWatcher - INFO - Found 52 unread emails, 20 new
+2026-02-07 14:01:52,121 - GmailWatcher - INFO - Processing 20 new emails...
+2026-02-07 14:01:52,125 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140152_February_is_for_shipping.md (Priority: normal)
+2026-02-07 14:01:52,129 - GmailWatcher - INFO -   + EMAIL_20260207_140152_February_is_for_shipping.md
+2026-02-07 14:01:52,632 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140152_Graphic_Designer_Required_Imm.md (Priority: high)
+2026-02-07 14:01:52,635 - GmailWatcher - INFO -   + EMAIL_20260207_140152_Graphic_Designer_Required_Imm.md
+2026-02-07 14:01:53,154 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140153_Update_to_Clerks_pricing_ava.md (Priority: normal)
+2026-02-07 14:01:53,155 - GmailWatcher - INFO -   + EMAIL_20260207_140153_Update_to_Clerks_pricing_ava.md
+2026-02-07 14:01:53,660 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140153_The_2026_AI_Agent_Revolution.md (Priority: normal)
+2026-02-07 14:01:53,664 - GmailWatcher - INFO -   + EMAIL_20260207_140153_The_2026_AI_Agent_Revolution.md
+2026-02-07 14:01:54,167 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140154_Keystone_Recruitment_is_hiring.md (Priority: normal)
+2026-02-07 14:01:54,169 - GmailWatcher - INFO -   + EMAIL_20260207_140154_Keystone_Recruitment_is_hiring.md
+2026-02-07 14:01:54,672 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140154_Check_out_these_tutorials_in.md (Priority: normal)
+2026-02-07 14:01:54,675 - GmailWatcher - INFO -   + EMAIL_20260207_140154_Check_out_these_tutorials_in.md
+2026-02-07 14:01:55,179 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140155_Learn_Computer_Science_from_a.md (Priority: normal)
+2026-02-07 14:01:55,182 - GmailWatcher - INFO -   + EMAIL_20260207_140155_Learn_Computer_Science_from_a.md
+2026-02-07 14:01:55,685 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140155_web_developer_Talentra_-_Se.md (Priority: normal)
+2026-02-07 14:01:55,689 - GmailWatcher - INFO -   + EMAIL_20260207_140155_web_developer_Talentra_-_Se.md
+2026-02-07 14:01:56,194 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140156_web_designer_Dawn_-_Job_Sea.md (Priority: normal)
+2026-02-07 14:01:56,197 - GmailWatcher - INFO -   + EMAIL_20260207_140156_web_designer_Dawn_-_Job_Sea.md
+2026-02-07 14:01:56,700 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140156_frontend_developer_Securiti.md (Priority: normal)
+2026-02-07 14:01:56,703 - GmailWatcher - INFO -   + EMAIL_20260207_140156_frontend_developer_Securiti.md
+2026-02-07 14:01:57,214 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140157_Qwen3-Coder-Next_available_in.md (Priority: normal)
+2026-02-07 14:01:57,218 - GmailWatcher - INFO -   + EMAIL_20260207_140157_Qwen3-Coder-Next_available_in.md
+2026-02-07 14:01:57,722 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140157_software_engineer_Securiti.md (Priority: normal)
+2026-02-07 14:01:57,724 - GmailWatcher - INFO -   + EMAIL_20260207_140157_software_engineer_Securiti.md
+2026-02-07 14:01:58,227 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140158_30_Off__Profit_Boosts_Are_Li.md (Priority: normal)
+2026-02-07 14:01:58,231 - GmailWatcher - INFO -   + EMAIL_20260207_140158_30_Off__Profit_Boosts_Are_Li.md
+2026-02-07 14:01:58,735 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140158_Digital_Transformation_Isnt_A.md (Priority: normal)
+2026-02-07 14:01:58,737 - GmailWatcher - INFO -   + EMAIL_20260207_140158_Digital_Transformation_Isnt_A.md
+2026-02-07 14:01:59,240 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140159_10M_Performance_Rewards_Disb.md (Priority: normal)
+2026-02-07 14:01:59,243 - GmailWatcher - INFO -   + EMAIL_20260207_140159_10M_Performance_Rewards_Disb.md
+2026-02-07 14:01:59,746 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140159_Delivery_Status_Notification.md (Priority: normal)
+2026-02-07 14:01:59,749 - GmailWatcher - INFO -   + EMAIL_20260207_140159_Delivery_Status_Notification.md
+2026-02-07 14:02:00,252 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140200_You_have_an_invitation.md (Priority: normal)
+2026-02-07 14:02:00,254 - GmailWatcher - INFO -   + EMAIL_20260207_140200_You_have_an_invitation.md
+2026-02-07 14:02:00,757 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140200_You_have_an_invitation.md (Priority: normal)
+2026-02-07 14:02:00,759 - GmailWatcher - INFO -   + EMAIL_20260207_140200_You_have_an_invitation.md
+2026-02-07 14:02:01,261 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140201_January_Replit_Product_Upda.md (Priority: normal)
+2026-02-07 14:02:01,263 - GmailWatcher - INFO -   + EMAIL_20260207_140201_January_Replit_Product_Upda.md
+2026-02-07 14:02:01,766 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140201_What_does_this_sperm_sign_mea.md (Priority: normal)
+2026-02-07 14:02:01,768 - GmailWatcher - INFO -   + EMAIL_20260207_140201_What_does_this_sperm_sign_mea.md
+2026-02-07 14:02:02,269 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:03:02,270 - GmailWatcher - INFO - --- Check #3 ---
+2026-02-07 14:03:16,876 - GmailWatcher - INFO - Found 32 unread emails, 20 new
+2026-02-07 14:03:16,876 - GmailWatcher - INFO - Processing 20 new emails...
+2026-02-07 14:03:16,878 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140316_Product_Update_Automatic_ena.md (Priority: normal)
+2026-02-07 14:03:16,880 - GmailWatcher - INFO -   + EMAIL_20260207_140316_Product_Update_Automatic_ena.md
+2026-02-07 14:03:17,381 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140317_I_want_to_connect.md (Priority: normal)
+2026-02-07 14:03:17,383 - GmailWatcher - INFO -   + EMAIL_20260207_140317_I_want_to_connect.md
+2026-02-07 14:03:17,886 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140317_Agentic_memory_framework_for_L.md (Priority: normal)
+2026-02-07 14:03:17,887 - GmailWatcher - INFO -   + EMAIL_20260207_140317_Agentic_memory_framework_for_L.md
+2026-02-07 14:03:18,389 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140318_ITS_CELEBRATION_TIME___The5e.md (Priority: normal)
+2026-02-07 14:03:18,391 - GmailWatcher - INFO -   + EMAIL_20260207_140318_ITS_CELEBRATION_TIME___The5e.md
+2026-02-07 14:03:18,893 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140318_The_Future_of_Senior_Work.md (Priority: high)
+2026-02-07 14:03:18,895 - GmailWatcher - INFO -   + EMAIL_20260207_140318_The_Future_of_Senior_Work.md
+2026-02-07 14:03:19,398 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140319_You_have_an_invitation.md (Priority: normal)
+2026-02-07 14:03:19,399 - GmailWatcher - INFO -   + EMAIL_20260207_140319_You_have_an_invitation.md
+2026-02-07 14:03:19,902 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140319_Dont_miss_conversations_in_In.md (Priority: normal)
+2026-02-07 14:03:19,904 - GmailWatcher - INFO -   + EMAIL_20260207_140319_Dont_miss_conversations_in_In.md
+2026-02-07 14:03:20,406 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140320_Vibecoding_as_a_discipline_no.md (Priority: normal)
+2026-02-07 14:03:20,408 - GmailWatcher - INFO -   + EMAIL_20260207_140320_Vibecoding_as_a_discipline_no.md
+2026-02-07 14:03:20,910 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140320_Hope_you_cleared_your_afternoo.md (Priority: normal)
+2026-02-07 14:03:20,912 - GmailWatcher - INFO -   + EMAIL_20260207_140320_Hope_you_cleared_your_afternoo.md
+2026-02-07 14:03:21,415 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140321_Delivery_Status_Notification.md (Priority: normal)
+2026-02-07 14:03:21,416 - GmailWatcher - INFO -   + EMAIL_20260207_140321_Delivery_Status_Notification.md
+2026-02-07 14:03:21,919 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140321_Please_stop_calling_this_snow.md (Priority: normal)
+2026-02-07 14:03:21,922 - GmailWatcher - INFO -   + EMAIL_20260207_140321_Please_stop_calling_this_snow.md
+2026-02-07 14:03:22,425 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140322_You_have_an_invitation.md (Priority: normal)
+2026-02-07 14:03:22,427 - GmailWatcher - INFO -   + EMAIL_20260207_140322_You_have_an_invitation.md
+2026-02-07 14:03:22,929 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140322_We_Built_the_Bot__Now_What.md (Priority: normal)
+2026-02-07 14:03:22,931 - GmailWatcher - INFO -   + EMAIL_20260207_140322_We_Built_the_Bot__Now_What.md
+2026-02-07 14:03:23,433 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140323_See_15_updates_about_Mubashir.md (Priority: normal)
+2026-02-07 14:03:23,435 - GmailWatcher - INFO -   + EMAIL_20260207_140323_See_15_updates_about_Mubashir.md
+2026-02-07 14:03:23,937 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140323_Protect_your_work_with_Atlassi.md (Priority: normal)
+2026-02-07 14:03:23,939 - GmailWatcher - INFO -   + EMAIL_20260207_140323_Protect_your_work_with_Atlassi.md
+2026-02-07 14:03:24,442 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140324_I_want_to_connect.md (Priority: normal)
+2026-02-07 14:03:24,444 - GmailWatcher - INFO -   + EMAIL_20260207_140324_I_want_to_connect.md
+2026-02-07 14:03:24,946 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140324_The_Epstein_rot.md (Priority: normal)
+2026-02-07 14:03:24,948 - GmailWatcher - INFO -   + EMAIL_20260207_140324_The_Epstein_rot.md
+2026-02-07 14:03:25,451 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140325_Game_Arena_Winners_Poker_W.md (Priority: normal)
+2026-02-07 14:03:25,454 - GmailWatcher - INFO -   + EMAIL_20260207_140325_Game_Arena_Winners_Poker_W.md
+2026-02-07 14:03:25,957 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140325_I_want_to_connect.md (Priority: normal)
+2026-02-07 14:03:25,960 - GmailWatcher - INFO -   + EMAIL_20260207_140325_I_want_to_connect.md
+2026-02-07 14:03:26,462 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140326_Data_from_1100_experts_on_AI.md (Priority: normal)
+2026-02-07 14:03:26,464 - GmailWatcher - INFO -   + EMAIL_20260207_140326_Data_from_1100_experts_on_AI.md
+2026-02-07 14:03:26,964 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:04:26,965 - GmailWatcher - INFO - --- Check #4 ---
+2026-02-07 14:04:35,179 - GmailWatcher - INFO - Found 12 unread emails, 12 new
+2026-02-07 14:04:35,180 - GmailWatcher - INFO - Processing 12 new emails...
+2026-02-07 14:04:35,181 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140435_Prcing_pans.md (Priority: normal)
+2026-02-07 14:04:35,183 - GmailWatcher - INFO -   + EMAIL_20260207_140435_Prcing_pans.md
+2026-02-07 14:04:35,685 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140435_web_developer_Dubizzle_Labs.md (Priority: normal)
+2026-02-07 14:04:35,687 - GmailWatcher - INFO -   + EMAIL_20260207_140435_web_developer_Dubizzle_Labs.md
+2026-02-07 14:04:36,189 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140436_Support_contact.md (Priority: normal)
+2026-02-07 14:04:36,191 - GmailWatcher - INFO -   + EMAIL_20260207_140436_Support_contact.md
+2026-02-07 14:04:36,694 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140436_Support_and_contact.md (Priority: normal)
+2026-02-07 14:04:36,696 - GmailWatcher - INFO -   + EMAIL_20260207_140436_Support_and_contact.md
+2026-02-07 14:04:37,199 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140437_Prices_plans.md (Priority: normal)
+2026-02-07 14:04:37,202 - GmailWatcher - INFO -   + EMAIL_20260207_140437_Prices_plans.md
+2026-02-07 14:04:37,706 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140437_General.md (Priority: normal)
+2026-02-07 14:04:37,709 - GmailWatcher - INFO -   + EMAIL_20260207_140437_General.md
+2026-02-07 14:04:38,211 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140438_Support_and_contact.md (Priority: normal)
+2026-02-07 14:04:38,215 - GmailWatcher - INFO -   + EMAIL_20260207_140438_Support_and_contact.md
+2026-02-07 14:04:38,718 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140438_Fire_Watcher_Crucial_Role_in_F.md (Priority: high)
+2026-02-07 14:04:38,722 - GmailWatcher - INFO -   + EMAIL_20260207_140438_Fire_Watcher_Crucial_Role_in_F.md
+2026-02-07 14:04:39,227 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140439_software_engineer_Dubizzle.md (Priority: normal)
+2026-02-07 14:04:39,231 - GmailWatcher - INFO -   + EMAIL_20260207_140439_software_engineer_Dubizzle.md
+2026-02-07 14:04:39,735 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140439_Daily_Market_Watch_-_522026.md (Priority: high)
+2026-02-07 14:04:39,739 - GmailWatcher - INFO -   + EMAIL_20260207_140439_Daily_Market_Watch_-_522026.md
+2026-02-07 14:04:40,242 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140440_Delivery_Status_Notification.md (Priority: normal)
+2026-02-07 14:04:40,246 - GmailWatcher - INFO -   + EMAIL_20260207_140440_Delivery_Status_Notification.md
+2026-02-07 14:04:40,754 - GmailWatcher - INFO - Created email file: EMAIL_20260207_140440_frontend_developer_Dubizzle.md (Priority: normal)
+2026-02-07 14:04:40,758 - GmailWatcher - INFO -   + EMAIL_20260207_140440_frontend_developer_Dubizzle.md
+2026-02-07 14:04:41,268 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:05:41,272 - GmailWatcher - INFO - --- Check #5 ---
+2026-02-07 14:05:42,782 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:05:42,783 - GmailWatcher - INFO - No new emails
+2026-02-07 14:05:42,783 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:06:42,784 - GmailWatcher - INFO - --- Check #6 ---
+2026-02-07 14:06:43,374 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:06:43,374 - GmailWatcher - INFO - No new emails
+2026-02-07 14:06:43,375 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:07:43,376 - GmailWatcher - INFO - --- Check #7 ---
+2026-02-07 14:07:44,010 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:07:44,011 - GmailWatcher - INFO - No new emails
+2026-02-07 14:07:44,011 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:08:44,011 - GmailWatcher - INFO - --- Check #8 ---
+2026-02-07 14:08:44,701 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:08:44,701 - GmailWatcher - INFO - No new emails
+2026-02-07 14:08:44,701 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:09:44,702 - GmailWatcher - INFO - --- Check #9 ---
+2026-02-07 14:09:45,459 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:09:45,460 - GmailWatcher - INFO - No new emails
+2026-02-07 14:09:45,460 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:10:45,461 - GmailWatcher - INFO - --- Check #10 ---
+2026-02-07 14:10:46,029 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:10:46,029 - GmailWatcher - INFO - No new emails
+2026-02-07 14:10:46,029 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:11:46,030 - GmailWatcher - INFO - --- Check #11 ---
+2026-02-07 14:11:47,228 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:11:47,228 - GmailWatcher - INFO - No new emails
+2026-02-07 14:11:47,228 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:12:47,229 - GmailWatcher - INFO - --- Check #12 ---
+2026-02-07 14:12:47,867 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:12:47,867 - GmailWatcher - INFO - No new emails
+2026-02-07 14:12:47,868 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:13:47,868 - GmailWatcher - INFO - --- Check #13 ---
+2026-02-07 14:13:49,380 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:13:49,380 - GmailWatcher - INFO - No new emails
+2026-02-07 14:13:49,380 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:14:49,381 - GmailWatcher - INFO - --- Check #14 ---
+2026-02-07 14:14:51,038 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:14:51,038 - GmailWatcher - INFO - No new emails
+2026-02-07 14:14:51,038 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:15:51,038 - GmailWatcher - INFO - --- Check #15 ---
+2026-02-07 14:15:52,120 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:15:52,120 - GmailWatcher - INFO - No new emails
+2026-02-07 14:15:52,120 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:16:52,122 - GmailWatcher - INFO - --- Check #16 ---
+2026-02-07 14:16:52,727 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:16:52,728 - GmailWatcher - INFO - No new emails
+2026-02-07 14:16:52,729 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:17:52,729 - GmailWatcher - INFO - --- Check #17 ---
+2026-02-07 14:17:54,356 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:17:54,356 - GmailWatcher - INFO - No new emails
+2026-02-07 14:17:54,357 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:18:54,358 - GmailWatcher - INFO - --- Check #18 ---
+2026-02-07 14:19:06,056 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:19:06,056 - GmailWatcher - INFO - No new emails
+2026-02-07 14:19:06,056 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:20:06,058 - GmailWatcher - INFO - --- Check #19 ---
+2026-02-07 14:20:07,896 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:20:07,898 - GmailWatcher - INFO - No new emails
+2026-02-07 14:20:07,898 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:21:07,900 - GmailWatcher - INFO - --- Check #20 ---
+2026-02-07 14:21:08,655 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:21:08,656 - GmailWatcher - INFO - No new emails
+2026-02-07 14:21:08,656 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:22:08,657 - GmailWatcher - INFO - --- Check #21 ---
+2026-02-07 14:22:10,734 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:22:10,734 - GmailWatcher - INFO - No new emails
+2026-02-07 14:22:10,735 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:23:10,735 - GmailWatcher - INFO - --- Check #22 ---
+2026-02-07 14:23:11,551 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:23:11,552 - GmailWatcher - INFO - No new emails
+2026-02-07 14:23:11,552 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:24:11,553 - GmailWatcher - INFO - --- Check #23 ---
+2026-02-07 14:24:12,134 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:24:12,134 - GmailWatcher - INFO - No new emails
+2026-02-07 14:24:12,135 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:25:12,136 - GmailWatcher - INFO - --- Check #24 ---
+2026-02-07 14:25:13,600 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:25:13,601 - GmailWatcher - INFO - No new emails
+2026-02-07 14:25:13,602 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:26:13,603 - GmailWatcher - INFO - --- Check #25 ---
+2026-02-07 14:26:20,117 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:26:20,117 - GmailWatcher - INFO - No new emails
+2026-02-07 14:26:20,117 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:27:20,118 - GmailWatcher - INFO - --- Check #26 ---
+2026-02-07 14:27:20,852 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:27:20,852 - GmailWatcher - INFO - No new emails
+2026-02-07 14:27:20,853 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:28:20,855 - GmailWatcher - INFO - --- Check #27 ---
+2026-02-07 14:28:22,114 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:28:22,115 - GmailWatcher - INFO - No new emails
+2026-02-07 14:28:22,116 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:29:22,117 - GmailWatcher - INFO - --- Check #28 ---
+2026-02-07 14:29:23,741 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:29:23,741 - GmailWatcher - INFO - No new emails
+2026-02-07 14:29:23,741 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:30:23,743 - GmailWatcher - INFO - --- Check #29 ---
+2026-02-07 14:30:24,370 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:30:24,370 - GmailWatcher - INFO - No new emails
+2026-02-07 14:30:24,370 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:31:24,371 - GmailWatcher - INFO - --- Check #30 ---
+2026-02-07 14:31:25,677 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:31:25,677 - GmailWatcher - INFO - No new emails
+2026-02-07 14:31:25,677 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:32:25,679 - GmailWatcher - INFO - --- Check #31 ---
+2026-02-07 14:32:27,056 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:32:27,057 - GmailWatcher - INFO - No new emails
+2026-02-07 14:32:27,058 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:33:27,064 - GmailWatcher - INFO - --- Check #32 ---
+2026-02-07 14:33:28,554 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:33:28,556 - GmailWatcher - INFO - No new emails
+2026-02-07 14:33:28,557 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:34:28,560 - GmailWatcher - INFO - --- Check #33 ---
+2026-02-07 14:34:30,362 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:34:30,364 - GmailWatcher - INFO - No new emails
+2026-02-07 14:34:30,364 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:35:30,368 - GmailWatcher - INFO - --- Check #34 ---
+2026-02-07 14:35:31,010 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:35:31,010 - GmailWatcher - INFO - No new emails
+2026-02-07 14:35:31,012 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:36:31,013 - GmailWatcher - INFO - --- Check #35 ---
+2026-02-07 14:36:32,123 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:36:32,123 - GmailWatcher - INFO - No new emails
+2026-02-07 14:36:32,124 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:37:32,125 - GmailWatcher - INFO - --- Check #36 ---
+2026-02-07 14:37:32,930 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:37:32,932 - GmailWatcher - INFO - No new emails
+2026-02-07 14:37:32,933 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:38:32,934 - GmailWatcher - INFO - --- Check #37 ---
+2026-02-07 14:38:34,256 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:38:34,257 - GmailWatcher - INFO - No new emails
+2026-02-07 14:38:34,257 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:39:34,258 - GmailWatcher - INFO - --- Check #38 ---
+2026-02-07 14:39:34,841 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:39:34,841 - GmailWatcher - INFO - No new emails
+2026-02-07 14:39:34,841 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:40:34,842 - GmailWatcher - INFO - --- Check #39 ---
+2026-02-07 14:40:35,530 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:40:35,531 - GmailWatcher - INFO - No new emails
+2026-02-07 14:40:35,531 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:41:35,532 - GmailWatcher - INFO - --- Check #40 ---
+2026-02-07 14:41:37,316 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:41:37,316 - GmailWatcher - INFO - No new emails
+2026-02-07 14:41:37,318 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:42:37,318 - GmailWatcher - INFO - --- Check #41 ---
+2026-02-07 14:42:37,995 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:42:37,995 - GmailWatcher - INFO - No new emails
+2026-02-07 14:42:37,995 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:43:37,997 - GmailWatcher - INFO - --- Check #42 ---
+2026-02-07 14:43:39,181 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:43:39,181 - GmailWatcher - INFO - No new emails
+2026-02-07 14:43:39,182 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:44:39,183 - GmailWatcher - INFO - --- Check #43 ---
+2026-02-07 14:44:39,768 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:44:39,769 - GmailWatcher - INFO - No new emails
+2026-02-07 14:44:39,769 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:45:39,769 - GmailWatcher - INFO - --- Check #44 ---
+2026-02-07 14:45:40,562 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:45:40,562 - GmailWatcher - INFO - No new emails
+2026-02-07 14:45:40,562 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:46:40,564 - GmailWatcher - INFO - --- Check #45 ---
+2026-02-07 14:46:42,250 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:46:42,251 - GmailWatcher - INFO - No new emails
+2026-02-07 14:46:42,251 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:47:42,252 - GmailWatcher - INFO - --- Check #46 ---
+2026-02-07 14:47:42,852 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:47:42,852 - GmailWatcher - INFO - No new emails
+2026-02-07 14:47:42,852 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:48:42,854 - GmailWatcher - INFO - --- Check #47 ---
+2026-02-07 14:48:43,589 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:48:43,590 - GmailWatcher - INFO - No new emails
+2026-02-07 14:48:43,590 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:49:43,592 - GmailWatcher - INFO - --- Check #48 ---
+2026-02-07 14:49:44,476 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:49:44,477 - GmailWatcher - INFO - No new emails
+2026-02-07 14:49:44,477 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:50:44,478 - GmailWatcher - INFO - --- Check #49 ---
+2026-02-07 14:50:45,109 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:50:45,110 - GmailWatcher - INFO - No new emails
+2026-02-07 14:50:45,110 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:51:45,111 - GmailWatcher - INFO - --- Check #50 ---
+2026-02-07 14:51:45,768 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:51:45,769 - GmailWatcher - INFO - No new emails
+2026-02-07 14:51:45,769 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:52:45,771 - GmailWatcher - INFO - --- Check #51 ---
+2026-02-07 14:52:47,774 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:52:47,775 - GmailWatcher - INFO - No new emails
+2026-02-07 14:52:47,776 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:53:47,777 - GmailWatcher - INFO - --- Check #52 ---
+2026-02-07 14:53:48,540 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:53:48,540 - GmailWatcher - INFO - No new emails
+2026-02-07 14:53:48,541 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:54:48,542 - GmailWatcher - INFO - --- Check #53 ---
+2026-02-07 14:54:49,262 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:54:49,264 - GmailWatcher - INFO - No new emails
+2026-02-07 14:54:49,265 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:55:49,266 - GmailWatcher - INFO - --- Check #54 ---
+2026-02-07 14:55:50,975 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:55:50,976 - GmailWatcher - INFO - No new emails
+2026-02-07 14:55:50,977 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:56:50,978 - GmailWatcher - INFO - --- Check #55 ---
+2026-02-07 14:57:24,100 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:57:24,101 - GmailWatcher - INFO - No new emails
+2026-02-07 14:57:24,102 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:58:24,104 - GmailWatcher - INFO - --- Check #56 ---
+2026-02-07 14:58:24,963 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:58:24,964 - GmailWatcher - INFO - No new emails
+2026-02-07 14:58:24,964 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 14:59:24,966 - GmailWatcher - INFO - --- Check #57 ---
+2026-02-07 14:59:25,676 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 14:59:25,677 - GmailWatcher - INFO - No new emails
+2026-02-07 14:59:25,677 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:00:25,678 - GmailWatcher - INFO - --- Check #58 ---
+2026-02-07 15:00:26,994 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:00:26,995 - GmailWatcher - INFO - No new emails
+2026-02-07 15:00:26,995 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:01:26,997 - GmailWatcher - INFO - --- Check #59 ---
+2026-02-07 15:01:28,103 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:01:28,103 - GmailWatcher - INFO - No new emails
+2026-02-07 15:01:28,103 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:02:28,105 - GmailWatcher - INFO - --- Check #60 ---
+2026-02-07 15:02:38,170 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:02:38,170 - GmailWatcher - INFO - No new emails
+2026-02-07 15:02:38,171 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:03:38,172 - GmailWatcher - INFO - --- Check #61 ---
+2026-02-07 15:03:45,725 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:03:45,725 - GmailWatcher - INFO - No new emails
+2026-02-07 15:03:45,725 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:04:45,726 - GmailWatcher - INFO - --- Check #62 ---
+2026-02-07 15:04:49,200 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:04:49,201 - GmailWatcher - INFO - No new emails
+2026-02-07 15:04:49,201 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:05:49,201 - GmailWatcher - INFO - --- Check #63 ---
+2026-02-07 15:05:50,826 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:05:50,826 - GmailWatcher - INFO - No new emails
+2026-02-07 15:05:50,826 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:06:50,827 - GmailWatcher - INFO - --- Check #64 ---
+2026-02-07 15:06:51,395 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:06:51,395 - GmailWatcher - INFO - No new emails
+2026-02-07 15:06:51,395 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:07:51,395 - GmailWatcher - INFO - --- Check #65 ---
+2026-02-07 15:07:51,942 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:07:51,943 - GmailWatcher - INFO - No new emails
+2026-02-07 15:07:51,943 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:08:51,943 - GmailWatcher - INFO - --- Check #66 ---
+2026-02-07 15:08:52,720 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:08:52,720 - GmailWatcher - INFO - No new emails
+2026-02-07 15:08:52,720 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:09:52,721 - GmailWatcher - INFO - --- Check #67 ---
+2026-02-07 15:09:53,378 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:09:53,378 - GmailWatcher - INFO - No new emails
+2026-02-07 15:09:53,378 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:10:53,379 - GmailWatcher - INFO - --- Check #68 ---
+2026-02-07 15:10:54,051 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:10:54,051 - GmailWatcher - INFO - No new emails
+2026-02-07 15:10:54,051 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:11:54,057 - GmailWatcher - INFO - --- Check #69 ---
+2026-02-07 15:11:54,613 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:11:54,613 - GmailWatcher - INFO - No new emails
+2026-02-07 15:11:54,614 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:12:54,615 - GmailWatcher - INFO - --- Check #70 ---
+2026-02-07 15:12:56,009 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:12:56,010 - GmailWatcher - INFO - No new emails
+2026-02-07 15:12:56,010 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:13:56,011 - GmailWatcher - INFO - --- Check #71 ---
+2026-02-07 15:13:58,772 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:13:58,772 - GmailWatcher - INFO - No new emails
+2026-02-07 15:13:58,773 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:14:58,774 - GmailWatcher - INFO - --- Check #72 ---
+2026-02-07 15:14:59,758 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:14:59,758 - GmailWatcher - INFO - No new emails
+2026-02-07 15:14:59,758 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:15:59,759 - GmailWatcher - INFO - --- Check #73 ---
+2026-02-07 15:16:00,569 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:16:00,570 - GmailWatcher - INFO - No new emails
+2026-02-07 15:16:00,572 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:17:00,573 - GmailWatcher - INFO - --- Check #74 ---
+2026-02-07 15:17:06,587 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:17:06,587 - GmailWatcher - INFO - No new emails
+2026-02-07 15:17:06,587 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:18:06,588 - GmailWatcher - INFO - --- Check #75 ---
+2026-02-07 15:18:07,148 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:18:07,148 - GmailWatcher - INFO - No new emails
+2026-02-07 15:18:07,149 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:19:07,149 - GmailWatcher - INFO - --- Check #76 ---
+2026-02-07 15:19:07,755 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:19:07,755 - GmailWatcher - INFO - No new emails
+2026-02-07 15:19:07,755 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:20:07,756 - GmailWatcher - INFO - --- Check #77 ---
+2026-02-07 15:20:08,427 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:20:08,428 - GmailWatcher - INFO - No new emails
+2026-02-07 15:20:08,428 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:21:08,429 - GmailWatcher - INFO - --- Check #78 ---
+2026-02-07 15:21:09,090 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:21:09,090 - GmailWatcher - INFO - No new emails
+2026-02-07 15:21:09,090 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:22:09,091 - GmailWatcher - INFO - --- Check #79 ---
+2026-02-07 15:22:10,956 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:22:10,956 - GmailWatcher - INFO - No new emails
+2026-02-07 15:22:10,956 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:23:10,957 - GmailWatcher - INFO - --- Check #80 ---
+2026-02-07 15:23:13,886 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:23:13,886 - GmailWatcher - INFO - No new emails
+2026-02-07 15:23:13,887 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:24:13,888 - GmailWatcher - INFO - --- Check #81 ---
+2026-02-07 15:24:20,097 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:24:20,098 - GmailWatcher - INFO - No new emails
+2026-02-07 15:24:20,098 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:25:20,099 - GmailWatcher - INFO - --- Check #82 ---
+2026-02-07 15:25:21,744 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:25:21,744 - GmailWatcher - INFO - No new emails
+2026-02-07 15:25:21,744 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:26:21,746 - GmailWatcher - INFO - --- Check #83 ---
+2026-02-07 15:26:22,960 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:26:22,960 - GmailWatcher - INFO - No new emails
+2026-02-07 15:26:22,960 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:27:22,961 - GmailWatcher - INFO - --- Check #84 ---
+2026-02-07 15:27:23,585 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:27:23,586 - GmailWatcher - INFO - No new emails
+2026-02-07 15:27:23,587 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:28:23,588 - GmailWatcher - INFO - --- Check #85 ---
+2026-02-07 15:28:24,213 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:28:24,213 - GmailWatcher - INFO - No new emails
+2026-02-07 15:28:24,213 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:29:24,215 - GmailWatcher - INFO - --- Check #86 ---
+2026-02-07 15:29:24,778 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:29:24,778 - GmailWatcher - INFO - No new emails
+2026-02-07 15:29:24,778 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:30:24,780 - GmailWatcher - INFO - --- Check #87 ---
+2026-02-07 15:30:25,314 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:30:25,314 - GmailWatcher - INFO - No new emails
+2026-02-07 15:30:25,314 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:31:25,316 - GmailWatcher - INFO - --- Check #88 ---
+2026-02-07 15:31:25,924 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:31:25,924 - GmailWatcher - INFO - No new emails
+2026-02-07 15:31:25,924 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:32:25,925 - GmailWatcher - INFO - --- Check #89 ---
+2026-02-07 15:32:26,477 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:32:26,477 - GmailWatcher - INFO - No new emails
+2026-02-07 15:32:26,477 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:33:26,479 - GmailWatcher - INFO - --- Check #90 ---
+2026-02-07 15:33:27,332 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:33:27,332 - GmailWatcher - INFO - No new emails
+2026-02-07 15:33:27,332 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:34:27,333 - GmailWatcher - INFO - --- Check #91 ---
+2026-02-07 15:34:27,925 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:34:27,926 - GmailWatcher - INFO - No new emails
+2026-02-07 15:34:27,926 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:35:27,928 - GmailWatcher - INFO - --- Check #92 ---
+2026-02-07 15:35:28,568 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:35:28,569 - GmailWatcher - INFO - No new emails
+2026-02-07 15:35:28,570 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:36:28,571 - GmailWatcher - INFO - --- Check #93 ---
+2026-02-07 15:36:29,716 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:36:29,716 - GmailWatcher - INFO - No new emails
+2026-02-07 15:36:29,716 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:37:29,717 - GmailWatcher - INFO - --- Check #94 ---
+2026-02-07 15:37:31,786 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:37:31,786 - GmailWatcher - INFO - No new emails
+2026-02-07 15:37:31,787 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:38:31,788 - GmailWatcher - INFO - --- Check #95 ---
+2026-02-07 15:38:32,467 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:38:32,467 - GmailWatcher - INFO - No new emails
+2026-02-07 15:38:32,467 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:40:07,832 - GmailWatcher - INFO - --- Check #96 ---
+2026-02-07 15:40:07,935 - GmailWatcher - ERROR - Error checking for updates: socket error: EOF occurred in violation of protocol (_ssl.c:2427)
+2026-02-07 15:40:07,962 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-07 15:40:10,019 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-07 15:40:10,113 - GmailWatcher - INFO - No new emails
+2026-02-07 15:40:10,114 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:41:10,115 - GmailWatcher - INFO - --- Check #97 ---
+2026-02-07 15:41:11,120 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:41:11,120 - GmailWatcher - INFO - No new emails
+2026-02-07 15:41:11,121 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:42:11,122 - GmailWatcher - INFO - --- Check #98 ---
+2026-02-07 15:42:11,879 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:42:11,879 - GmailWatcher - INFO - No new emails
+2026-02-07 15:42:11,880 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:43:11,881 - GmailWatcher - INFO - --- Check #99 ---
+2026-02-07 15:43:12,644 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:43:12,645 - GmailWatcher - INFO - No new emails
+2026-02-07 15:43:12,645 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:44:12,646 - GmailWatcher - INFO - --- Check #100 ---
+2026-02-07 15:44:13,194 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:44:13,194 - GmailWatcher - INFO - No new emails
+2026-02-07 15:44:13,195 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:45:13,197 - GmailWatcher - INFO - --- Check #101 ---
+2026-02-07 15:45:13,795 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:45:13,796 - GmailWatcher - INFO - No new emails
+2026-02-07 15:45:13,796 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:46:13,798 - GmailWatcher - INFO - --- Check #102 ---
+2026-02-07 15:46:15,070 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:46:15,071 - GmailWatcher - INFO - No new emails
+2026-02-07 15:46:15,071 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:47:15,072 - GmailWatcher - INFO - --- Check #103 ---
+2026-02-07 15:47:17,843 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:47:17,843 - GmailWatcher - INFO - No new emails
+2026-02-07 15:47:17,844 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:48:17,845 - GmailWatcher - INFO - --- Check #104 ---
+2026-02-07 15:48:19,383 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:48:19,384 - GmailWatcher - INFO - No new emails
+2026-02-07 15:48:19,384 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:49:19,385 - GmailWatcher - INFO - --- Check #105 ---
+2026-02-07 15:49:23,076 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:49:23,076 - GmailWatcher - INFO - No new emails
+2026-02-07 15:49:23,077 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:50:23,078 - GmailWatcher - INFO - --- Check #106 ---
+2026-02-07 15:50:24,394 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:50:24,395 - GmailWatcher - INFO - No new emails
+2026-02-07 15:50:24,396 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:51:24,397 - GmailWatcher - INFO - --- Check #107 ---
+2026-02-07 15:51:26,778 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 15:51:26,779 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 15:51:26,791 - GmailWatcher - INFO - Created email file: EMAIL_20260207_155126_software_engineer_TFG_Solut.md (Priority: normal)
+2026-02-07 15:51:26,795 - GmailWatcher - INFO -   + EMAIL_20260207_155126_software_engineer_TFG_Solut.md
+2026-02-07 15:51:27,297 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:52:27,298 - GmailWatcher - INFO - --- Check #108 ---
+2026-02-07 15:52:28,632 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:52:28,633 - GmailWatcher - INFO - No new emails
+2026-02-07 15:52:28,634 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:53:28,634 - GmailWatcher - INFO - --- Check #109 ---
+2026-02-07 15:53:29,218 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:53:29,218 - GmailWatcher - INFO - No new emails
+2026-02-07 15:53:29,219 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:54:29,220 - GmailWatcher - INFO - --- Check #110 ---
+2026-02-07 15:54:29,752 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:54:29,753 - GmailWatcher - INFO - No new emails
+2026-02-07 15:54:29,754 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:55:29,755 - GmailWatcher - INFO - --- Check #111 ---
+2026-02-07 15:55:30,614 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:55:30,614 - GmailWatcher - INFO - No new emails
+2026-02-07 15:55:30,615 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:56:30,616 - GmailWatcher - INFO - --- Check #112 ---
+2026-02-07 15:56:31,781 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:56:31,782 - GmailWatcher - INFO - No new emails
+2026-02-07 15:56:31,782 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:57:31,784 - GmailWatcher - INFO - --- Check #113 ---
+2026-02-07 15:57:32,632 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:57:32,633 - GmailWatcher - INFO - No new emails
+2026-02-07 15:57:32,633 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:58:32,634 - GmailWatcher - INFO - --- Check #114 ---
+2026-02-07 15:58:33,872 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:58:33,872 - GmailWatcher - INFO - No new emails
+2026-02-07 15:58:33,873 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 15:59:33,874 - GmailWatcher - INFO - --- Check #115 ---
+2026-02-07 15:59:34,881 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 15:59:34,881 - GmailWatcher - INFO - No new emails
+2026-02-07 15:59:34,882 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:00:34,883 - GmailWatcher - INFO - --- Check #116 ---
+2026-02-07 16:00:35,710 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:00:35,711 - GmailWatcher - INFO - No new emails
+2026-02-07 16:00:35,711 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:01:35,713 - GmailWatcher - INFO - --- Check #117 ---
+2026-02-07 16:01:45,232 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:01:45,233 - GmailWatcher - INFO - No new emails
+2026-02-07 16:01:45,233 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:02:45,234 - GmailWatcher - INFO - --- Check #118 ---
+2026-02-07 16:02:45,859 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:02:45,859 - GmailWatcher - INFO - No new emails
+2026-02-07 16:02:45,859 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:03:45,860 - GmailWatcher - INFO - --- Check #119 ---
+2026-02-07 16:03:46,509 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:03:46,509 - GmailWatcher - INFO - No new emails
+2026-02-07 16:03:46,510 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:04:46,511 - GmailWatcher - INFO - --- Check #120 ---
+2026-02-07 16:04:47,550 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:04:47,551 - GmailWatcher - INFO - No new emails
+2026-02-07 16:04:47,551 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:05:47,552 - GmailWatcher - INFO - --- Check #121 ---
+2026-02-07 16:05:48,466 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:05:48,467 - GmailWatcher - INFO - No new emails
+2026-02-07 16:05:48,467 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:06:48,468 - GmailWatcher - INFO - --- Check #122 ---
+2026-02-07 16:06:49,803 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:06:49,804 - GmailWatcher - INFO - No new emails
+2026-02-07 16:06:49,805 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:07:49,806 - GmailWatcher - INFO - --- Check #123 ---
+2026-02-07 16:07:50,936 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:07:50,937 - GmailWatcher - INFO - No new emails
+2026-02-07 16:07:50,938 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:08:50,939 - GmailWatcher - INFO - --- Check #124 ---
+2026-02-07 16:08:52,206 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:08:52,207 - GmailWatcher - INFO - No new emails
+2026-02-07 16:08:52,207 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:09:52,209 - GmailWatcher - INFO - --- Check #125 ---
+2026-02-07 16:09:52,894 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:09:52,894 - GmailWatcher - INFO - No new emails
+2026-02-07 16:09:52,894 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:10:52,896 - GmailWatcher - INFO - --- Check #126 ---
+2026-02-07 16:10:54,090 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:10:54,091 - GmailWatcher - INFO - No new emails
+2026-02-07 16:10:54,092 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:11:54,093 - GmailWatcher - INFO - --- Check #127 ---
+2026-02-07 16:11:58,088 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:11:58,088 - GmailWatcher - INFO - No new emails
+2026-02-07 16:11:58,089 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:12:58,090 - GmailWatcher - INFO - --- Check #128 ---
+2026-02-07 16:12:58,934 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:12:58,936 - GmailWatcher - INFO - No new emails
+2026-02-07 16:12:58,936 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:13:58,938 - GmailWatcher - INFO - --- Check #129 ---
+2026-02-07 16:13:59,513 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:13:59,513 - GmailWatcher - INFO - No new emails
+2026-02-07 16:13:59,513 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:14:59,514 - GmailWatcher - INFO - --- Check #130 ---
+2026-02-07 16:15:00,166 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:15:00,167 - GmailWatcher - INFO - No new emails
+2026-02-07 16:15:00,167 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:16:00,169 - GmailWatcher - INFO - --- Check #131 ---
+2026-02-07 16:16:01,122 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:16:01,122 - GmailWatcher - INFO - No new emails
+2026-02-07 16:16:01,122 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:17:01,127 - GmailWatcher - INFO - --- Check #132 ---
+2026-02-07 16:17:01,711 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:17:01,712 - GmailWatcher - INFO - No new emails
+2026-02-07 16:17:01,712 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:18:01,713 - GmailWatcher - INFO - --- Check #133 ---
+2026-02-07 16:18:03,910 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:18:03,911 - GmailWatcher - INFO - No new emails
+2026-02-07 16:18:03,911 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:19:03,914 - GmailWatcher - INFO - --- Check #134 ---
+2026-02-07 16:19:09,986 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:19:09,986 - GmailWatcher - INFO - No new emails
+2026-02-07 16:19:09,986 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:20:09,987 - GmailWatcher - INFO - --- Check #135 ---
+2026-02-07 16:20:10,626 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:20:10,627 - GmailWatcher - INFO - No new emails
+2026-02-07 16:20:10,627 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:21:10,629 - GmailWatcher - INFO - --- Check #136 ---
+2026-02-07 16:21:12,690 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:21:12,691 - GmailWatcher - INFO - No new emails
+2026-02-07 16:21:12,691 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:22:12,693 - GmailWatcher - INFO - --- Check #137 ---
+2026-02-07 16:22:13,425 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:22:13,425 - GmailWatcher - INFO - No new emails
+2026-02-07 16:22:13,425 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:23:13,427 - GmailWatcher - INFO - --- Check #138 ---
+2026-02-07 16:23:14,046 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:23:14,046 - GmailWatcher - INFO - No new emails
+2026-02-07 16:23:14,046 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:24:14,048 - GmailWatcher - INFO - --- Check #139 ---
+2026-02-07 16:24:14,873 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:24:14,874 - GmailWatcher - INFO - No new emails
+2026-02-07 16:24:14,874 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:25:14,875 - GmailWatcher - INFO - --- Check #140 ---
+2026-02-07 16:25:15,569 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:25:15,570 - GmailWatcher - INFO - No new emails
+2026-02-07 16:25:15,571 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:26:15,572 - GmailWatcher - INFO - --- Check #141 ---
+2026-02-07 16:26:16,605 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:26:16,605 - GmailWatcher - INFO - No new emails
+2026-02-07 16:26:16,606 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:27:16,608 - GmailWatcher - INFO - --- Check #142 ---
+2026-02-07 16:27:17,869 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:27:17,869 - GmailWatcher - INFO - No new emails
+2026-02-07 16:27:17,870 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:28:17,872 - GmailWatcher - INFO - --- Check #143 ---
+2026-02-07 16:28:18,765 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:28:18,766 - GmailWatcher - INFO - No new emails
+2026-02-07 16:28:18,767 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:29:18,768 - GmailWatcher - INFO - --- Check #144 ---
+2026-02-07 16:29:19,556 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:29:19,557 - GmailWatcher - INFO - No new emails
+2026-02-07 16:29:19,557 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:30:19,558 - GmailWatcher - INFO - --- Check #145 ---
+2026-02-07 16:30:20,563 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:30:20,565 - GmailWatcher - INFO - No new emails
+2026-02-07 16:30:20,565 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:31:20,567 - GmailWatcher - INFO - --- Check #146 ---
+2026-02-07 16:31:22,236 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:31:22,238 - GmailWatcher - INFO - No new emails
+2026-02-07 16:31:22,239 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:32:22,241 - GmailWatcher - INFO - --- Check #147 ---
+2026-02-07 16:32:25,692 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:32:25,692 - GmailWatcher - INFO - No new emails
+2026-02-07 16:32:25,694 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:33:25,696 - GmailWatcher - INFO - --- Check #148 ---
+2026-02-07 16:33:27,746 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:33:27,747 - GmailWatcher - INFO - No new emails
+2026-02-07 16:33:27,747 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:34:27,749 - GmailWatcher - INFO - --- Check #149 ---
+2026-02-07 16:35:40,354 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:35:40,356 - GmailWatcher - INFO - No new emails
+2026-02-07 16:35:40,357 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:36:40,361 - GmailWatcher - INFO - --- Check #150 ---
+2026-02-07 16:36:41,195 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:36:41,195 - GmailWatcher - INFO - No new emails
+2026-02-07 16:36:41,196 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:37:41,197 - GmailWatcher - INFO - --- Check #151 ---
+2026-02-07 16:37:41,907 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:37:41,908 - GmailWatcher - INFO - No new emails
+2026-02-07 16:37:41,908 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:38:41,909 - GmailWatcher - INFO - --- Check #152 ---
+2026-02-07 16:38:43,550 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:38:43,551 - GmailWatcher - INFO - No new emails
+2026-02-07 16:38:43,552 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:39:43,554 - GmailWatcher - INFO - --- Check #153 ---
+2026-02-07 16:39:44,576 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:39:44,576 - GmailWatcher - INFO - No new emails
+2026-02-07 16:39:44,576 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:40:44,578 - GmailWatcher - INFO - --- Check #154 ---
+2026-02-07 16:40:45,567 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:40:45,567 - GmailWatcher - INFO - No new emails
+2026-02-07 16:40:45,567 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:41:45,568 - GmailWatcher - INFO - --- Check #155 ---
+2026-02-07 16:41:47,558 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:41:47,559 - GmailWatcher - INFO - No new emails
+2026-02-07 16:41:47,560 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:42:47,561 - GmailWatcher - INFO - --- Check #156 ---
+2026-02-07 16:42:48,750 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:42:48,751 - GmailWatcher - INFO - No new emails
+2026-02-07 16:42:48,751 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:43:48,752 - GmailWatcher - INFO - --- Check #157 ---
+2026-02-07 16:43:50,029 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:43:50,029 - GmailWatcher - INFO - No new emails
+2026-02-07 16:43:50,029 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:44:50,030 - GmailWatcher - INFO - --- Check #158 ---
+2026-02-07 16:44:52,696 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:44:52,697 - GmailWatcher - INFO - No new emails
+2026-02-07 16:44:52,698 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:45:52,699 - GmailWatcher - INFO - --- Check #159 ---
+2026-02-07 16:45:53,240 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:45:53,240 - GmailWatcher - INFO - No new emails
+2026-02-07 16:45:53,241 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:46:53,242 - GmailWatcher - INFO - --- Check #160 ---
+2026-02-07 16:46:54,003 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:46:54,003 - GmailWatcher - INFO - No new emails
+2026-02-07 16:46:54,003 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:47:54,004 - GmailWatcher - INFO - --- Check #161 ---
+2026-02-07 16:47:54,520 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:47:54,520 - GmailWatcher - INFO - No new emails
+2026-02-07 16:47:54,520 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:48:54,521 - GmailWatcher - INFO - --- Check #162 ---
+2026-02-07 16:48:55,029 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:48:55,030 - GmailWatcher - INFO - No new emails
+2026-02-07 16:48:55,031 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 16:49:55,033 - GmailWatcher - INFO - --- Check #163 ---
+2026-02-07 16:49:55,686 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 16:49:55,686 - GmailWatcher - INFO - No new emails
+2026-02-07 16:49:55,686 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:00:35,831 - GmailWatcher - INFO - --- Check #164 ---
+2026-02-07 17:00:35,837 - GmailWatcher - ERROR - Error checking for updates: socket error: EOF occurred in violation of protocol (_ssl.c:2427)
+2026-02-07 17:00:35,843 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-07 17:00:37,560 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-07 17:00:37,563 - GmailWatcher - INFO - No new emails
+2026-02-07 17:00:37,563 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:01:37,565 - GmailWatcher - INFO - --- Check #165 ---
+2026-02-07 17:01:38,217 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:01:38,218 - GmailWatcher - INFO - No new emails
+2026-02-07 17:01:38,219 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:02:38,220 - GmailWatcher - INFO - --- Check #166 ---
+2026-02-07 17:02:38,842 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:02:38,843 - GmailWatcher - INFO - No new emails
+2026-02-07 17:02:38,843 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:03:38,845 - GmailWatcher - INFO - --- Check #167 ---
+2026-02-07 17:03:39,414 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:03:39,414 - GmailWatcher - INFO - No new emails
+2026-02-07 17:03:39,414 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:04:39,415 - GmailWatcher - INFO - --- Check #168 ---
+2026-02-07 17:04:40,088 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:04:40,088 - GmailWatcher - INFO - No new emails
+2026-02-07 17:04:40,089 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:05:40,090 - GmailWatcher - INFO - --- Check #169 ---
+2026-02-07 17:05:40,757 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:05:40,758 - GmailWatcher - INFO - No new emails
+2026-02-07 17:05:40,758 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:06:40,759 - GmailWatcher - INFO - --- Check #170 ---
+2026-02-07 17:06:42,003 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 17:06:42,004 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 17:06:42,027 - GmailWatcher - INFO - Created email file: EMAIL_20260207_170642_Myfxbook_Weekly_Economic_Calen.md (Priority: normal)
+2026-02-07 17:06:42,045 - GmailWatcher - INFO -   + EMAIL_20260207_170642_Myfxbook_Weekly_Economic_Calen.md
+2026-02-07 17:06:42,546 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:07:42,548 - GmailWatcher - INFO - --- Check #171 ---
+2026-02-07 17:07:43,181 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:07:43,181 - GmailWatcher - INFO - No new emails
+2026-02-07 17:07:43,181 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:08:43,182 - GmailWatcher - INFO - --- Check #172 ---
+2026-02-07 17:08:44,521 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:08:44,522 - GmailWatcher - INFO - No new emails
+2026-02-07 17:08:44,522 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:09:44,524 - GmailWatcher - INFO - --- Check #173 ---
+2026-02-07 17:09:45,375 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:09:45,376 - GmailWatcher - INFO - No new emails
+2026-02-07 17:09:45,376 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:10:45,378 - GmailWatcher - INFO - --- Check #174 ---
+2026-02-07 17:10:45,910 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:10:45,911 - GmailWatcher - INFO - No new emails
+2026-02-07 17:10:45,912 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:11:45,913 - GmailWatcher - INFO - --- Check #175 ---
+2026-02-07 17:11:46,446 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:11:46,447 - GmailWatcher - INFO - No new emails
+2026-02-07 17:11:46,448 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:12:46,449 - GmailWatcher - INFO - --- Check #176 ---
+2026-02-07 17:12:47,029 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:12:47,030 - GmailWatcher - INFO - No new emails
+2026-02-07 17:12:47,030 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:13:47,031 - GmailWatcher - INFO - --- Check #177 ---
+2026-02-07 17:13:47,611 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:13:47,612 - GmailWatcher - INFO - No new emails
+2026-02-07 17:13:47,612 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:14:47,614 - GmailWatcher - INFO - --- Check #178 ---
+2026-02-07 17:14:48,576 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:14:48,578 - GmailWatcher - INFO - No new emails
+2026-02-07 17:14:48,578 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:15:48,579 - GmailWatcher - INFO - --- Check #179 ---
+2026-02-07 17:15:49,311 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:15:49,312 - GmailWatcher - INFO - No new emails
+2026-02-07 17:15:49,313 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:16:49,314 - GmailWatcher - INFO - --- Check #180 ---
+2026-02-07 17:16:49,885 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:16:49,885 - GmailWatcher - INFO - No new emails
+2026-02-07 17:16:49,886 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:17:49,886 - GmailWatcher - INFO - --- Check #181 ---
+2026-02-07 17:17:50,514 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:17:50,514 - GmailWatcher - INFO - No new emails
+2026-02-07 17:17:50,514 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:18:50,515 - GmailWatcher - INFO - --- Check #182 ---
+2026-02-07 17:18:51,030 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:18:51,031 - GmailWatcher - INFO - No new emails
+2026-02-07 17:18:51,031 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:19:51,032 - GmailWatcher - INFO - --- Check #183 ---
+2026-02-07 17:19:51,645 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:19:51,646 - GmailWatcher - INFO - No new emails
+2026-02-07 17:19:51,646 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:20:51,647 - GmailWatcher - INFO - --- Check #184 ---
+2026-02-07 17:20:52,273 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:20:52,274 - GmailWatcher - INFO - No new emails
+2026-02-07 17:20:52,274 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:21:52,275 - GmailWatcher - INFO - --- Check #185 ---
+2026-02-07 17:21:52,854 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:21:52,854 - GmailWatcher - INFO - No new emails
+2026-02-07 17:21:52,855 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:22:52,856 - GmailWatcher - INFO - --- Check #186 ---
+2026-02-07 17:23:18,079 - GmailWatcher - ERROR - Error checking for updates: command: SELECT => socket error: EOF
+2026-02-07 17:23:18,080 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-07 17:23:19,333 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-07 17:23:19,334 - GmailWatcher - INFO - No new emails
+2026-02-07 17:23:19,335 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:24:19,336 - GmailWatcher - INFO - --- Check #187 ---
+2026-02-07 17:24:19,906 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:24:19,906 - GmailWatcher - INFO - No new emails
+2026-02-07 17:24:19,907 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:25:19,908 - GmailWatcher - INFO - --- Check #188 ---
+2026-02-07 17:25:20,524 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:25:20,524 - GmailWatcher - INFO - No new emails
+2026-02-07 17:25:20,525 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:26:20,526 - GmailWatcher - INFO - --- Check #189 ---
+2026-02-07 17:26:21,143 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:26:21,143 - GmailWatcher - INFO - No new emails
+2026-02-07 17:26:21,143 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:27:21,145 - GmailWatcher - INFO - --- Check #190 ---
+2026-02-07 17:27:21,672 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:27:21,673 - GmailWatcher - INFO - No new emails
+2026-02-07 17:27:21,673 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:28:21,675 - GmailWatcher - INFO - --- Check #191 ---
+2026-02-07 17:28:22,283 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:28:22,283 - GmailWatcher - INFO - No new emails
+2026-02-07 17:28:22,284 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:29:22,286 - GmailWatcher - INFO - --- Check #192 ---
+2026-02-07 17:29:22,982 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:29:22,983 - GmailWatcher - INFO - No new emails
+2026-02-07 17:29:22,984 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:30:22,985 - GmailWatcher - INFO - --- Check #193 ---
+2026-02-07 17:30:23,584 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:30:23,585 - GmailWatcher - INFO - No new emails
+2026-02-07 17:30:23,586 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:31:23,587 - GmailWatcher - INFO - --- Check #194 ---
+2026-02-07 17:31:24,158 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:31:24,159 - GmailWatcher - INFO - No new emails
+2026-02-07 17:31:24,159 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:32:24,160 - GmailWatcher - INFO - --- Check #195 ---
+2026-02-07 17:32:24,779 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:32:24,781 - GmailWatcher - INFO - No new emails
+2026-02-07 17:32:24,781 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:33:24,782 - GmailWatcher - INFO - --- Check #196 ---
+2026-02-07 17:33:25,550 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:33:25,551 - GmailWatcher - INFO - No new emails
+2026-02-07 17:33:25,552 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:34:25,553 - GmailWatcher - INFO - --- Check #197 ---
+2026-02-07 17:34:26,069 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:34:26,070 - GmailWatcher - INFO - No new emails
+2026-02-07 17:34:26,070 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:35:26,072 - GmailWatcher - INFO - --- Check #198 ---
+2026-02-07 17:35:26,621 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:35:26,622 - GmailWatcher - INFO - No new emails
+2026-02-07 17:35:26,622 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:36:26,624 - GmailWatcher - INFO - --- Check #199 ---
+2026-02-07 17:36:27,258 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:36:27,261 - GmailWatcher - INFO - No new emails
+2026-02-07 17:36:27,261 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:37:27,264 - GmailWatcher - INFO - --- Check #200 ---
+2026-02-07 17:37:27,827 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:37:27,828 - GmailWatcher - INFO - No new emails
+2026-02-07 17:37:27,828 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:38:27,830 - GmailWatcher - INFO - --- Check #201 ---
+2026-02-07 17:38:28,484 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:38:28,485 - GmailWatcher - INFO - No new emails
+2026-02-07 17:38:28,485 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:39:28,486 - GmailWatcher - INFO - --- Check #202 ---
+2026-02-07 17:39:29,062 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:39:29,063 - GmailWatcher - INFO - No new emails
+2026-02-07 17:39:29,063 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:40:29,064 - GmailWatcher - INFO - --- Check #203 ---
+2026-02-07 17:40:29,644 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:40:29,645 - GmailWatcher - INFO - No new emails
+2026-02-07 17:40:29,645 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:41:29,647 - GmailWatcher - INFO - --- Check #204 ---
+2026-02-07 17:41:30,237 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:41:30,237 - GmailWatcher - INFO - No new emails
+2026-02-07 17:41:30,237 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:42:30,238 - GmailWatcher - INFO - --- Check #205 ---
+2026-02-07 17:42:31,340 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:42:31,340 - GmailWatcher - INFO - No new emails
+2026-02-07 17:42:31,341 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:43:31,342 - GmailWatcher - INFO - --- Check #206 ---
+2026-02-07 17:43:31,960 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:43:31,961 - GmailWatcher - INFO - No new emails
+2026-02-07 17:43:31,961 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:44:31,963 - GmailWatcher - INFO - --- Check #207 ---
+2026-02-07 17:44:32,788 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:44:32,788 - GmailWatcher - INFO - No new emails
+2026-02-07 17:44:32,789 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:45:32,790 - GmailWatcher - INFO - --- Check #208 ---
+2026-02-07 17:45:33,790 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:45:33,791 - GmailWatcher - INFO - No new emails
+2026-02-07 17:45:33,791 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:46:33,792 - GmailWatcher - INFO - --- Check #209 ---
+2026-02-07 17:46:34,399 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:46:34,399 - GmailWatcher - INFO - No new emails
+2026-02-07 17:46:34,400 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:47:34,401 - GmailWatcher - INFO - --- Check #210 ---
+2026-02-07 17:47:35,031 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:47:35,032 - GmailWatcher - INFO - No new emails
+2026-02-07 17:47:35,032 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:48:35,033 - GmailWatcher - INFO - --- Check #211 ---
+2026-02-07 17:48:36,906 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:48:36,907 - GmailWatcher - INFO - No new emails
+2026-02-07 17:48:36,908 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:49:36,910 - GmailWatcher - INFO - --- Check #212 ---
+2026-02-07 17:49:37,460 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:49:37,461 - GmailWatcher - INFO - No new emails
+2026-02-07 17:49:37,461 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:50:37,462 - GmailWatcher - INFO - --- Check #213 ---
+2026-02-07 17:50:38,019 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:50:38,020 - GmailWatcher - INFO - No new emails
+2026-02-07 17:50:38,021 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:51:38,022 - GmailWatcher - INFO - --- Check #214 ---
+2026-02-07 17:51:39,767 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 17:51:39,768 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 17:51:39,777 - GmailWatcher - INFO - Created email file: EMAIL_20260207_175139_You_have_an_invitation.md (Priority: normal)
+2026-02-07 17:51:39,786 - GmailWatcher - INFO -   + EMAIL_20260207_175139_You_have_an_invitation.md
+2026-02-07 17:51:40,287 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:52:40,289 - GmailWatcher - INFO - --- Check #215 ---
+2026-02-07 17:52:40,881 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:52:40,882 - GmailWatcher - INFO - No new emails
+2026-02-07 17:52:40,882 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:53:40,883 - GmailWatcher - INFO - --- Check #216 ---
+2026-02-07 17:53:41,912 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:53:41,914 - GmailWatcher - INFO - No new emails
+2026-02-07 17:53:41,914 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:54:41,915 - GmailWatcher - INFO - --- Check #217 ---
+2026-02-07 17:54:42,450 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:54:42,450 - GmailWatcher - INFO - No new emails
+2026-02-07 17:54:42,450 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:55:42,452 - GmailWatcher - INFO - --- Check #218 ---
+2026-02-07 17:55:43,019 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:55:43,019 - GmailWatcher - INFO - No new emails
+2026-02-07 17:55:43,019 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:56:43,020 - GmailWatcher - INFO - --- Check #219 ---
+2026-02-07 17:56:43,617 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:56:43,617 - GmailWatcher - INFO - No new emails
+2026-02-07 17:56:43,619 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:57:43,620 - GmailWatcher - INFO - --- Check #220 ---
+2026-02-07 17:57:44,335 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:57:44,335 - GmailWatcher - INFO - No new emails
+2026-02-07 17:57:44,336 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:58:44,338 - GmailWatcher - INFO - --- Check #221 ---
+2026-02-07 17:58:44,944 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:58:44,945 - GmailWatcher - INFO - No new emails
+2026-02-07 17:58:44,945 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 17:59:44,947 - GmailWatcher - INFO - --- Check #222 ---
+2026-02-07 17:59:45,677 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 17:59:45,677 - GmailWatcher - INFO - No new emails
+2026-02-07 17:59:45,678 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:00:45,679 - GmailWatcher - INFO - --- Check #223 ---
+2026-02-07 18:00:46,758 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:00:46,759 - GmailWatcher - INFO - No new emails
+2026-02-07 18:00:46,760 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:01:46,761 - GmailWatcher - INFO - --- Check #224 ---
+2026-02-07 18:01:47,875 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:01:47,875 - GmailWatcher - INFO - No new emails
+2026-02-07 18:01:47,875 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:02:47,876 - GmailWatcher - INFO - --- Check #225 ---
+2026-02-07 18:02:49,219 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:02:49,220 - GmailWatcher - INFO - No new emails
+2026-02-07 18:02:49,220 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:03:49,221 - GmailWatcher - INFO - --- Check #226 ---
+2026-02-07 18:03:49,899 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:03:49,900 - GmailWatcher - INFO - No new emails
+2026-02-07 18:03:49,900 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:04:49,901 - GmailWatcher - INFO - --- Check #227 ---
+2026-02-07 18:04:50,592 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:04:50,592 - GmailWatcher - INFO - No new emails
+2026-02-07 18:04:50,593 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:05:50,595 - GmailWatcher - INFO - --- Check #228 ---
+2026-02-07 18:05:52,081 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:05:52,081 - GmailWatcher - INFO - No new emails
+2026-02-07 18:05:52,082 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:06:52,083 - GmailWatcher - INFO - --- Check #229 ---
+2026-02-07 18:06:52,962 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:06:52,962 - GmailWatcher - INFO - No new emails
+2026-02-07 18:06:52,963 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:07:52,963 - GmailWatcher - INFO - --- Check #230 ---
+2026-02-07 18:07:54,192 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:07:54,194 - GmailWatcher - INFO - No new emails
+2026-02-07 18:07:54,194 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:08:54,195 - GmailWatcher - INFO - --- Check #231 ---
+2026-02-07 18:08:55,358 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:08:55,358 - GmailWatcher - INFO - No new emails
+2026-02-07 18:08:55,359 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:09:55,360 - GmailWatcher - INFO - --- Check #232 ---
+2026-02-07 18:09:56,592 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:09:56,592 - GmailWatcher - INFO - No new emails
+2026-02-07 18:09:56,592 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:10:56,593 - GmailWatcher - INFO - --- Check #233 ---
+2026-02-07 18:10:57,929 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:10:57,930 - GmailWatcher - INFO - No new emails
+2026-02-07 18:10:57,932 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:11:57,934 - GmailWatcher - INFO - --- Check #234 ---
+2026-02-07 18:11:59,369 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:11:59,369 - GmailWatcher - INFO - No new emails
+2026-02-07 18:11:59,369 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:12:59,370 - GmailWatcher - INFO - --- Check #235 ---
+2026-02-07 18:12:59,950 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:12:59,951 - GmailWatcher - INFO - No new emails
+2026-02-07 18:12:59,951 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:13:59,952 - GmailWatcher - INFO - --- Check #236 ---
+2026-02-07 18:14:01,122 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:14:01,122 - GmailWatcher - INFO - No new emails
+2026-02-07 18:14:01,123 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:15:01,124 - GmailWatcher - INFO - --- Check #237 ---
+2026-02-07 18:15:02,254 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:15:02,255 - GmailWatcher - INFO - No new emails
+2026-02-07 18:15:02,256 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:16:02,258 - GmailWatcher - INFO - --- Check #238 ---
+2026-02-07 18:16:03,080 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:16:03,080 - GmailWatcher - INFO - No new emails
+2026-02-07 18:16:03,081 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:17:03,082 - GmailWatcher - INFO - --- Check #239 ---
+2026-02-07 18:17:03,774 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:17:03,775 - GmailWatcher - INFO - No new emails
+2026-02-07 18:17:03,775 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:18:03,777 - GmailWatcher - INFO - --- Check #240 ---
+2026-02-07 18:18:04,977 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:18:04,978 - GmailWatcher - INFO - No new emails
+2026-02-07 18:18:04,978 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:19:04,979 - GmailWatcher - INFO - --- Check #241 ---
+2026-02-07 18:19:05,628 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:19:05,629 - GmailWatcher - INFO - No new emails
+2026-02-07 18:19:05,629 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:20:05,630 - GmailWatcher - INFO - --- Check #242 ---
+2026-02-07 18:20:06,271 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:20:06,272 - GmailWatcher - INFO - No new emails
+2026-02-07 18:20:06,272 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:21:06,273 - GmailWatcher - INFO - --- Check #243 ---
+2026-02-07 18:21:06,830 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:21:06,830 - GmailWatcher - INFO - No new emails
+2026-02-07 18:21:06,831 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:22:06,832 - GmailWatcher - INFO - --- Check #244 ---
+2026-02-07 18:22:08,748 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:22:08,748 - GmailWatcher - INFO - No new emails
+2026-02-07 18:22:08,749 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:23:08,750 - GmailWatcher - INFO - --- Check #245 ---
+2026-02-07 18:23:09,318 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:23:09,320 - GmailWatcher - INFO - No new emails
+2026-02-07 18:23:09,320 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:24:09,321 - GmailWatcher - INFO - --- Check #246 ---
+2026-02-07 18:24:09,888 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:24:09,889 - GmailWatcher - INFO - No new emails
+2026-02-07 18:24:09,889 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:25:09,891 - GmailWatcher - INFO - --- Check #247 ---
+2026-02-07 18:25:10,585 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:25:10,585 - GmailWatcher - INFO - No new emails
+2026-02-07 18:25:10,585 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:26:10,586 - GmailWatcher - INFO - --- Check #248 ---
+2026-02-07 18:26:11,171 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:26:11,171 - GmailWatcher - INFO - No new emails
+2026-02-07 18:26:11,171 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:27:11,172 - GmailWatcher - INFO - --- Check #249 ---
+2026-02-07 18:27:11,725 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:27:11,726 - GmailWatcher - INFO - No new emails
+2026-02-07 18:27:11,726 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:28:11,727 - GmailWatcher - INFO - --- Check #250 ---
+2026-02-07 18:28:12,544 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:28:12,545 - GmailWatcher - INFO - No new emails
+2026-02-07 18:28:12,546 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:29:12,547 - GmailWatcher - INFO - --- Check #251 ---
+2026-02-07 18:29:13,148 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:29:13,148 - GmailWatcher - INFO - No new emails
+2026-02-07 18:29:13,149 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:30:13,150 - GmailWatcher - INFO - --- Check #252 ---
+2026-02-07 18:30:13,814 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:30:13,815 - GmailWatcher - INFO - No new emails
+2026-02-07 18:30:13,815 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:31:13,816 - GmailWatcher - INFO - --- Check #253 ---
+2026-02-07 18:31:14,825 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:31:14,826 - GmailWatcher - INFO - No new emails
+2026-02-07 18:31:14,826 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:32:14,827 - GmailWatcher - INFO - --- Check #254 ---
+2026-02-07 18:32:15,567 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:32:15,568 - GmailWatcher - INFO - No new emails
+2026-02-07 18:32:15,569 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:33:15,569 - GmailWatcher - INFO - --- Check #255 ---
+2026-02-07 18:33:16,125 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:33:16,126 - GmailWatcher - INFO - No new emails
+2026-02-07 18:33:16,126 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:34:16,127 - GmailWatcher - INFO - --- Check #256 ---
+2026-02-07 18:34:16,757 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:34:16,757 - GmailWatcher - INFO - No new emails
+2026-02-07 18:34:16,758 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:35:16,759 - GmailWatcher - INFO - --- Check #257 ---
+2026-02-07 18:35:19,274 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:35:19,274 - GmailWatcher - INFO - No new emails
+2026-02-07 18:35:19,274 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:36:19,275 - GmailWatcher - INFO - --- Check #258 ---
+2026-02-07 18:36:19,815 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:36:19,815 - GmailWatcher - INFO - No new emails
+2026-02-07 18:36:19,815 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:37:19,816 - GmailWatcher - INFO - --- Check #259 ---
+2026-02-07 18:37:20,344 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:37:20,344 - GmailWatcher - INFO - No new emails
+2026-02-07 18:37:20,344 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:38:20,345 - GmailWatcher - INFO - --- Check #260 ---
+2026-02-07 18:38:20,970 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:38:20,970 - GmailWatcher - INFO - No new emails
+2026-02-07 18:38:20,971 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:39:20,972 - GmailWatcher - INFO - --- Check #261 ---
+2026-02-07 18:39:21,542 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:39:21,542 - GmailWatcher - INFO - No new emails
+2026-02-07 18:39:21,542 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:40:21,543 - GmailWatcher - INFO - --- Check #262 ---
+2026-02-07 18:40:22,061 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:40:22,061 - GmailWatcher - INFO - No new emails
+2026-02-07 18:40:22,061 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:41:22,062 - GmailWatcher - INFO - --- Check #263 ---
+2026-02-07 18:41:22,623 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:41:22,623 - GmailWatcher - INFO - No new emails
+2026-02-07 18:41:22,623 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:42:22,624 - GmailWatcher - INFO - --- Check #264 ---
+2026-02-07 18:42:23,215 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:42:23,215 - GmailWatcher - INFO - No new emails
+2026-02-07 18:42:23,215 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:43:23,216 - GmailWatcher - INFO - --- Check #265 ---
+2026-02-07 18:43:23,759 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:43:23,759 - GmailWatcher - INFO - No new emails
+2026-02-07 18:43:23,759 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:44:23,760 - GmailWatcher - INFO - --- Check #266 ---
+2026-02-07 18:44:24,512 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:44:24,512 - GmailWatcher - INFO - No new emails
+2026-02-07 18:44:24,513 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:45:47,164 - GmailWatcher - INFO - --- Check #267 ---
+2026-02-07 18:45:48,525 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:45:48,525 - GmailWatcher - INFO - No new emails
+2026-02-07 18:45:48,525 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:46:48,526 - GmailWatcher - INFO - --- Check #268 ---
+2026-02-07 18:46:49,137 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:46:49,137 - GmailWatcher - INFO - No new emails
+2026-02-07 18:46:49,137 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:47:49,138 - GmailWatcher - INFO - --- Check #269 ---
+2026-02-07 18:47:49,730 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:47:49,730 - GmailWatcher - INFO - No new emails
+2026-02-07 18:47:49,731 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:48:49,731 - GmailWatcher - INFO - --- Check #270 ---
+2026-02-07 18:48:50,299 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:48:50,299 - GmailWatcher - INFO - No new emails
+2026-02-07 18:48:50,299 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:49:50,300 - GmailWatcher - INFO - --- Check #271 ---
+2026-02-07 18:49:50,944 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:49:50,944 - GmailWatcher - INFO - No new emails
+2026-02-07 18:49:50,944 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:50:50,945 - GmailWatcher - INFO - --- Check #272 ---
+2026-02-07 18:50:51,515 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:50:51,515 - GmailWatcher - INFO - No new emails
+2026-02-07 18:50:51,515 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:57:28,753 - GmailWatcher - INFO - --- Check #273 ---
+2026-02-07 18:57:29,845 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:57:29,845 - GmailWatcher - INFO - No new emails
+2026-02-07 18:57:29,846 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:58:29,846 - GmailWatcher - INFO - --- Check #274 ---
+2026-02-07 18:58:30,442 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:58:30,443 - GmailWatcher - INFO - No new emails
+2026-02-07 18:58:30,443 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 18:59:30,443 - GmailWatcher - INFO - --- Check #275 ---
+2026-02-07 18:59:30,974 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 18:59:30,975 - GmailWatcher - INFO - No new emails
+2026-02-07 18:59:30,975 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:00:30,975 - GmailWatcher - INFO - --- Check #276 ---
+2026-02-07 19:00:31,522 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:00:31,523 - GmailWatcher - INFO - No new emails
+2026-02-07 19:00:31,523 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:01:31,524 - GmailWatcher - INFO - --- Check #277 ---
+2026-02-07 19:01:32,186 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:01:32,186 - GmailWatcher - INFO - No new emails
+2026-02-07 19:01:32,186 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:02:32,187 - GmailWatcher - INFO - --- Check #278 ---
+2026-02-07 19:02:32,772 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:02:32,772 - GmailWatcher - INFO - No new emails
+2026-02-07 19:02:32,773 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:10:19,837 - GmailWatcher - INFO - --- Check #279 ---
+2026-02-07 19:10:20,827 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:10:20,828 - GmailWatcher - INFO - No new emails
+2026-02-07 19:10:20,828 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:12:13,237 - GmailWatcher - INFO - --- Check #280 ---
+2026-02-07 19:12:13,816 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:12:13,816 - GmailWatcher - INFO - No new emails
+2026-02-07 19:12:13,816 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:13:13,818 - GmailWatcher - INFO - --- Check #281 ---
+2026-02-07 19:13:14,361 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:13:14,361 - GmailWatcher - INFO - No new emails
+2026-02-07 19:13:14,361 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:14:14,362 - GmailWatcher - INFO - --- Check #282 ---
+2026-02-07 19:14:15,046 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:14:15,046 - GmailWatcher - INFO - No new emails
+2026-02-07 19:14:15,046 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:15:15,047 - GmailWatcher - INFO - --- Check #283 ---
+2026-02-07 19:15:16,496 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 19:15:16,496 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 19:15:16,509 - GmailWatcher - INFO - Created email file: EMAIL_20260207_191516_GitHub_Sudo_email_verificati.md (Priority: normal)
+2026-02-07 19:15:16,511 - GmailWatcher - INFO -   + EMAIL_20260207_191516_GitHub_Sudo_email_verificati.md
+2026-02-07 19:15:17,013 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:16:17,014 - GmailWatcher - INFO - --- Check #284 ---
+2026-02-07 19:16:18,086 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:16:18,086 - GmailWatcher - INFO - No new emails
+2026-02-07 19:16:18,086 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:17:18,087 - GmailWatcher - INFO - --- Check #285 ---
+2026-02-07 19:17:19,165 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:17:19,165 - GmailWatcher - INFO - No new emails
+2026-02-07 19:17:19,165 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:18:19,166 - GmailWatcher - INFO - --- Check #286 ---
+2026-02-07 19:18:19,922 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:18:19,922 - GmailWatcher - INFO - No new emails
+2026-02-07 19:18:19,923 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:20:58,277 - GmailWatcher - INFO - --- Check #287 ---
+2026-02-07 19:20:59,182 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:20:59,184 - GmailWatcher - INFO - No new emails
+2026-02-07 19:20:59,184 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:25:55,456 - GmailWatcher - INFO - --- Check #288 ---
+2026-02-07 19:25:55,465 - GmailWatcher - ERROR - Error checking for updates: socket error: EOF occurred in violation of protocol (_ssl.c:2427)
+2026-02-07 19:25:55,466 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-07 19:25:57,040 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-07 19:25:57,045 - GmailWatcher - INFO - No new emails
+2026-02-07 19:25:57,045 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:26:57,047 - GmailWatcher - INFO - --- Check #289 ---
+2026-02-07 19:26:58,031 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:26:58,031 - GmailWatcher - INFO - No new emails
+2026-02-07 19:26:58,031 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:27:58,036 - GmailWatcher - INFO - --- Check #290 ---
+2026-02-07 19:27:59,409 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:27:59,409 - GmailWatcher - INFO - No new emails
+2026-02-07 19:27:59,409 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:28:59,413 - GmailWatcher - INFO - --- Check #291 ---
+2026-02-07 19:28:59,974 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:28:59,974 - GmailWatcher - INFO - No new emails
+2026-02-07 19:28:59,974 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:29:59,977 - GmailWatcher - INFO - --- Check #292 ---
+2026-02-07 19:30:01,161 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:30:01,161 - GmailWatcher - INFO - No new emails
+2026-02-07 19:30:01,162 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:31:01,162 - GmailWatcher - INFO - --- Check #293 ---
+2026-02-07 19:31:02,053 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:31:02,053 - GmailWatcher - INFO - No new emails
+2026-02-07 19:31:02,053 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:32:02,054 - GmailWatcher - INFO - --- Check #294 ---
+2026-02-07 19:32:03,014 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:32:03,017 - GmailWatcher - INFO - No new emails
+2026-02-07 19:32:03,017 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:33:03,018 - GmailWatcher - INFO - --- Check #295 ---
+2026-02-07 19:33:04,332 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:33:04,332 - GmailWatcher - INFO - No new emails
+2026-02-07 19:33:04,337 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:34:04,338 - GmailWatcher - INFO - --- Check #296 ---
+2026-02-07 19:34:05,974 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:34:05,974 - GmailWatcher - INFO - No new emails
+2026-02-07 19:34:05,974 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:35:05,983 - GmailWatcher - INFO - --- Check #297 ---
+2026-02-07 19:35:07,744 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:35:07,744 - GmailWatcher - INFO - No new emails
+2026-02-07 19:35:07,747 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:36:07,748 - GmailWatcher - INFO - --- Check #298 ---
+2026-02-07 19:36:09,582 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:36:09,591 - GmailWatcher - INFO - No new emails
+2026-02-07 19:36:09,591 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:37:09,596 - GmailWatcher - INFO - --- Check #299 ---
+2026-02-07 19:37:11,852 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:37:11,855 - GmailWatcher - INFO - No new emails
+2026-02-07 19:37:11,855 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:38:11,856 - GmailWatcher - INFO - --- Check #300 ---
+2026-02-07 19:38:13,190 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:38:13,192 - GmailWatcher - INFO - No new emails
+2026-02-07 19:38:13,192 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:39:13,194 - GmailWatcher - INFO - --- Check #301 ---
+2026-02-07 19:39:15,508 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:39:15,508 - GmailWatcher - INFO - No new emails
+2026-02-07 19:39:15,508 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:40:15,509 - GmailWatcher - INFO - --- Check #302 ---
+2026-02-07 19:40:16,386 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:40:16,389 - GmailWatcher - INFO - No new emails
+2026-02-07 19:40:16,389 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:41:16,392 - GmailWatcher - INFO - --- Check #303 ---
+2026-02-07 19:41:18,293 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:41:18,294 - GmailWatcher - INFO - No new emails
+2026-02-07 19:41:18,294 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:42:18,295 - GmailWatcher - INFO - --- Check #304 ---
+2026-02-07 19:42:19,666 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:42:19,666 - GmailWatcher - INFO - No new emails
+2026-02-07 19:42:19,666 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:43:19,669 - GmailWatcher - INFO - --- Check #305 ---
+2026-02-07 19:43:21,347 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:43:21,347 - GmailWatcher - INFO - No new emails
+2026-02-07 19:43:21,352 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:44:21,354 - GmailWatcher - INFO - --- Check #306 ---
+2026-02-07 19:44:22,266 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:44:22,266 - GmailWatcher - INFO - No new emails
+2026-02-07 19:44:22,266 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:45:22,269 - GmailWatcher - INFO - --- Check #307 ---
+2026-02-07 19:45:23,723 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:45:23,723 - GmailWatcher - INFO - No new emails
+2026-02-07 19:45:23,727 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:46:23,728 - GmailWatcher - INFO - --- Check #308 ---
+2026-02-07 19:46:24,410 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:46:24,410 - GmailWatcher - INFO - No new emails
+2026-02-07 19:46:24,410 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:47:24,415 - GmailWatcher - INFO - --- Check #309 ---
+2026-02-07 19:47:25,026 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:47:25,026 - GmailWatcher - INFO - No new emails
+2026-02-07 19:47:25,027 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:48:25,028 - GmailWatcher - INFO - --- Check #310 ---
+2026-02-07 19:48:25,634 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:48:25,634 - GmailWatcher - INFO - No new emails
+2026-02-07 19:48:25,636 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:49:25,637 - GmailWatcher - INFO - --- Check #311 ---
+2026-02-07 19:49:26,469 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:49:26,469 - GmailWatcher - INFO - No new emails
+2026-02-07 19:49:26,472 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:50:26,473 - GmailWatcher - INFO - --- Check #312 ---
+2026-02-07 19:50:28,078 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:50:28,079 - GmailWatcher - INFO - No new emails
+2026-02-07 19:50:28,079 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:51:28,080 - GmailWatcher - INFO - --- Check #313 ---
+2026-02-07 19:51:29,823 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:51:29,823 - GmailWatcher - INFO - No new emails
+2026-02-07 19:51:29,823 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:52:29,824 - GmailWatcher - INFO - --- Check #314 ---
+2026-02-07 19:52:31,371 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 19:52:31,371 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 19:52:31,384 - GmailWatcher - INFO - Created email file: EMAIL_20260207_195231_You_have_an_invitation.md (Priority: normal)
+2026-02-07 19:52:31,394 - GmailWatcher - INFO -   + EMAIL_20260207_195231_You_have_an_invitation.md
+2026-02-07 19:52:31,896 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:53:31,896 - GmailWatcher - INFO - --- Check #315 ---
+2026-02-07 19:53:32,692 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:53:32,692 - GmailWatcher - INFO - No new emails
+2026-02-07 19:53:32,692 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:54:32,700 - GmailWatcher - INFO - --- Check #316 ---
+2026-02-07 19:54:34,558 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:54:34,558 - GmailWatcher - INFO - No new emails
+2026-02-07 19:54:34,563 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:55:34,565 - GmailWatcher - INFO - --- Check #317 ---
+2026-02-07 19:55:35,292 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:55:35,292 - GmailWatcher - INFO - No new emails
+2026-02-07 19:55:35,292 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:56:35,298 - GmailWatcher - INFO - --- Check #318 ---
+2026-02-07 19:56:35,874 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:56:35,874 - GmailWatcher - INFO - No new emails
+2026-02-07 19:56:35,874 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:57:35,881 - GmailWatcher - INFO - --- Check #319 ---
+2026-02-07 19:57:36,406 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:57:36,406 - GmailWatcher - INFO - No new emails
+2026-02-07 19:57:36,406 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:58:36,413 - GmailWatcher - INFO - --- Check #320 ---
+2026-02-07 19:58:37,173 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:58:37,173 - GmailWatcher - INFO - No new emails
+2026-02-07 19:58:37,176 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 19:59:37,177 - GmailWatcher - INFO - --- Check #321 ---
+2026-02-07 19:59:39,146 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 19:59:39,146 - GmailWatcher - INFO - No new emails
+2026-02-07 19:59:39,148 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:00:39,149 - GmailWatcher - INFO - --- Check #322 ---
+2026-02-07 20:00:39,706 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:00:39,706 - GmailWatcher - INFO - No new emails
+2026-02-07 20:00:39,706 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:01:39,710 - GmailWatcher - INFO - --- Check #323 ---
+2026-02-07 20:01:40,567 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:01:40,567 - GmailWatcher - INFO - No new emails
+2026-02-07 20:01:40,567 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:02:40,572 - GmailWatcher - INFO - --- Check #324 ---
+2026-02-07 20:02:42,154 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 20:02:42,154 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 20:02:42,161 - GmailWatcher - INFO - Created email file: EMAIL_20260207_200242_Learning_Fast_Is_Easy_Learnin.md (Priority: normal)
+2026-02-07 20:02:42,169 - GmailWatcher - INFO -   + EMAIL_20260207_200242_Learning_Fast_Is_Easy_Learnin.md
+2026-02-07 20:02:42,672 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:03:42,674 - GmailWatcher - INFO - --- Check #325 ---
+2026-02-07 20:03:43,304 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:03:43,304 - GmailWatcher - INFO - No new emails
+2026-02-07 20:03:43,304 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:04:43,312 - GmailWatcher - INFO - --- Check #326 ---
+2026-02-07 20:04:43,936 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:04:43,936 - GmailWatcher - INFO - No new emails
+2026-02-07 20:04:43,936 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:05:43,942 - GmailWatcher - INFO - --- Check #327 ---
+2026-02-07 20:05:45,302 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:05:45,302 - GmailWatcher - INFO - No new emails
+2026-02-07 20:05:45,302 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:06:45,306 - GmailWatcher - INFO - --- Check #328 ---
+2026-02-07 20:06:46,231 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:06:46,231 - GmailWatcher - INFO - No new emails
+2026-02-07 20:06:46,231 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:07:46,234 - GmailWatcher - INFO - --- Check #329 ---
+2026-02-07 20:07:47,695 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 20:07:47,695 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 20:07:47,701 - GmailWatcher - INFO - Created email file: EMAIL_20260207_200747_Skip_the_Setup_Start_with_the.md (Priority: normal)
+2026-02-07 20:07:47,709 - GmailWatcher - INFO -   + EMAIL_20260207_200747_Skip_the_Setup_Start_with_the.md
+2026-02-07 20:07:48,212 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:08:48,213 - GmailWatcher - INFO - --- Check #330 ---
+2026-02-07 20:08:48,885 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:08:48,885 - GmailWatcher - INFO - No new emails
+2026-02-07 20:08:48,885 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:09:48,889 - GmailWatcher - INFO - --- Check #331 ---
+2026-02-07 20:09:50,181 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:09:50,181 - GmailWatcher - INFO - No new emails
+2026-02-07 20:09:50,181 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:10:50,189 - GmailWatcher - INFO - --- Check #332 ---
+2026-02-07 20:10:50,826 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:10:50,826 - GmailWatcher - INFO - No new emails
+2026-02-07 20:10:50,826 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:11:50,828 - GmailWatcher - INFO - --- Check #333 ---
+2026-02-07 20:11:51,953 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:11:51,953 - GmailWatcher - INFO - No new emails
+2026-02-07 20:11:51,955 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:12:51,955 - GmailWatcher - INFO - --- Check #334 ---
+2026-02-07 20:12:52,554 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:12:52,554 - GmailWatcher - INFO - No new emails
+2026-02-07 20:12:52,554 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:13:52,556 - GmailWatcher - INFO - --- Check #335 ---
+2026-02-07 20:13:53,665 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:13:53,667 - GmailWatcher - INFO - No new emails
+2026-02-07 20:13:53,667 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:14:53,667 - GmailWatcher - INFO - --- Check #336 ---
+2026-02-07 20:14:54,365 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:14:54,365 - GmailWatcher - INFO - No new emails
+2026-02-07 20:14:54,365 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:15:54,370 - GmailWatcher - INFO - --- Check #337 ---
+2026-02-07 20:15:56,102 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:15:56,102 - GmailWatcher - INFO - No new emails
+2026-02-07 20:15:56,102 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:16:56,104 - GmailWatcher - INFO - --- Check #338 ---
+2026-02-07 20:16:57,340 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:16:57,340 - GmailWatcher - INFO - No new emails
+2026-02-07 20:16:57,340 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:17:57,342 - GmailWatcher - INFO - --- Check #339 ---
+2026-02-07 20:17:58,083 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:17:58,083 - GmailWatcher - INFO - No new emails
+2026-02-07 20:17:58,086 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:18:58,088 - GmailWatcher - INFO - --- Check #340 ---
+2026-02-07 20:18:59,489 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:18:59,489 - GmailWatcher - INFO - No new emails
+2026-02-07 20:18:59,489 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:19:59,496 - GmailWatcher - INFO - --- Check #341 ---
+2026-02-07 20:20:00,161 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:20:00,161 - GmailWatcher - INFO - No new emails
+2026-02-07 20:20:00,161 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:21:00,165 - GmailWatcher - INFO - --- Check #342 ---
+2026-02-07 20:21:00,712 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:21:00,712 - GmailWatcher - INFO - No new emails
+2026-02-07 20:21:00,714 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:22:00,714 - GmailWatcher - INFO - --- Check #343 ---
+2026-02-07 20:22:01,359 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:22:01,359 - GmailWatcher - INFO - No new emails
+2026-02-07 20:22:01,359 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:23:01,362 - GmailWatcher - INFO - --- Check #344 ---
+2026-02-07 20:23:02,033 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:23:02,033 - GmailWatcher - INFO - No new emails
+2026-02-07 20:23:02,035 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:24:02,037 - GmailWatcher - INFO - --- Check #345 ---
+2026-02-07 20:24:03,107 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:24:03,107 - GmailWatcher - INFO - No new emails
+2026-02-07 20:24:03,107 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:25:03,110 - GmailWatcher - INFO - --- Check #346 ---
+2026-02-07 20:25:03,675 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:25:03,675 - GmailWatcher - INFO - No new emails
+2026-02-07 20:25:03,678 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:26:03,679 - GmailWatcher - INFO - --- Check #347 ---
+2026-02-07 20:26:04,325 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:26:04,328 - GmailWatcher - INFO - No new emails
+2026-02-07 20:26:04,328 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:27:04,329 - GmailWatcher - INFO - --- Check #348 ---
+2026-02-07 20:27:05,231 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:27:05,231 - GmailWatcher - INFO - No new emails
+2026-02-07 20:27:05,231 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:28:05,233 - GmailWatcher - INFO - --- Check #349 ---
+2026-02-07 20:28:05,782 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:28:05,782 - GmailWatcher - INFO - No new emails
+2026-02-07 20:28:05,782 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:29:05,785 - GmailWatcher - INFO - --- Check #350 ---
+2026-02-07 20:29:07,338 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:29:07,338 - GmailWatcher - INFO - No new emails
+2026-02-07 20:29:07,338 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:30:07,343 - GmailWatcher - INFO - --- Check #351 ---
+2026-02-07 20:30:07,876 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:30:07,876 - GmailWatcher - INFO - No new emails
+2026-02-07 20:30:07,876 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:31:07,881 - GmailWatcher - INFO - --- Check #352 ---
+2026-02-07 20:31:08,496 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:31:08,496 - GmailWatcher - INFO - No new emails
+2026-02-07 20:31:08,496 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:32:08,500 - GmailWatcher - INFO - --- Check #353 ---
+2026-02-07 20:32:10,150 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:32:10,150 - GmailWatcher - INFO - No new emails
+2026-02-07 20:32:10,151 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:33:10,152 - GmailWatcher - INFO - --- Check #354 ---
+2026-02-07 20:33:11,888 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:33:11,888 - GmailWatcher - INFO - No new emails
+2026-02-07 20:33:11,891 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:34:11,892 - GmailWatcher - INFO - --- Check #355 ---
+2026-02-07 20:34:13,620 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:34:13,620 - GmailWatcher - INFO - No new emails
+2026-02-07 20:34:13,620 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:35:13,627 - GmailWatcher - INFO - --- Check #356 ---
+2026-02-07 20:35:15,976 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:35:15,979 - GmailWatcher - INFO - No new emails
+2026-02-07 20:35:15,980 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:36:15,981 - GmailWatcher - INFO - --- Check #357 ---
+2026-02-07 20:36:18,116 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:36:18,116 - GmailWatcher - INFO - No new emails
+2026-02-07 20:36:18,116 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:37:18,118 - GmailWatcher - INFO - --- Check #358 ---
+2026-02-07 20:37:20,142 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:37:20,142 - GmailWatcher - INFO - No new emails
+2026-02-07 20:37:20,142 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:38:20,158 - GmailWatcher - INFO - --- Check #359 ---
+2026-02-07 20:38:22,473 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:38:22,473 - GmailWatcher - INFO - No new emails
+2026-02-07 20:38:22,473 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:39:22,475 - GmailWatcher - INFO - --- Check #360 ---
+2026-02-07 20:39:25,645 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:39:25,645 - GmailWatcher - INFO - No new emails
+2026-02-07 20:39:25,645 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:40:25,648 - GmailWatcher - INFO - --- Check #361 ---
+2026-02-07 20:40:30,999 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:40:31,000 - GmailWatcher - INFO - No new emails
+2026-02-07 20:40:31,000 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:41:31,001 - GmailWatcher - INFO - --- Check #362 ---
+2026-02-07 20:41:34,291 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:41:34,291 - GmailWatcher - INFO - No new emails
+2026-02-07 20:41:34,291 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:42:34,294 - GmailWatcher - INFO - --- Check #363 ---
+2026-02-07 20:42:36,278 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:42:36,278 - GmailWatcher - INFO - No new emails
+2026-02-07 20:42:36,278 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:43:36,280 - GmailWatcher - INFO - --- Check #364 ---
+2026-02-07 20:43:38,103 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:43:38,103 - GmailWatcher - INFO - No new emails
+2026-02-07 20:43:38,103 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:44:38,111 - GmailWatcher - INFO - --- Check #365 ---
+2026-02-07 20:44:40,295 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:44:40,295 - GmailWatcher - INFO - No new emails
+2026-02-07 20:44:40,295 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:45:40,298 - GmailWatcher - INFO - --- Check #366 ---
+2026-02-07 20:45:42,314 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:45:42,320 - GmailWatcher - INFO - No new emails
+2026-02-07 20:45:42,320 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:46:42,321 - GmailWatcher - INFO - --- Check #367 ---
+2026-02-07 20:46:44,860 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 20:46:44,862 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 20:46:44,874 - GmailWatcher - INFO - Created email file: EMAIL_20260207_204644_Not_in_my_city.md (Priority: normal)
+2026-02-07 20:46:44,883 - GmailWatcher - INFO -   + EMAIL_20260207_204644_Not_in_my_city.md
+2026-02-07 20:46:45,384 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:47:45,386 - GmailWatcher - INFO - --- Check #368 ---
+2026-02-07 20:47:47,215 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:47:47,215 - GmailWatcher - INFO - No new emails
+2026-02-07 20:47:47,215 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:48:47,222 - GmailWatcher - INFO - --- Check #369 ---
+2026-02-07 20:48:57,349 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:48:57,349 - GmailWatcher - INFO - No new emails
+2026-02-07 20:48:57,355 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:49:57,356 - GmailWatcher - INFO - --- Check #370 ---
+2026-02-07 20:49:59,700 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:49:59,700 - GmailWatcher - INFO - No new emails
+2026-02-07 20:49:59,700 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:50:59,707 - GmailWatcher - INFO - --- Check #371 ---
+2026-02-07 20:51:04,343 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:51:04,343 - GmailWatcher - INFO - No new emails
+2026-02-07 20:51:04,353 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:52:04,354 - GmailWatcher - INFO - --- Check #372 ---
+2026-02-07 20:52:06,727 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:52:06,727 - GmailWatcher - INFO - No new emails
+2026-02-07 20:52:06,732 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:53:06,733 - GmailWatcher - INFO - --- Check #373 ---
+2026-02-07 20:53:09,741 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:53:09,742 - GmailWatcher - INFO - No new emails
+2026-02-07 20:53:09,742 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:54:09,744 - GmailWatcher - INFO - --- Check #374 ---
+2026-02-07 20:54:12,740 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:54:12,740 - GmailWatcher - INFO - No new emails
+2026-02-07 20:54:12,740 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:55:12,742 - GmailWatcher - INFO - --- Check #375 ---
+2026-02-07 20:55:15,104 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:55:15,104 - GmailWatcher - INFO - No new emails
+2026-02-07 20:55:15,104 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:56:15,107 - GmailWatcher - INFO - --- Check #376 ---
+2026-02-07 20:56:17,663 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:56:17,666 - GmailWatcher - INFO - No new emails
+2026-02-07 20:56:17,666 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:57:17,667 - GmailWatcher - INFO - --- Check #377 ---
+2026-02-07 20:57:20,215 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:57:20,215 - GmailWatcher - INFO - No new emails
+2026-02-07 20:57:20,215 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:58:20,218 - GmailWatcher - INFO - --- Check #378 ---
+2026-02-07 20:58:23,207 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:58:23,207 - GmailWatcher - INFO - No new emails
+2026-02-07 20:58:23,207 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 20:59:23,211 - GmailWatcher - INFO - --- Check #379 ---
+2026-02-07 20:59:26,082 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 20:59:26,082 - GmailWatcher - INFO - No new emails
+2026-02-07 20:59:26,082 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:00:26,085 - GmailWatcher - INFO - --- Check #380 ---
+2026-02-07 21:00:28,578 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:00:28,578 - GmailWatcher - INFO - No new emails
+2026-02-07 21:00:28,578 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:01:28,585 - GmailWatcher - INFO - --- Check #381 ---
+2026-02-07 21:01:30,660 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:01:30,660 - GmailWatcher - INFO - No new emails
+2026-02-07 21:01:30,660 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:02:30,663 - GmailWatcher - INFO - --- Check #382 ---
+2026-02-07 21:02:33,164 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:02:33,164 - GmailWatcher - INFO - No new emails
+2026-02-07 21:02:33,164 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:03:33,165 - GmailWatcher - INFO - --- Check #383 ---
+2026-02-07 21:03:35,472 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:03:35,472 - GmailWatcher - INFO - No new emails
+2026-02-07 21:03:35,472 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:04:35,474 - GmailWatcher - INFO - --- Check #384 ---
+2026-02-07 21:04:38,111 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:04:38,112 - GmailWatcher - INFO - No new emails
+2026-02-07 21:04:38,112 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:05:38,113 - GmailWatcher - INFO - --- Check #385 ---
+2026-02-07 21:05:40,546 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:05:40,546 - GmailWatcher - INFO - No new emails
+2026-02-07 21:05:40,547 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:06:40,548 - GmailWatcher - INFO - --- Check #386 ---
+2026-02-07 21:06:42,917 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:06:42,919 - GmailWatcher - INFO - No new emails
+2026-02-07 21:06:42,920 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:07:42,921 - GmailWatcher - INFO - --- Check #387 ---
+2026-02-07 21:08:30,799 - GmailWatcher - ERROR - Error checking for updates: command: SEARCH => socket error: EOF
+2026-02-07 21:08:30,799 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-07 21:08:42,144 - GmailWatcher - ERROR - Connection error: [Errno 11001] getaddrinfo failed
+2026-02-07 21:08:42,152 - GmailWatcher - INFO - No new emails
+2026-02-07 21:08:42,152 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:09:42,153 - GmailWatcher - INFO - --- Check #388 ---
+2026-02-07 21:09:42,153 - GmailWatcher - ERROR - Error checking for updates: 'NoneType' object has no attribute 'select'
+2026-02-07 21:09:42,153 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-07 21:10:02,046 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-07 21:10:02,046 - GmailWatcher - INFO - No new emails
+2026-02-07 21:10:02,046 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:11:02,048 - GmailWatcher - INFO - --- Check #389 ---
+2026-02-07 21:11:06,139 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:11:06,139 - GmailWatcher - INFO - No new emails
+2026-02-07 21:11:06,139 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:12:06,142 - GmailWatcher - INFO - --- Check #390 ---
+2026-02-07 21:12:29,519 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:12:29,520 - GmailWatcher - INFO - No new emails
+2026-02-07 21:12:29,521 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:13:29,525 - GmailWatcher - INFO - --- Check #391 ---
+2026-02-07 21:13:47,274 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:13:47,276 - GmailWatcher - INFO - No new emails
+2026-02-07 21:13:47,276 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:14:47,278 - GmailWatcher - INFO - --- Check #392 ---
+2026-02-07 21:14:49,521 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:14:49,521 - GmailWatcher - INFO - No new emails
+2026-02-07 21:14:49,521 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:15:49,526 - GmailWatcher - INFO - --- Check #393 ---
+2026-02-07 21:15:51,886 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:15:51,886 - GmailWatcher - INFO - No new emails
+2026-02-07 21:15:51,886 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:16:51,889 - GmailWatcher - INFO - --- Check #394 ---
+2026-02-07 21:16:54,140 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:16:54,141 - GmailWatcher - INFO - No new emails
+2026-02-07 21:16:54,141 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:17:54,142 - GmailWatcher - INFO - --- Check #395 ---
+2026-02-07 21:17:56,925 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:17:56,926 - GmailWatcher - INFO - No new emails
+2026-02-07 21:17:56,926 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:18:56,926 - GmailWatcher - INFO - --- Check #396 ---
+2026-02-07 21:19:00,093 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:19:00,096 - GmailWatcher - INFO - No new emails
+2026-02-07 21:19:00,096 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:20:00,139 - GmailWatcher - INFO - --- Check #397 ---
+2026-02-07 21:20:02,543 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:20:02,543 - GmailWatcher - INFO - No new emails
+2026-02-07 21:20:02,543 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:21:02,545 - GmailWatcher - INFO - --- Check #398 ---
+2026-02-07 21:21:04,705 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:21:04,705 - GmailWatcher - INFO - No new emails
+2026-02-07 21:21:04,705 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:22:04,714 - GmailWatcher - INFO - --- Check #399 ---
+2026-02-07 21:22:06,867 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:22:06,867 - GmailWatcher - INFO - No new emails
+2026-02-07 21:22:06,867 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:23:06,868 - GmailWatcher - INFO - --- Check #400 ---
+2026-02-07 21:23:09,713 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:23:09,713 - GmailWatcher - INFO - No new emails
+2026-02-07 21:23:09,713 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:24:09,717 - GmailWatcher - INFO - --- Check #401 ---
+2026-02-07 21:24:11,945 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:24:11,945 - GmailWatcher - INFO - No new emails
+2026-02-07 21:24:11,945 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:25:11,949 - GmailWatcher - INFO - --- Check #402 ---
+2026-02-07 21:25:15,277 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:25:15,277 - GmailWatcher - INFO - No new emails
+2026-02-07 21:25:15,285 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:26:15,286 - GmailWatcher - INFO - --- Check #403 ---
+2026-02-07 21:26:18,281 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:26:18,284 - GmailWatcher - INFO - No new emails
+2026-02-07 21:26:18,284 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:27:18,285 - GmailWatcher - INFO - --- Check #404 ---
+2026-02-07 21:27:20,985 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:27:20,985 - GmailWatcher - INFO - No new emails
+2026-02-07 21:27:20,985 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:28:20,992 - GmailWatcher - INFO - --- Check #405 ---
+2026-02-07 21:28:23,188 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:28:23,188 - GmailWatcher - INFO - No new emails
+2026-02-07 21:28:23,188 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:29:23,191 - GmailWatcher - INFO - --- Check #406 ---
+2026-02-07 21:29:25,919 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:29:25,920 - GmailWatcher - INFO - No new emails
+2026-02-07 21:29:25,920 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:30:25,922 - GmailWatcher - INFO - --- Check #407 ---
+2026-02-07 21:30:27,661 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:30:27,661 - GmailWatcher - INFO - No new emails
+2026-02-07 21:30:27,661 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:31:27,663 - GmailWatcher - INFO - --- Check #408 ---
+2026-02-07 21:31:30,000 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:31:30,000 - GmailWatcher - INFO - No new emails
+2026-02-07 21:31:30,000 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:32:30,018 - GmailWatcher - INFO - --- Check #409 ---
+2026-02-07 21:32:40,211 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:32:40,211 - GmailWatcher - INFO - No new emails
+2026-02-07 21:32:40,211 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:33:40,214 - GmailWatcher - INFO - --- Check #410 ---
+2026-02-07 21:33:42,297 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:33:42,297 - GmailWatcher - INFO - No new emails
+2026-02-07 21:33:42,297 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:34:42,301 - GmailWatcher - INFO - --- Check #411 ---
+2026-02-07 21:34:45,284 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:34:45,286 - GmailWatcher - INFO - No new emails
+2026-02-07 21:34:45,286 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:35:45,289 - GmailWatcher - INFO - --- Check #412 ---
+2026-02-07 21:35:48,297 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:35:48,297 - GmailWatcher - INFO - No new emails
+2026-02-07 21:35:48,297 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:36:48,300 - GmailWatcher - INFO - --- Check #413 ---
+2026-02-07 21:36:52,685 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 21:36:52,685 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 21:36:52,695 - GmailWatcher - INFO - Created email file: EMAIL_20260207_213652_Delivery_Status_Notification.md (Priority: normal)
+2026-02-07 21:36:52,704 - GmailWatcher - INFO -   + EMAIL_20260207_213652_Delivery_Status_Notification.md
+2026-02-07 21:36:53,204 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:37:53,209 - GmailWatcher - INFO - --- Check #414 ---
+2026-02-07 21:37:55,805 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:37:55,805 - GmailWatcher - INFO - No new emails
+2026-02-07 21:37:55,806 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:38:55,807 - GmailWatcher - INFO - --- Check #415 ---
+2026-02-07 21:38:58,896 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:38:58,896 - GmailWatcher - INFO - No new emails
+2026-02-07 21:38:58,897 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:39:58,898 - GmailWatcher - INFO - --- Check #416 ---
+2026-02-07 21:40:02,017 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:40:02,019 - GmailWatcher - INFO - No new emails
+2026-02-07 21:40:02,019 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:41:02,021 - GmailWatcher - INFO - --- Check #417 ---
+2026-02-07 21:41:05,348 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:41:05,348 - GmailWatcher - INFO - No new emails
+2026-02-07 21:41:05,348 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:42:05,351 - GmailWatcher - INFO - --- Check #418 ---
+2026-02-07 21:42:08,072 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:42:08,072 - GmailWatcher - INFO - No new emails
+2026-02-07 21:42:08,072 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:43:08,077 - GmailWatcher - INFO - --- Check #419 ---
+2026-02-07 21:43:12,000 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:43:12,000 - GmailWatcher - INFO - No new emails
+2026-02-07 21:43:12,000 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:44:12,002 - GmailWatcher - INFO - --- Check #420 ---
+2026-02-07 21:44:16,094 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:44:16,094 - GmailWatcher - INFO - No new emails
+2026-02-07 21:44:16,094 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:45:16,097 - GmailWatcher - INFO - --- Check #421 ---
+2026-02-07 21:45:18,575 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:45:18,580 - GmailWatcher - INFO - No new emails
+2026-02-07 21:45:18,580 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:46:18,581 - GmailWatcher - INFO - --- Check #422 ---
+2026-02-07 21:46:21,351 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:46:21,351 - GmailWatcher - INFO - No new emails
+2026-02-07 21:46:21,351 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:47:21,354 - GmailWatcher - INFO - --- Check #423 ---
+2026-02-07 21:47:23,552 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:47:23,553 - GmailWatcher - INFO - No new emails
+2026-02-07 21:47:23,553 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:48:23,554 - GmailWatcher - INFO - --- Check #424 ---
+2026-02-07 21:48:25,870 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:48:25,870 - GmailWatcher - INFO - No new emails
+2026-02-07 21:48:25,870 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:49:25,872 - GmailWatcher - INFO - --- Check #425 ---
+2026-02-07 21:49:28,222 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:49:28,222 - GmailWatcher - INFO - No new emails
+2026-02-07 21:49:28,222 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:50:28,226 - GmailWatcher - INFO - --- Check #426 ---
+2026-02-07 21:50:31,213 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:50:31,213 - GmailWatcher - INFO - No new emails
+2026-02-07 21:50:31,213 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:51:31,214 - GmailWatcher - INFO - --- Check #427 ---
+2026-02-07 21:51:37,739 - GmailWatcher - INFO - Found 1 unread emails, 1 new
+2026-02-07 21:51:37,739 - GmailWatcher - INFO - Processing 1 new emails...
+2026-02-07 21:51:37,741 - GmailWatcher - INFO - Created email file: EMAIL_20260207_215137_You_have_an_invitation.md (Priority: normal)
+2026-02-07 21:51:37,743 - GmailWatcher - INFO -   + EMAIL_20260207_215137_You_have_an_invitation.md
+2026-02-07 21:51:38,244 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:52:38,245 - GmailWatcher - INFO - --- Check #428 ---
+2026-02-07 21:52:40,958 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:52:40,958 - GmailWatcher - INFO - No new emails
+2026-02-07 21:52:40,958 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:53:40,960 - GmailWatcher - INFO - --- Check #429 ---
+2026-02-07 21:53:44,063 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:53:44,063 - GmailWatcher - INFO - No new emails
+2026-02-07 21:53:44,063 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:54:44,065 - GmailWatcher - INFO - --- Check #430 ---
+2026-02-07 21:54:46,247 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:54:46,247 - GmailWatcher - INFO - No new emails
+2026-02-07 21:54:46,247 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:55:46,248 - GmailWatcher - INFO - --- Check #431 ---
+2026-02-07 21:55:48,823 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:55:48,823 - GmailWatcher - INFO - No new emails
+2026-02-07 21:55:48,823 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:56:48,824 - GmailWatcher - INFO - --- Check #432 ---
+2026-02-07 21:56:51,134 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:56:51,134 - GmailWatcher - INFO - No new emails
+2026-02-07 21:56:51,135 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:57:51,135 - GmailWatcher - INFO - --- Check #433 ---
+2026-02-07 21:57:53,933 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:57:53,933 - GmailWatcher - INFO - No new emails
+2026-02-07 21:57:53,933 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:58:53,934 - GmailWatcher - INFO - --- Check #434 ---
+2026-02-07 21:58:56,469 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:58:56,469 - GmailWatcher - INFO - No new emails
+2026-02-07 21:58:56,469 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 21:59:56,471 - GmailWatcher - INFO - --- Check #435 ---
+2026-02-07 21:59:58,965 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 21:59:58,965 - GmailWatcher - INFO - No new emails
+2026-02-07 21:59:58,965 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:00:58,968 - GmailWatcher - INFO - --- Check #436 ---
+2026-02-07 22:01:01,441 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:01:01,441 - GmailWatcher - INFO - No new emails
+2026-02-07 22:01:01,441 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:02:01,442 - GmailWatcher - INFO - --- Check #437 ---
+2026-02-07 22:02:04,329 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:02:04,329 - GmailWatcher - INFO - No new emails
+2026-02-07 22:02:04,329 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:03:04,329 - GmailWatcher - INFO - --- Check #438 ---
+2026-02-07 22:03:06,734 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:03:06,734 - GmailWatcher - INFO - No new emails
+2026-02-07 22:03:06,734 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:04:06,736 - GmailWatcher - INFO - --- Check #439 ---
+2026-02-07 22:04:10,092 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:04:10,093 - GmailWatcher - INFO - No new emails
+2026-02-07 22:04:10,094 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:05:10,095 - GmailWatcher - INFO - --- Check #440 ---
+2026-02-07 22:05:12,793 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:05:12,794 - GmailWatcher - INFO - No new emails
+2026-02-07 22:05:12,794 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:06:12,796 - GmailWatcher - INFO - --- Check #441 ---
+2026-02-07 22:06:15,994 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:06:15,994 - GmailWatcher - INFO - No new emails
+2026-02-07 22:06:15,994 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:07:15,994 - GmailWatcher - INFO - --- Check #442 ---
+2026-02-07 22:07:18,445 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:07:18,445 - GmailWatcher - INFO - No new emails
+2026-02-07 22:07:18,445 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:08:18,446 - GmailWatcher - INFO - --- Check #443 ---
+2026-02-07 22:08:20,742 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:08:20,742 - GmailWatcher - INFO - No new emails
+2026-02-07 22:08:20,742 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:09:20,744 - GmailWatcher - INFO - --- Check #444 ---
+2026-02-07 22:09:23,291 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:09:23,291 - GmailWatcher - INFO - No new emails
+2026-02-07 22:09:23,294 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:10:23,295 - GmailWatcher - INFO - --- Check #445 ---
+2026-02-07 22:10:25,073 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:10:25,073 - GmailWatcher - INFO - No new emails
+2026-02-07 22:10:25,073 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:11:25,079 - GmailWatcher - INFO - --- Check #446 ---
+2026-02-07 22:11:27,372 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:11:27,373 - GmailWatcher - INFO - No new emails
+2026-02-07 22:11:27,373 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:12:27,375 - GmailWatcher - INFO - --- Check #447 ---
+2026-02-07 22:12:29,831 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:12:29,831 - GmailWatcher - INFO - No new emails
+2026-02-07 22:12:29,831 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:13:29,832 - GmailWatcher - INFO - --- Check #448 ---
+2026-02-07 22:13:33,565 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:13:33,565 - GmailWatcher - INFO - No new emails
+2026-02-07 22:13:33,565 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:14:33,567 - GmailWatcher - INFO - --- Check #449 ---
+2026-02-07 22:14:36,528 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:14:36,528 - GmailWatcher - INFO - No new emails
+2026-02-07 22:14:36,528 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:15:36,532 - GmailWatcher - INFO - --- Check #450 ---
+2026-02-07 22:15:50,170 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:15:50,170 - GmailWatcher - INFO - No new emails
+2026-02-07 22:15:50,173 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:16:50,173 - GmailWatcher - INFO - --- Check #451 ---
+2026-02-07 22:16:52,542 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:16:52,542 - GmailWatcher - INFO - No new emails
+2026-02-07 22:16:52,542 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:17:52,543 - GmailWatcher - INFO - --- Check #452 ---
+2026-02-07 22:17:54,985 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:17:54,985 - GmailWatcher - INFO - No new emails
+2026-02-07 22:17:54,985 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:18:54,989 - GmailWatcher - INFO - --- Check #453 ---
+2026-02-07 22:18:58,075 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:18:58,075 - GmailWatcher - INFO - No new emails
+2026-02-07 22:18:58,075 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:19:58,077 - GmailWatcher - INFO - --- Check #454 ---
+2026-02-07 22:20:01,163 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:20:01,163 - GmailWatcher - INFO - No new emails
+2026-02-07 22:20:01,163 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:21:01,165 - GmailWatcher - INFO - --- Check #455 ---
+2026-02-07 22:21:05,937 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:21:05,937 - GmailWatcher - INFO - No new emails
+2026-02-07 22:21:05,937 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:22:05,938 - GmailWatcher - INFO - --- Check #456 ---
+2026-02-07 22:22:07,805 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:22:07,805 - GmailWatcher - INFO - No new emails
+2026-02-07 22:22:07,805 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:23:07,806 - GmailWatcher - INFO - --- Check #457 ---
+2026-02-07 22:23:10,114 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:23:10,114 - GmailWatcher - INFO - No new emails
+2026-02-07 22:23:10,114 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:24:10,116 - GmailWatcher - INFO - --- Check #458 ---
+2026-02-07 22:24:11,985 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:24:11,985 - GmailWatcher - INFO - No new emails
+2026-02-07 22:24:11,987 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:25:11,987 - GmailWatcher - INFO - --- Check #459 ---
+2026-02-07 22:25:13,594 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:25:13,594 - GmailWatcher - INFO - No new emails
+2026-02-07 22:25:13,603 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:26:13,604 - GmailWatcher - INFO - --- Check #460 ---
+2026-02-07 22:26:15,752 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:26:15,752 - GmailWatcher - INFO - No new emails
+2026-02-07 22:26:15,752 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:27:15,755 - GmailWatcher - INFO - --- Check #461 ---
+2026-02-07 22:27:17,137 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:27:17,137 - GmailWatcher - INFO - No new emails
+2026-02-07 22:27:17,137 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:28:17,140 - GmailWatcher - INFO - --- Check #462 ---
+2026-02-07 22:28:18,574 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:28:18,574 - GmailWatcher - INFO - No new emails
+2026-02-07 22:28:18,574 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:29:18,574 - GmailWatcher - INFO - --- Check #463 ---
+2026-02-07 22:29:20,570 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:29:20,570 - GmailWatcher - INFO - No new emails
+2026-02-07 22:29:20,570 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:30:20,573 - GmailWatcher - INFO - --- Check #464 ---
+2026-02-07 22:30:22,413 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:30:22,413 - GmailWatcher - INFO - No new emails
+2026-02-07 22:30:22,413 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:31:22,414 - GmailWatcher - INFO - --- Check #465 ---
+2026-02-07 22:31:24,819 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:31:24,819 - GmailWatcher - INFO - No new emails
+2026-02-07 22:31:24,819 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:32:24,820 - GmailWatcher - INFO - --- Check #466 ---
+2026-02-07 22:32:27,256 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:32:27,256 - GmailWatcher - INFO - No new emails
+2026-02-07 22:32:27,256 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:33:27,258 - GmailWatcher - INFO - --- Check #467 ---
+2026-02-07 22:33:29,010 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:33:29,010 - GmailWatcher - INFO - No new emails
+2026-02-07 22:33:29,010 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:34:29,011 - GmailWatcher - INFO - --- Check #468 ---
+2026-02-07 22:34:34,293 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:34:34,293 - GmailWatcher - INFO - No new emails
+2026-02-07 22:34:34,293 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:35:34,296 - GmailWatcher - INFO - --- Check #469 ---
+2026-02-07 22:35:37,068 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:35:37,069 - GmailWatcher - INFO - No new emails
+2026-02-07 22:35:37,069 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:36:37,070 - GmailWatcher - INFO - --- Check #470 ---
+2026-02-07 22:36:40,251 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:36:40,251 - GmailWatcher - INFO - No new emails
+2026-02-07 22:36:40,251 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:37:40,254 - GmailWatcher - INFO - --- Check #471 ---
+2026-02-07 22:37:43,060 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:37:43,060 - GmailWatcher - INFO - No new emails
+2026-02-07 22:37:43,060 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:38:43,064 - GmailWatcher - INFO - --- Check #472 ---
+2026-02-07 22:38:45,575 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:38:45,575 - GmailWatcher - INFO - No new emails
+2026-02-07 22:38:45,581 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:39:45,582 - GmailWatcher - INFO - --- Check #473 ---
+2026-02-07 22:39:48,431 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:39:48,431 - GmailWatcher - INFO - No new emails
+2026-02-07 22:39:48,431 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:40:48,441 - GmailWatcher - INFO - --- Check #474 ---
+2026-02-07 22:40:51,396 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:40:51,396 - GmailWatcher - INFO - No new emails
+2026-02-07 22:40:51,396 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:41:51,399 - GmailWatcher - INFO - --- Check #475 ---
+2026-02-07 22:41:54,350 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:41:54,350 - GmailWatcher - INFO - No new emails
+2026-02-07 22:41:54,350 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:42:54,354 - GmailWatcher - INFO - --- Check #476 ---
+2026-02-07 22:42:57,273 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:42:57,275 - GmailWatcher - INFO - No new emails
+2026-02-07 22:42:57,275 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:43:57,276 - GmailWatcher - INFO - --- Check #477 ---
+2026-02-07 22:43:59,952 - GmailWatcher - ERROR - Error checking for updates: command: SELECT => socket error: EOF
+2026-02-07 22:43:59,954 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-07 22:44:10,060 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-07 22:44:10,067 - GmailWatcher - INFO - No new emails
+2026-02-07 22:44:10,067 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-07 22:45:10,069 - GmailWatcher - INFO - --- Check #478 ---
+2026-02-07 22:45:14,476 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-07 22:45:14,478 - GmailWatcher - INFO - No new emails
+2026-02-07 22:45:14,478 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 01:08:41,884 - GmailWatcher - INFO - --- Check #479 ---
+2026-02-08 01:08:41,885 - GmailWatcher - ERROR - Error checking for updates: socket error: EOF occurred in violation of protocol (_ssl.c:2427)
+2026-02-08 01:08:42,001 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-08 01:08:42,464 - GmailWatcher - ERROR - Connection error: [Errno 11001] getaddrinfo failed
+2026-02-08 01:08:42,466 - GmailWatcher - INFO - No new emails
+2026-02-08 01:08:42,466 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:31:20,480 - GmailWatcher - INFO - --- Check #480 ---
+2026-02-08 08:31:20,480 - GmailWatcher - ERROR - Error checking for updates: 'NoneType' object has no attribute 'select'
+2026-02-08 08:31:20,480 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-08 08:31:20,482 - GmailWatcher - ERROR - Connection error: [Errno 11001] getaddrinfo failed
+2026-02-08 08:31:20,484 - GmailWatcher - INFO - No new emails
+2026-02-08 08:31:20,484 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:32:23,832 - GmailWatcher - INFO - --- Check #481 ---
+2026-02-08 08:32:23,834 - GmailWatcher - ERROR - Error checking for updates: 'NoneType' object has no attribute 'select'
+2026-02-08 08:32:23,834 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-08 08:32:26,548 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-08 08:32:26,550 - GmailWatcher - INFO - No new emails
+2026-02-08 08:32:26,550 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:33:26,552 - GmailWatcher - INFO - --- Check #482 ---
+2026-02-08 08:34:03,761 - GmailWatcher - ERROR - Error checking for updates: command: SELECT => socket error: EOF
+2026-02-08 08:34:03,761 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-08 08:34:25,838 - GmailWatcher - ERROR - Connection error: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-02-08 08:34:25,842 - GmailWatcher - INFO - No new emails
+2026-02-08 08:34:25,842 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:35:25,843 - GmailWatcher - INFO - --- Check #483 ---
+2026-02-08 08:35:25,843 - GmailWatcher - ERROR - Error checking for updates: 'NoneType' object has no attribute 'select'
+2026-02-08 08:35:25,843 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-08 08:35:25,846 - GmailWatcher - ERROR - Connection error: [Errno 11001] getaddrinfo failed
+2026-02-08 08:35:25,849 - GmailWatcher - INFO - No new emails
+2026-02-08 08:35:25,849 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:36:25,850 - GmailWatcher - INFO - --- Check #484 ---
+2026-02-08 08:36:25,850 - GmailWatcher - ERROR - Error checking for updates: 'NoneType' object has no attribute 'select'
+2026-02-08 08:36:25,850 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-08 08:36:25,852 - GmailWatcher - ERROR - Connection error: [Errno 11001] getaddrinfo failed
+2026-02-08 08:36:25,852 - GmailWatcher - INFO - No new emails
+2026-02-08 08:36:25,855 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:37:25,856 - GmailWatcher - INFO - --- Check #485 ---
+2026-02-08 08:37:25,856 - GmailWatcher - ERROR - Error checking for updates: 'NoneType' object has no attribute 'select'
+2026-02-08 08:37:25,858 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-08 08:37:25,864 - GmailWatcher - ERROR - Connection error: [Errno 11001] getaddrinfo failed
+2026-02-08 08:37:25,864 - GmailWatcher - INFO - No new emails
+2026-02-08 08:37:25,864 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:38:25,866 - GmailWatcher - INFO - --- Check #486 ---
+2026-02-08 08:38:25,868 - GmailWatcher - ERROR - Error checking for updates: 'NoneType' object has no attribute 'select'
+2026-02-08 08:38:25,868 - GmailWatcher - INFO - Connecting to imap.gmail.com:993...
+2026-02-08 08:38:40,188 - GmailWatcher - INFO - Connected as aimoshahs@gmail.com
+2026-02-08 08:38:40,190 - GmailWatcher - INFO - No new emails
+2026-02-08 08:38:40,190 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:39:40,191 - GmailWatcher - INFO - --- Check #487 ---
+2026-02-08 08:39:49,107 - GmailWatcher - INFO - Found 5 unread emails, 5 new
+2026-02-08 08:39:49,107 - GmailWatcher - INFO - Processing 5 new emails...
+2026-02-08 08:39:49,123 - GmailWatcher - INFO - Created email file: EMAIL_20260208_083949_You_have_an_invitation.md (Priority: normal)
+2026-02-08 08:39:49,127 - GmailWatcher - INFO -   + EMAIL_20260208_083949_You_have_an_invitation.md
+2026-02-08 08:39:49,636 - GmailWatcher - INFO - Created email file: EMAIL_20260208_083949_You_have_an_invitation.md (Priority: normal)
+2026-02-08 08:39:49,642 - GmailWatcher - INFO -   + EMAIL_20260208_083949_You_have_an_invitation.md
+2026-02-08 08:39:50,145 - GmailWatcher - INFO - Created email file: EMAIL_20260208_083950_Muhammad_accepted_your_invitat.md (Priority: normal)
+2026-02-08 08:39:50,152 - GmailWatcher - INFO -   + EMAIL_20260208_083950_Muhammad_accepted_your_invitat.md
+2026-02-08 08:39:50,660 - GmailWatcher - INFO - Created email file: EMAIL_20260208_083950_Persistent_Memory_for_Claude_C.md (Priority: normal)
+2026-02-08 08:39:50,667 - GmailWatcher - INFO -   + EMAIL_20260208_083950_Persistent_Memory_for_Claude_C.md
+2026-02-08 08:39:51,173 - GmailWatcher - INFO - Created email file: EMAIL_20260208_083951_Upcoming_updates_to_your_Postm.md (Priority: normal)
+2026-02-08 08:39:51,175 - GmailWatcher - INFO -   + EMAIL_20260208_083951_Upcoming_updates_to_your_Postm.md
+2026-02-08 08:39:51,680 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:40:51,682 - GmailWatcher - INFO - --- Check #488 ---
+2026-02-08 08:40:54,110 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:40:54,110 - GmailWatcher - INFO - No new emails
+2026-02-08 08:40:54,110 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:41:54,114 - GmailWatcher - INFO - --- Check #489 ---
+2026-02-08 08:42:08,175 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:42:08,175 - GmailWatcher - INFO - No new emails
+2026-02-08 08:42:08,175 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:43:08,177 - GmailWatcher - INFO - --- Check #490 ---
+2026-02-08 08:43:08,725 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:43:08,725 - GmailWatcher - INFO - No new emails
+2026-02-08 08:43:08,725 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:44:08,727 - GmailWatcher - INFO - --- Check #491 ---
+2026-02-08 08:44:09,293 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:44:09,293 - GmailWatcher - INFO - No new emails
+2026-02-08 08:44:09,293 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:45:09,297 - GmailWatcher - INFO - --- Check #492 ---
+2026-02-08 08:45:12,767 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:45:12,767 - GmailWatcher - INFO - No new emails
+2026-02-08 08:45:12,767 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:46:12,770 - GmailWatcher - INFO - --- Check #493 ---
+2026-02-08 08:46:14,730 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:46:14,732 - GmailWatcher - INFO - No new emails
+2026-02-08 08:46:14,733 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:47:14,736 - GmailWatcher - INFO - --- Check #494 ---
+2026-02-08 08:47:15,505 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:47:15,505 - GmailWatcher - INFO - No new emails
+2026-02-08 08:47:15,505 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:48:15,507 - GmailWatcher - INFO - --- Check #495 ---
+2026-02-08 08:48:16,791 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:48:16,791 - GmailWatcher - INFO - No new emails
+2026-02-08 08:48:16,791 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:49:16,792 - GmailWatcher - INFO - --- Check #496 ---
+2026-02-08 08:49:20,304 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:49:20,305 - GmailWatcher - INFO - No new emails
+2026-02-08 08:49:20,306 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:50:20,307 - GmailWatcher - INFO - --- Check #497 ---
+2026-02-08 08:50:21,322 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:50:21,323 - GmailWatcher - INFO - No new emails
+2026-02-08 08:50:21,323 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:51:21,324 - GmailWatcher - INFO - --- Check #498 ---
+2026-02-08 08:51:21,895 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:51:21,895 - GmailWatcher - INFO - No new emails
+2026-02-08 08:51:21,897 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:52:21,899 - GmailWatcher - INFO - --- Check #499 ---
+2026-02-08 08:52:23,049 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:52:23,049 - GmailWatcher - INFO - No new emails
+2026-02-08 08:52:23,049 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:53:23,056 - GmailWatcher - INFO - --- Check #500 ---
+2026-02-08 08:53:23,659 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:53:23,660 - GmailWatcher - INFO - No new emails
+2026-02-08 08:53:23,660 - GmailWatcher - INFO - Sleeping for 60 seconds...
+2026-02-08 08:54:23,661 - GmailWatcher - INFO - --- Check #501 ---
+2026-02-08 08:54:24,232 - GmailWatcher - INFO - Found 0 unread emails, 0 new
+2026-02-08 08:54:24,232 - GmailWatcher - INFO - No new emails
+2026-02-08 08:54:24,237 - GmailWatcher - INFO - Sleeping for 60 seconds...
