@@ -1,5 +1,19 @@
 # My AI Dashboard
 
+## Watchers Status (Live)
+
+| Watcher | Status | Last Check |
+|---------|--------|------------|
+| Filesystem | 🟢 Running | Monitoring Vault/Inbox/ |
+| Gmail | 🟢 Running | 70+ emails processed |
+| Twitter | 🟢 Running | 20 mentions processed |
+| LinkedIn | 🟢 Running | Monitoring notifications |
+| WhatsApp | 🟡 Pending | Awaiting QR scan |
+
+**See [[Watchers_Status]] for full details**
+
+---
+
 ## Activity Log
 
 ### 2026-01-11 14:42:00

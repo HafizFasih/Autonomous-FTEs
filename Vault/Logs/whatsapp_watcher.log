@@ -1,0 +1,71 @@
+2026-02-07 14:33:25,266 - WhatsAppWatcher - INFO - Starting WhatsApp Watcher
+2026-02-07 14:33:25,266 - WhatsAppWatcher - INFO -   Session path: ./whatsapp_session
+2026-02-07 14:33:25,267 - WhatsAppWatcher - INFO -   Check interval: 60s
+2026-02-07 14:33:25,268 - WhatsAppWatcher - INFO -   Headless: False
+2026-02-07 14:33:25,269 - WhatsAppWatcher - INFO - Launching browser...
+2026-02-07 14:33:33,413 - WhatsAppWatcher - INFO - Opening WhatsApp Web...
+2026-02-07 14:33:41,912 - WhatsAppWatcher - INFO - Waiting for WhatsApp to load...
+2026-02-07 14:33:44,287 - WhatsAppWatcher - INFO - Loading WhatsApp... (2s)
+2026-02-07 14:33:46,401 - WhatsAppWatcher - INFO - Loading WhatsApp... (4s)
+2026-02-07 14:34:01,170 - WhatsAppWatcher - INFO - Loading WhatsApp... (6s)
+2026-02-07 14:34:03,305 - WhatsAppWatcher - INFO - Loading WhatsApp... (8s)
+2026-02-07 14:34:07,613 - WhatsAppWatcher - INFO - Loading WhatsApp... (10s)
+2026-02-07 14:34:07,838 - WhatsAppWatcher - INFO - ==================================================
+2026-02-07 14:34:07,838 - WhatsAppWatcher - INFO - QR CODE DISPLAYED - Please scan with your phone!
+2026-02-07 14:34:07,840 - WhatsAppWatcher - INFO - Open WhatsApp on your phone > Settings > Linked Devices > Link a Device
+2026-02-07 14:34:07,840 - WhatsAppWatcher - INFO - ==================================================
+2026-02-07 14:34:12,858 - WhatsAppWatcher - ERROR - Connection error: Page.query_selector: Target page, context or browser has been closed
+2026-02-07 14:34:12,859 - WhatsAppWatcher - ERROR - Failed to connect. Exiting.
+2026-02-07 14:35:22,139 - WhatsAppWatcher - INFO - Starting WhatsApp Watcher
+2026-02-07 14:35:22,141 - WhatsAppWatcher - INFO -   Session path: ./whatsapp_session
+2026-02-07 14:35:22,142 - WhatsAppWatcher - INFO -   Check interval: 60s
+2026-02-07 14:35:22,143 - WhatsAppWatcher - INFO -   Headless: False
+2026-02-07 14:35:22,143 - WhatsAppWatcher - INFO - Launching browser...
+2026-02-07 14:35:29,749 - WhatsAppWatcher - INFO - Opening WhatsApp Web...
+2026-02-07 14:35:35,090 - WhatsAppWatcher - INFO - Waiting for WhatsApp to load...
+2026-02-07 14:35:38,041 - WhatsAppWatcher - INFO - Loading WhatsApp... (2s)
+2026-02-07 14:35:40,576 - WhatsAppWatcher - INFO - Loading WhatsApp... (4s)
+2026-02-07 14:35:52,440 - WhatsAppWatcher - INFO - Loading WhatsApp... (6s)
+2026-02-07 14:35:54,514 - WhatsAppWatcher - INFO - Loading WhatsApp... (8s)
+2026-02-07 14:35:54,858 - WhatsAppWatcher - INFO - ==================================================
+2026-02-07 14:35:54,858 - WhatsAppWatcher - INFO - QR CODE DISPLAYED - Please scan with your phone!
+2026-02-07 14:35:54,859 - WhatsAppWatcher - INFO - Open WhatsApp on your phone > Settings > Linked Devices > Link a Device
+2026-02-07 14:35:54,859 - WhatsAppWatcher - INFO - ==================================================
+2026-02-07 14:35:59,896 - WhatsAppWatcher - INFO - Waiting for QR scan... (5s / 180s)
+2026-02-07 14:36:04,945 - WhatsAppWatcher - INFO - Waiting for QR scan... (10s / 180s)
+2026-02-07 14:36:10,009 - WhatsAppWatcher - INFO - Waiting for QR scan... (15s / 180s)
+2026-02-07 14:36:15,048 - WhatsAppWatcher - INFO - Waiting for QR scan... (20s / 180s)
+2026-02-07 14:36:20,092 - WhatsAppWatcher - INFO - Waiting for QR scan... (25s / 180s)
+2026-02-07 14:36:25,170 - WhatsAppWatcher - INFO - Waiting for QR scan... (30s / 180s)
+2026-02-07 14:36:30,411 - WhatsAppWatcher - INFO - Waiting for QR scan... (35s / 180s)
+2026-02-07 14:36:35,440 - WhatsAppWatcher - INFO - Waiting for QR scan... (40s / 180s)
+2026-02-07 14:36:40,475 - WhatsAppWatcher - INFO - Waiting for QR scan... (45s / 180s)
+2026-02-07 14:36:45,499 - WhatsAppWatcher - INFO - Waiting for QR scan... (50s / 180s)
+2026-02-07 14:36:50,525 - WhatsAppWatcher - INFO - Waiting for QR scan... (55s / 180s)
+2026-02-07 14:36:55,560 - WhatsAppWatcher - INFO - Waiting for QR scan... (60s / 180s)
+2026-02-07 14:37:00,589 - WhatsAppWatcher - INFO - Waiting for QR scan... (65s / 180s)
+2026-02-07 14:37:05,609 - WhatsAppWatcher - INFO - Waiting for QR scan... (70s / 180s)
+2026-02-07 14:37:10,784 - WhatsAppWatcher - INFO - Waiting for QR scan... (75s / 180s)
+2026-02-07 14:37:15,811 - WhatsAppWatcher - INFO - Waiting for QR scan... (80s / 180s)
+2026-02-07 14:37:20,859 - WhatsAppWatcher - INFO - Waiting for QR scan... (85s / 180s)
+2026-02-07 14:37:25,872 - WhatsAppWatcher - INFO - Waiting for QR scan... (90s / 180s)
+2026-02-07 14:37:30,923 - WhatsAppWatcher - INFO - Waiting for QR scan... (95s / 180s)
+2026-02-07 14:37:35,952 - WhatsAppWatcher - INFO - Waiting for QR scan... (100s / 180s)
+2026-02-07 14:37:41,009 - WhatsAppWatcher - INFO - Waiting for QR scan... (105s / 180s)
+2026-02-07 14:37:46,043 - WhatsAppWatcher - INFO - Waiting for QR scan... (110s / 180s)
+2026-02-07 14:37:51,066 - WhatsAppWatcher - INFO - Waiting for QR scan... (115s / 180s)
+2026-02-07 14:37:56,100 - WhatsAppWatcher - INFO - Waiting for QR scan... (120s / 180s)
+2026-02-07 14:38:01,133 - WhatsAppWatcher - INFO - Waiting for QR scan... (125s / 180s)
+2026-02-07 14:38:06,153 - WhatsAppWatcher - INFO - Waiting for QR scan... (130s / 180s)
+2026-02-07 14:38:11,188 - WhatsAppWatcher - INFO - Waiting for QR scan... (135s / 180s)
+2026-02-07 14:38:16,215 - WhatsAppWatcher - INFO - Waiting for QR scan... (140s / 180s)
+2026-02-07 14:38:21,236 - WhatsAppWatcher - INFO - Waiting for QR scan... (145s / 180s)
+2026-02-07 14:38:26,291 - WhatsAppWatcher - INFO - Waiting for QR scan... (150s / 180s)
+2026-02-07 14:38:31,313 - WhatsAppWatcher - INFO - Waiting for QR scan... (155s / 180s)
+2026-02-07 14:38:36,335 - WhatsAppWatcher - INFO - Waiting for QR scan... (160s / 180s)
+2026-02-07 14:38:41,360 - WhatsAppWatcher - INFO - Waiting for QR scan... (165s / 180s)
+2026-02-07 14:38:46,377 - WhatsAppWatcher - INFO - Waiting for QR scan... (170s / 180s)
+2026-02-07 14:38:51,399 - WhatsAppWatcher - INFO - Waiting for QR scan... (175s / 180s)
+2026-02-07 14:38:56,553 - WhatsAppWatcher - INFO - Waiting for QR scan... (180s / 180s)
+2026-02-07 14:38:56,556 - WhatsAppWatcher - ERROR - Timeout waiting for QR scan
+2026-02-07 14:38:56,556 - WhatsAppWatcher - ERROR - Failed to connect. Exiting.

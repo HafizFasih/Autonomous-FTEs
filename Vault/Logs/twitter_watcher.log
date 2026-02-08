@@ -1,0 +1,258 @@
+2026-02-07 14:07:52,973 - TwitterWatcher - INFO - Starting Twitter Watcher
+2026-02-07 14:07:52,974 - TwitterWatcher - INFO -   Check interval: 120s
+2026-02-07 14:07:52,974 - TwitterWatcher - INFO - Connecting to Twitter API...
+2026-02-07 14:07:53,509 - TwitterWatcher - INFO - Connected as @stelalvna
+2026-02-07 14:07:53,510 - TwitterWatcher - INFO - --- Check #1 ---
+2026-02-07 14:07:54,111 - TwitterWatcher - INFO - Found 20 new mentions
+2026-02-07 14:07:54,112 - TwitterWatcher - INFO - Processing 20 items...
+2026-02-07 14:07:54,114 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140754_ronna256_fundingpips_Khldfx.md
+2026-02-07 14:07:54,117 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140754_ronna256_fundingpips_Khldfx.md
+2026-02-07 14:07:54,621 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140754_ronna256_fundingpips_Khldfx.md
+2026-02-07 14:07:54,624 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140754_ronna256_fundingpips_Khldfx.md
+2026-02-07 14:07:55,126 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140755_birsah_fx01_TRADERS_LONGE_a.md
+2026-02-07 14:07:55,129 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140755_birsah_fx01_TRADERS_LONGE_a.md
+2026-02-07 14:07:55,633 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140755_Theoneft_Rexy_fx_acefx01_b.md
+2026-02-07 14:07:55,636 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140755_Theoneft_Rexy_fx_acefx01_b.md
+2026-02-07 14:07:56,139 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140756_erti_trades_fundingpips_avi.md
+2026-02-07 14:07:56,142 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140756_erti_trades_fundingpips_avi.md
+2026-02-07 14:07:56,647 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140756_Greckothe1_fundingpips_avik.md
+2026-02-07 14:07:56,650 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140756_Greckothe1_fundingpips_avik.md
+2026-02-07 14:07:57,153 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140757_funnydex_bsc_Zolaarchie270.md
+2026-02-07 14:07:57,156 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140757_funnydex_bsc_Zolaarchie270.md
+2026-02-07 14:07:57,662 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140757_fundingpips_Best_feature_Fle.md
+2026-02-07 14:07:57,664 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140757_fundingpips_Best_feature_Fle.md
+2026-02-07 14:07:58,168 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140758_PropClubIO_DariusSser31850.md
+2026-02-07 14:07:58,171 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140758_PropClubIO_DariusSser31850.md
+2026-02-07 14:07:58,673 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140758_tinaishey_EquityEdgeUK_Equi.md
+2026-02-07 14:07:58,677 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140758_tinaishey_EquityEdgeUK_Equi.md
+2026-02-07 14:07:59,179 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140759_tinaishey_BlueGuardiancom_r.md
+2026-02-07 14:07:59,181 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140759_tinaishey_BlueGuardiancom_r.md
+2026-02-07 14:07:59,684 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140759_TradeWithErti_fundingpips_a.md
+2026-02-07 14:07:59,687 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140759_TradeWithErti_fundingpips_a.md
+2026-02-07 14:08:00,192 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140800__xprof_bamlangostelalvna.md
+2026-02-07 14:08:00,195 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140800__xprof_bamlangostelalvna.md
+2026-02-07 14:08:00,699 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140800_InvestorBateon_stelalvna_Z.md
+2026-02-07 14:08:00,702 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140800_InvestorBateon_stelalvna_Z.md
+2026-02-07 14:08:01,206 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140801_TradeWithErti_fundingpips_a.md
+2026-02-07 14:08:01,210 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140801_TradeWithErti_fundingpips_a.md
+2026-02-07 14:08:01,714 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140801_BigBirdX__Zolaarchie270_ba.md
+2026-02-07 14:08:01,717 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140801_BigBirdX__Zolaarchie270_ba.md
+2026-02-07 14:08:02,221 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140802_ronna256_bamlango_stelalvna.md
+2026-02-07 14:08:02,228 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140802_ronna256_bamlango_stelalvna.md
+2026-02-07 14:08:02,732 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140802_trustedprophub_support_tph.md
+2026-02-07 14:08:02,737 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140802_trustedprophub_support_tph.md
+2026-02-07 14:08:03,242 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140803_Simple_BoyFx_atsfunded_Bout.md
+2026-02-07 14:08:03,246 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140803_Simple_BoyFx_atsfunded_Bout.md
+2026-02-07 14:08:03,750 - TwitterWatcher - INFO - Created: TWITTER_MENTION_20260207_140803_avikkfp_stelalvna_bamlango.md
+2026-02-07 14:08:03,753 - TwitterWatcher - INFO -   + TWITTER_MENTION_20260207_140803_avikkfp_stelalvna_bamlango.md
+2026-02-07 14:08:04,254 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 14:10:04,256 - TwitterWatcher - INFO - --- Check #2 ---
+2026-02-07 14:10:04,665 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 770 seconds.
+2026-02-07 14:22:57,019 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 14:22:57,021 - TwitterWatcher - INFO - No new mentions
+2026-02-07 14:22:57,022 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 14:24:57,022 - TwitterWatcher - INFO - --- Check #3 ---
+2026-02-07 14:24:57,487 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 14:37:59,439 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 14:37:59,443 - TwitterWatcher - INFO - No new mentions
+2026-02-07 14:37:59,443 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 14:39:59,444 - TwitterWatcher - INFO - --- Check #4 ---
+2026-02-07 14:39:59,823 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 781 seconds.
+2026-02-07 14:53:02,498 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 14:53:02,503 - TwitterWatcher - INFO - No new mentions
+2026-02-07 14:53:02,504 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 14:55:02,506 - TwitterWatcher - INFO - --- Check #5 ---
+2026-02-07 14:55:03,093 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 15:08:03,761 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 15:08:03,762 - TwitterWatcher - INFO - No new mentions
+2026-02-07 15:08:03,763 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 15:10:03,763 - TwitterWatcher - INFO - --- Check #6 ---
+2026-02-07 15:10:04,202 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 15:23:07,134 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 15:23:07,134 - TwitterWatcher - INFO - No new mentions
+2026-02-07 15:23:07,134 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 15:25:07,136 - TwitterWatcher - INFO - --- Check #7 ---
+2026-02-07 15:25:07,590 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 15:38:08,932 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 15:38:08,934 - TwitterWatcher - INFO - No new mentions
+2026-02-07 15:38:08,934 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 15:40:08,973 - TwitterWatcher - INFO - --- Check #8 ---
+2026-02-07 15:40:09,802 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 15:53:11,189 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 15:53:11,190 - TwitterWatcher - INFO - No new mentions
+2026-02-07 15:53:11,191 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 15:55:11,192 - TwitterWatcher - INFO - --- Check #9 ---
+2026-02-07 15:55:11,698 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 16:08:13,803 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 16:08:13,806 - TwitterWatcher - INFO - No new mentions
+2026-02-07 16:08:13,807 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 16:10:13,808 - TwitterWatcher - INFO - --- Check #10 ---
+2026-02-07 16:10:33,419 - TwitterWatcher - ERROR - Error fetching mentions: 522 <none>
+2026-02-07 16:10:33,420 - TwitterWatcher - INFO - No new mentions
+2026-02-07 16:10:33,420 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 16:12:33,422 - TwitterWatcher - INFO - --- Check #11 ---
+2026-02-07 16:12:34,019 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 640 seconds.
+2026-02-07 16:23:15,020 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 16:23:15,023 - TwitterWatcher - INFO - No new mentions
+2026-02-07 16:23:15,024 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 16:25:15,025 - TwitterWatcher - INFO - --- Check #12 ---
+2026-02-07 16:25:15,519 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 16:38:17,606 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 16:38:17,607 - TwitterWatcher - INFO - No new mentions
+2026-02-07 16:38:17,607 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 16:40:17,608 - TwitterWatcher - INFO - --- Check #13 ---
+2026-02-07 16:40:18,034 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 17:02:59,062 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 17:02:59,065 - TwitterWatcher - INFO - No new mentions
+2026-02-07 17:02:59,065 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 17:04:59,067 - TwitterWatcher - INFO - --- Check #14 ---
+2026-02-07 17:04:59,488 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 17:18:00,298 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 17:18:00,298 - TwitterWatcher - INFO - No new mentions
+2026-02-07 17:18:00,299 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 17:20:00,300 - TwitterWatcher - INFO - --- Check #15 ---
+2026-02-07 17:20:00,682 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 781 seconds.
+2026-02-07 17:33:23,365 - TwitterWatcher - ERROR - Unexpected error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-02-07 17:33:23,367 - TwitterWatcher - INFO - No new mentions
+2026-02-07 17:33:23,367 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 17:35:23,369 - TwitterWatcher - INFO - --- Check #16 ---
+2026-02-07 17:35:24,095 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 17:35:24,096 - TwitterWatcher - INFO - No new mentions
+2026-02-07 17:35:24,096 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 17:37:24,099 - TwitterWatcher - INFO - --- Check #17 ---
+2026-02-07 17:37:24,617 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 781 seconds.
+2026-02-07 17:50:26,863 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 17:50:26,863 - TwitterWatcher - INFO - No new mentions
+2026-02-07 17:50:26,864 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 17:52:26,864 - TwitterWatcher - INFO - --- Check #18 ---
+2026-02-07 17:52:27,317 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 18:05:28,866 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 18:05:28,870 - TwitterWatcher - INFO - No new mentions
+2026-02-07 18:05:28,870 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 18:07:28,871 - TwitterWatcher - INFO - --- Check #19 ---
+2026-02-07 18:07:29,441 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 18:20:30,055 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 18:20:30,056 - TwitterWatcher - INFO - No new mentions
+2026-02-07 18:20:30,056 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 18:22:30,057 - TwitterWatcher - INFO - --- Check #20 ---
+2026-02-07 18:22:30,460 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 781 seconds.
+2026-02-07 18:35:34,306 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 18:35:34,307 - TwitterWatcher - INFO - No new mentions
+2026-02-07 18:35:34,307 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 18:37:34,308 - TwitterWatcher - INFO - --- Check #21 ---
+2026-02-07 18:37:34,680 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 779 seconds.
+2026-02-07 18:50:34,339 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 18:50:34,339 - TwitterWatcher - INFO - No new mentions
+2026-02-07 18:50:34,348 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 18:57:28,753 - TwitterWatcher - INFO - --- Check #22 ---
+2026-02-07 18:57:29,217 - TwitterWatcher - ERROR - Unexpected error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-02-07 18:57:29,218 - TwitterWatcher - INFO - No new mentions
+2026-02-07 18:57:29,218 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 18:59:29,219 - TwitterWatcher - INFO - --- Check #23 ---
+2026-02-07 18:59:29,723 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 366 seconds.
+2026-02-07 19:10:20,283 - TwitterWatcher - ERROR - Unexpected error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-02-07 19:10:20,284 - TwitterWatcher - INFO - No new mentions
+2026-02-07 19:10:20,284 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 19:12:20,285 - TwitterWatcher - INFO - --- Check #24 ---
+2026-02-07 19:12:20,886 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 19:12:20,886 - TwitterWatcher - INFO - No new mentions
+2026-02-07 19:12:20,886 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 19:14:20,889 - TwitterWatcher - INFO - --- Check #25 ---
+2026-02-07 19:14:21,261 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 19:31:38,365 - TwitterWatcher - ERROR - Error fetching mentions: 522 <none>
+2026-02-07 19:31:38,367 - TwitterWatcher - INFO - No new mentions
+2026-02-07 19:31:38,367 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 19:33:38,370 - TwitterWatcher - INFO - --- Check #26 ---
+2026-02-07 19:33:39,285 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 19:33:39,288 - TwitterWatcher - INFO - No new mentions
+2026-02-07 19:33:39,288 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 19:35:39,289 - TwitterWatcher - INFO - --- Check #27 ---
+2026-02-07 19:35:40,333 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 779 seconds.
+2026-02-07 19:48:39,992 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 19:48:39,992 - TwitterWatcher - INFO - No new mentions
+2026-02-07 19:48:39,992 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 19:50:39,996 - TwitterWatcher - INFO - --- Check #28 ---
+2026-02-07 19:50:40,442 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 20:03:41,116 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 20:03:41,116 - TwitterWatcher - INFO - No new mentions
+2026-02-07 20:03:41,116 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 20:05:41,119 - TwitterWatcher - INFO - --- Check #29 ---
+2026-02-07 20:05:41,720 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 781 seconds.
+2026-02-07 20:18:43,651 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 20:18:43,651 - TwitterWatcher - INFO - No new mentions
+2026-02-07 20:18:43,651 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 20:20:43,654 - TwitterWatcher - INFO - --- Check #30 ---
+2026-02-07 20:20:44,077 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 20:33:46,711 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 20:33:46,711 - TwitterWatcher - INFO - No new mentions
+2026-02-07 20:33:46,711 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 20:35:46,717 - TwitterWatcher - INFO - --- Check #31 ---
+2026-02-07 20:35:47,843 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 20:49:02,403 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 20:49:02,403 - TwitterWatcher - INFO - No new mentions
+2026-02-07 20:49:02,403 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 20:51:02,408 - TwitterWatcher - INFO - --- Check #32 ---
+2026-02-07 20:51:04,279 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 778 seconds.
+2026-02-07 21:04:05,798 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 21:04:05,799 - TwitterWatcher - INFO - No new mentions
+2026-02-07 21:04:05,799 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 21:06:05,800 - TwitterWatcher - INFO - --- Check #33 ---
+2026-02-07 21:06:06,988 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 780 seconds.
+2026-02-07 21:19:12,521 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 21:19:12,524 - TwitterWatcher - INFO - No new mentions
+2026-02-07 21:19:12,525 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 21:21:12,527 - TwitterWatcher - INFO - --- Check #34 ---
+2026-02-07 21:21:13,930 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 779 seconds.
+2026-02-07 21:34:17,885 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 21:34:17,893 - TwitterWatcher - INFO - No new mentions
+2026-02-07 21:34:17,893 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 21:36:17,896 - TwitterWatcher - INFO - --- Check #35 ---
+2026-02-07 21:36:19,347 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 778 seconds.
+2026-02-07 21:49:21,493 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 21:49:21,493 - TwitterWatcher - INFO - No new mentions
+2026-02-07 21:49:21,493 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 21:51:21,499 - TwitterWatcher - INFO - --- Check #36 ---
+2026-02-07 21:51:22,996 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 779 seconds.
+2026-02-07 22:04:27,512 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 22:04:27,514 - TwitterWatcher - INFO - No new mentions
+2026-02-07 22:04:27,514 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 22:06:27,516 - TwitterWatcher - INFO - --- Check #37 ---
+2026-02-07 22:06:29,099 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 778 seconds.
+2026-02-07 22:19:34,616 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 22:19:34,616 - TwitterWatcher - INFO - No new mentions
+2026-02-07 22:19:34,618 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 22:21:34,618 - TwitterWatcher - INFO - --- Check #38 ---
+2026-02-07 22:21:55,411 - TwitterWatcher - ERROR - Error fetching mentions: 522 <none>
+2026-02-07 22:21:55,412 - TwitterWatcher - INFO - No new mentions
+2026-02-07 22:21:55,412 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 22:23:55,413 - TwitterWatcher - INFO - --- Check #39 ---
+2026-02-07 22:23:56,581 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 638 seconds.
+2026-02-07 22:34:39,491 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-07 22:34:39,496 - TwitterWatcher - INFO - No new mentions
+2026-02-07 22:34:39,497 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-07 22:36:39,499 - TwitterWatcher - INFO - --- Check #40 ---
+2026-02-07 22:36:41,260 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 778 seconds.
+2026-02-08 08:31:10,151 - TwitterWatcher - ERROR - Unexpected error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/1720442110200197120/mentions?max_results=20&tweet.fields=created_at%2Cauthor_id%2Cconversation_id%2Ctext&user.fields=username%2Cname&expansions=author_id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C03B6371D0>: Failed to resolve 'api.twitter.com' ([Errno 11001] getaddrinfo failed)"))
+2026-02-08 08:31:10,205 - TwitterWatcher - INFO - No new mentions
+2026-02-08 08:31:10,232 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-08 08:33:13,582 - TwitterWatcher - INFO - --- Check #41 ---
+2026-02-08 08:33:25,658 - TwitterWatcher - ERROR - Unexpected error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/1720442110200197120/mentions?max_results=20&tweet.fields=created_at%2Cauthor_id%2Cconversation_id%2Ctext&user.fields=username%2Cname&expansions=author_id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C03B631F10>: Failed to resolve 'api.twitter.com' ([Errno 11001] getaddrinfo failed)"))
+2026-02-08 08:33:25,661 - TwitterWatcher - INFO - No new mentions
+2026-02-08 08:33:25,661 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-08 08:35:25,663 - TwitterWatcher - INFO - --- Check #42 ---
+2026-02-08 08:35:25,809 - TwitterWatcher - ERROR - Unexpected error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/1720442110200197120/mentions?max_results=20&tweet.fields=created_at%2Cauthor_id%2Cconversation_id%2Ctext&user.fields=username%2Cname&expansions=author_id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C03B631F10>: Failed to resolve 'api.twitter.com' ([Errno 11001] getaddrinfo failed)"))
+2026-02-08 08:35:25,809 - TwitterWatcher - INFO - No new mentions
+2026-02-08 08:35:25,809 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-08 08:37:25,812 - TwitterWatcher - INFO - --- Check #43 ---
+2026-02-08 08:37:25,830 - TwitterWatcher - ERROR - Unexpected error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/users/1720442110200197120/mentions?max_results=20&tweet.fields=created_at%2Cauthor_id%2Cconversation_id%2Ctext&user.fields=username%2Cname&expansions=author_id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C03B630AD0>: Failed to resolve 'api.twitter.com' ([Errno 11001] getaddrinfo failed)"))
+2026-02-08 08:37:25,835 - TwitterWatcher - INFO - No new mentions
+2026-02-08 08:37:25,835 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-08 08:39:25,837 - TwitterWatcher - INFO - --- Check #44 ---
+2026-02-08 08:39:30,662 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-08 08:39:30,662 - TwitterWatcher - INFO - No new mentions
+2026-02-08 08:39:30,662 - TwitterWatcher - INFO - Sleeping for 120 seconds...
+2026-02-08 08:41:30,664 - TwitterWatcher - INFO - --- Check #45 ---
+2026-02-08 08:41:44,162 - tweepy.client - WARNING - Rate limit exceeded. Sleeping for 764 seconds.
+2026-02-08 08:54:30,586 - TwitterWatcher - INFO - Found 0 new mentions
+2026-02-08 08:54:30,589 - TwitterWatcher - INFO - No new mentions
+2026-02-08 08:54:30,589 - TwitterWatcher - INFO - Sleeping for 120 seconds...
